@@ -23,6 +23,8 @@
         "rewards": [
           {
             "itemHash": "6BAD5D2B",
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": "iky040040",
             "itemKey": "iky040040",
             "nameJa": "大けいけんちだま",
             "nameEn": "Large Experience Orb",
@@ -31,13 +33,16 @@
             "descriptionEn": "Once you see it, you will be able to see the world three times over. A jewel that sparkles with brilliance.",
             "descriptionEnStatus": "machine_draft",
             "descriptionEnNotes": "Yaps local translation draft",
-            "itemTypeOrSlot": 0,
+            "rawRewardTypeOrSlot": 0,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": 30,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
             "resolutionStatus": "parsed_item_config_match"
           },
           {
             "itemHash": "56CD749B",
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": "iky050040",
             "itemKey": "iky050040",
             "nameJa": "金のこけし",
             "nameEn": "Gold Kokeshi",
@@ -46,13 +51,16 @@
             "descriptionEn": "A shining doll made of pure gold. It can be sold for a huge amount of money.",
             "descriptionEnStatus": "machine_draft",
             "descriptionEnNotes": "Yaps local translation draft",
-            "itemTypeOrSlot": 0,
+            "rawRewardTypeOrSlot": 0,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": 30,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
             "resolutionStatus": "parsed_item_config_match"
           },
           {
             "itemHash": "198CE25C",
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": "iky050030",
             "itemKey": "iky050030",
             "nameJa": "銀のこけし",
             "nameEn": "Silver Kokeshi",
@@ -61,13 +69,16 @@
             "descriptionEn": "Cool Kokeshi made of silver. It can be sold for a decent amount.",
             "descriptionEnStatus": "machine_draft",
             "descriptionEnNotes": "Yaps local translation draft",
-            "itemTypeOrSlot": 0,
+            "rawRewardTypeOrSlot": 0,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": 25,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
             "resolutionStatus": "parsed_item_config_match"
           },
           {
             "itemHash": "F51775DD",
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": "iky010020",
             "itemKey": "iky010020",
             "nameJa": "にが～い漢方",
             "nameEn": "Bitter~ Herbal Medicine",
@@ -76,13 +87,16 @@
             "descriptionEn": "A very delicious herbal medicine made by a master. It makes even fainted monsters and humans jump up.",
             "descriptionEnStatus": "machine_draft",
             "descriptionEnNotes": "Yaps local translation draft",
-            "itemTypeOrSlot": 0,
+            "rawRewardTypeOrSlot": 0,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": 8,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
             "resolutionStatus": "parsed_item_config_match"
           },
           {
             "itemHash": "21102731",
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": "iky070015",
             "itemKey": "iky070015",
             "nameJa": "ガシャコイン",
             "nameEn": "Gacha Coin",
@@ -91,13 +105,16 @@
             "descriptionEn": "A regular coin for the Yōkai Gacha. You can meet various types of yokai.",
             "descriptionEnStatus": "machine_draft",
             "descriptionEnNotes": "Yaps local translation draft",
-            "itemTypeOrSlot": 0,
+            "rawRewardTypeOrSlot": 0,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": 5,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
             "resolutionStatus": "parsed_item_config_match"
           },
           {
             "itemHash": "72B66C6A",
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": "iky040050",
             "itemKey": "iky040050",
             "nameJa": "超けいけんちだま",
             "nameEn": "Super Experience Orb",
@@ -106,7 +123,8 @@
             "descriptionEn": "This jade contains the knowledge of many Nobel Prize winners.",
             "descriptionEnStatus": "machine_draft",
             "descriptionEnNotes": "Yaps local translation draft",
-            "itemTypeOrSlot": 0,
+            "rawRewardTypeOrSlot": 0,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": 2,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
             "resolutionStatus": "parsed_item_config_match"
@@ -120,6 +138,8 @@
         "rewards": [
           {
             "itemHash": null,
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": null,
             "itemKey": null,
             "nameJa": null,
             "nameEn": null,
@@ -128,7 +148,8 @@
             "descriptionEn": null,
             "descriptionEnStatus": "pending",
             "descriptionEnNotes": null,
-            "itemTypeOrSlot": null,
+            "rawRewardTypeOrSlot": null,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": null,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
             "resolutionStatus": "reward_ref_not_found"

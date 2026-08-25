@@ -24,9 +24,9 @@ It follows the same idea as the community Puni Puni / Medaland QR workbook: sepa
 The mapper uses both:
 
 1. The NFC config maps scanned NFC `ItemID` values to reward table references.
-2. Reward table entries contain CRC-32B-style item ID/hash values.
-3. Item config resolves those reward item IDs into internal item keys.
-4. `item_text.cfg.bin` resolves item names/descriptions for those item keys.
+2. Reward table entries contain CRC-32B-style item hash/ID values.
+3. Item config resolves those reward item hashes into internal item identifiers.
+4. `item_text.cfg.bin` resolves item names/descriptions for those item identifiers.
 
 So if an output shows reward item names, that part came from item config/text config. If it shows which NFC identity points to which reward table, that part came from NFC config.
 
@@ -67,12 +67,15 @@ The source QR workbook organizes Yo-kai Watch NFC/QR collectibles by family tabs
 | `nfcItemId` | Preferred field for the decoded NFC ItemID. |
 | `nfcNumericId` | Compatibility alias for `nfcItemId`. |
 | `rewardTables[].tableHash` | CRC-32B-style table ID from NFC config. |
-| `rewardTables[].rewards[].itemHash` | CRC-32B-style reward item ID from the reward table. |
-| `rewardTables[].rewards[].itemKey` | Internal item key guess resolved from item config, such as `iky010020`. |
+| `rewardTables[].rewards[].itemHash` | CRC-32B / ISO-HDLC reward item ID/hash from the reward table. |
+| `rewardTables[].rewards[].hashAlgorithm` | Hash algorithm note for `itemHash`. |
+| `rewardTables[].rewards[].itemId` | Internal item identifier resolved from item config, such as `iky010020`. |
+| `rewardTables[].rewards[].itemKey` | Compatibility alias for `itemId`. |
 | `rewardTables[].rewards[].nameJa` | Japanese reward item name from item text. |
 | `rewardTables[].rewards[].nameEn` | Reviewed English reward item name. |
 | `rewardTables[].rewards[].descriptionJa` | Japanese reward item description from item text. |
 | `rewardTables[].rewards[].descriptionEn` | Machine-draft English reward item description. |
+| `rawRewardTypeOrSlot` | Raw context-dependent table value; exact gameplay semantics remain unverified. |
 | `quantityOrWeight` | Raw config value; exact gameplay semantics remain unverified. |
 
 ## Known Split: YW-ARK-0340

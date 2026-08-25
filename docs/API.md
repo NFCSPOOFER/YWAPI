@@ -95,8 +95,10 @@ Catalog ID reward lookups return an array because a small number of catalog entr
 | `catalogVariantVisual` | string | Optional short visual description for the identified split variant. |
 | `catalogSplitEvidence` | string | Optional evidence note for the split mapping. |
 | `rewardTables` | array | Reward table slots referenced by this NFC identity. |
-| `rewardTables[].rewards[].itemKey` | string or null | Internal item key guess, such as `iky010020`. |
-| `rewardTables[].rewards[].itemHash` | string or null | CRC-32B/ISO-HDLC ID value from the game config. |
+| `rewardTables[].rewards[].itemId` | string or null | Internal item identifier, such as `iky010020`. |
+| `rewardTables[].rewards[].itemKey` | string or null | Compatibility alias for `itemId`. |
+| `rewardTables[].rewards[].itemHash` | string or null | CRC-32B / ISO-HDLC ID value from the game config. |
+| `rewardTables[].rewards[].hashAlgorithm` | string | Hash algorithm note for `itemHash`. |
 | `rewardTables[].rewards[].nameJa` | string or null | Japanese item name decoded from game text. |
 | `rewardTables[].rewards[].nameEn` | string or null | English item name when available. |
 | `rewardTables[].rewards[].nameEnStatus` | string | Translation status. Current reviewed names use `reviewed`. |
@@ -104,6 +106,8 @@ Catalog ID reward lookups return an array because a small number of catalog entr
 | `rewardTables[].rewards[].descriptionEn` | string or null | English item description when available. |
 | `rewardTables[].rewards[].descriptionEnStatus` | string | Translation status. Current machine-generated descriptions use `machine_draft`. |
 | `rewardTables[].rewards[].descriptionEnNotes` | string or null | Translation notes/source, when available. |
+| `rewardTables[].rewards[].rawRewardTypeOrSlot` | number or null | Raw context-dependent value from `NFC_LOTTERY_INFO_TABLE_ITEM`; exact gameplay meaning is not verified. |
+| `rewardTables[].rewards[].rawRewardTypeOrSlotMeaning` | string | Current interpretation marker for `rawRewardTypeOrSlot`. |
 | `rewardTables[].rewards[].quantityOrWeight` | number or null | Raw quantity/weight value from the reward table. |
 | `rewardTables[].rewards[].rewardValueSemantics` | string | Current interpretation of `quantityOrWeight`; values remain unverified until gameplay-tested. |
 | `rewardTables[].rewards[].resolutionStatus` | string | How the reward hash was resolved, such as `parsed_item_config_match`. |
@@ -130,6 +134,8 @@ Catalog ID reward lookups return an array because a small number of catalog entr
         "rewards": [
           {
             "itemHash": "D34B5E2F",
+            "hashAlgorithm": "CRC-32B / ISO-HDLC",
+            "itemId": "iky010010",
             "itemKey": "iky010010",
             "nameJa": "うめおにぎり",
             "nameEn": "Plum Rice Ball",
@@ -137,6 +143,8 @@ Catalog ID reward lookups return an array because a small number of catalog entr
             "descriptionJa": "すっぱい梅干しが入っている　おにぎり。\nおにぎりといえばコレ！　という人も多い。",
             "descriptionEn": "Rice balls with sour plums. Many people say that this is the best rice ball.",
             "descriptionEnStatus": "machine_draft",
+            "rawRewardTypeOrSlot": 1,
+            "rawRewardTypeOrSlotMeaning": "unknown_context_dependent",
             "quantityOrWeight": 18,
             "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed"
           }

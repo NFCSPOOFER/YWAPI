@@ -8,13 +8,16 @@ YWAPI starts with Yo-kai Arks because that is the first scanned and decoded data
 - Include front and back PNG assets directly in the repository.
 - Keep app-friendly lookup endpoints for decoded NFC identity.
 - Track scan status as `confirmed`, `single_scan`, `missing`, or `conflict`.
+- Publish decoded Yo-kai Watch 4++ game reward metadata for matched Arks.
+- Include reviewed English reward names and machine-draft English reward descriptions.
 
 ## Next
 
 - Resolve remaining conflicts as more community scans arrive.
 - Add missing backs and improved preservation images.
-- Add richer catalog metadata when verified.
+- Polish machine-draft reward descriptions when human translations are available.
 - Publish stable versioned exports.
+- Add gameplay-verified reward behavior when community testing confirms exact table semantics.
 
 ## Later Sections
 
