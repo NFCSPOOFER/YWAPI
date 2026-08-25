@@ -1,0 +1,40 @@
+name: Catalog correction
+description: Report a wrong name, image, series, or decoded identity.
+title: "Catalog correction: "
+labels: ["catalog", "needs-review"]
+body:
+  - type: input
+    id: item_id
+    attributes:
+      label: YWAPI ID
+      description: Example: YW-ARK-0338
+      placeholder: YW-ARK-0338
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: What needs fixing?
+      options:
+        - Name
+        - Image
+        - Series
+        - Decoded identity
+        - Scan status
+        - Other metadata
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Tell us what is wrong and what the correct value should be.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Add links, photos, scan details, or source notes if available.
+    validations:
+      required: false

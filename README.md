@@ -1,14 +1,37 @@
 # YWAPI
 
-YWAPI is a community-maintained, read-only API for Yo-kai Watch NFC collectibles.
+**YWAPI** is a community-maintained, read-only API for Yo-kai Watch NFC collectibles.
 
-The first supported section is **Yo-kai Arks**. The repo is structured to add Dream Medals, Treasure Medals / T Medals, Yo-seiken, Yo-kai Y Medals, and Genju Disks later.
+It is built in the spirit of AmiiboAPI: simple static JSON, stable image URLs, no authentication, and easy app-side matching after a scan.
 
-This project is inspired by the simple static-data style of AmiiboAPI: apps should be able to fetch a small JSON file, match a scanned item, and display the correct name and images.
+<p align="center">
+  <img src="images/ark/front/YW-ARK-0338.png" width="135" alt="Wildfire Blaze front">
+  <img src="images/ark/front/YW-ARK-0337.png" width="135" alt="Genbu Hotenfu front">
+  <img src="images/ark/front/YW-ARK-0341.png" width="135" alt="Golden Stormweaver front">
+</p>
+
+<p align="center">
+  <a href="api/ark/index.json"><img alt="Arks" src="https://img.shields.io/badge/Arks-341-2f80ed"></a>
+  <a href="api/status/index.json"><img alt="Confirmed" src="https://img.shields.io/badge/Confirmed-248-28a745"></a>
+  <a href="docs/API.md"><img alt="Static JSON" src="https://img.shields.io/badge/API-static%20JSON-111827"></a>
+  <a href="docs/CONTRIBUTING.md"><img alt="Community" src="https://img.shields.io/badge/Community-preservation-f59e0b"></a>
+</p>
+
+## Base URL
+
+```text
+https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main
+```
 
 ## Quick Start
 
-All Arks:
+Fetch all Yo-kai Arks:
+
+```text
+GET /api/ark/index.json
+```
+
+Direct URL:
 
 ```text
 https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/index.json
@@ -17,15 +40,16 @@ https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/index.json
 Lookup by decoded NFC identity:
 
 ```text
-https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-display-code/0103MBW.json
-https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-ark-key/MBW.json
-https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-numeric-id/28940.json
+GET /api/ark/by-display-code/0103MBW.json
+GET /api/ark/by-ark-key/MBW.json
+GET /api/ark/by-numeric-id/28940.json
 ```
 
-Lookup by API ID:
+Lookup by catalog ID:
 
 ```text
-https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-id/YW-ARK-0338.json
+GET /api/ark/by-id/YW-ARK-0338.json
+GET /api/ark/by-number/0338.json
 ```
 
 ## App Matching
@@ -37,7 +61,51 @@ When an app scans and decodes a Yo-kai Ark, match in this order:
 3. `numericId`
 4. manual fallback
 
-UIDs are not used as the public item identity because duplicate physical tags of the same Ark have different UIDs.
+UIDs are not public item identities. Duplicate physical tags for the same Ark have different UIDs, while the decoded Ark identity stays the same.
+
+## JavaScript Example
+
+```js
+const baseUrl = "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main";
+const displayCode = "0103MBW";
+
+const response = await fetch(`${baseUrl}/api/ark/by-display-code/${displayCode}.json`);
+const { ark } = await response.json();
+
+console.log(ark.name);
+console.log(ark.image);
+```
+
+## Current Dataset
+
+| Section | Status | Count |
+| --- | --- | ---: |
+| Yo-kai Arks | Available | 341 |
+| Dream Medals | Planned | 0 |
+| Treasure Medals / T Medals | Planned | 0 |
+| Yo-seiken | Planned | 0 |
+| Yo-kai Y Medals | Planned | 0 |
+| Genju Disks | Planned | 0 |
+
+## Endpoint Map
+
+| Purpose | Endpoint |
+| --- | --- |
+| API summary | `/api/index.json` |
+| All Arks | `/api/ark/index.json` |
+| Ark CSV export | `/api/ark/ark.csv` |
+| By YWAPI ID | `/api/ark/by-id/YW-ARK-0338.json` |
+| By legacy project ID | `/api/ark/by-legacy-id/YKW-ARK-0338.json` |
+| By catalog number | `/api/ark/by-number/0338.json` |
+| By display code | `/api/ark/by-display-code/0103MBW.json` |
+| By Ark key | `/api/ark/by-ark-key/MBW.json` |
+| By numeric ID | `/api/ark/by-numeric-id/28940.json` |
+| By series | `/api/ark/by-series/sacred-armory.json` |
+| By status | `/api/ark/by-status/confirmed.json` |
+| Supported types | `/api/type/index.json` |
+| Known series | `/api/series/index.json` |
+| Status counts | `/api/status/index.json` |
+| Last updated | `/api/lastupdated/index.json` |
 
 ## Object Example
 
@@ -68,14 +136,19 @@ UIDs are not used as the public item identity because duplicate physical tags of
 
 ## Status Values
 
-- `confirmed`: multiple community scans support the identity.
-- `single_scan`: one successful community scan supports the identity.
-- `missing`: no successful decoded scan yet.
-- `conflict`: multiple decoded identities currently exist for the catalog entry.
+| Status | Meaning |
+| --- | --- |
+| `confirmed` | Multiple community scans support the identity. |
+| `single_scan` | One successful community scan supports the identity. |
+| `missing` | No successful decoded scan yet. |
+| `conflict` | Multiple decoded identities currently exist for the catalog entry. |
 
 ## Docs
 
-See [docs/API.md](docs/API.md) for endpoint details.
+- [API documentation](docs/API.md)
+- [Contribution guide](docs/CONTRIBUTING.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Terms](docs/TERMS.md)
 
 ## Disclaimer
 

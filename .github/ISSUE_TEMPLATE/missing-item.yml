@@ -1,0 +1,40 @@
+name: Missing item
+description: Suggest a Yo-kai Watch NFC item that is not in YWAPI yet.
+title: "Missing item: "
+labels: ["missing-item", "needs-review"]
+body:
+  - type: input
+    id: item_name
+    attributes:
+      label: Item name
+      placeholder: Awakening Enma
+    validations:
+      required: true
+  - type: dropdown
+    id: item_type
+    attributes:
+      label: Item type
+      options:
+        - Yo-kai Ark
+        - Dream Medal
+        - Treasure Medal / T Medal
+        - Yo-seiken
+        - Yo-kai Y Medal
+        - Genju Disk
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Include any known set, release, identifier, or scan information.
+    validations:
+      required: true
+  - type: textarea
+    id: images
+    attributes:
+      label: Images or references
+      description: Add front/back photos or links if available.
+    validations:
+      required: false

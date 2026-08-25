@@ -1,181 +1,83 @@
 # YWAPI Documentation
 
-## Information
+YWAPI is a read-only static JSON API for Yo-kai Watch NFC collectibles.
 
-YWAPI is a read-only, static JSON API for Yo-kai Watch NFC collectibles.
+No authentication is required. All endpoints are regular files hosted from the GitHub repository and can be cached by apps.
 
-No authentication is required. All endpoints are plain JSON files and can be cached by apps.
-
-Base URL:
+## Base URL
 
 ```text
 https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main
 ```
 
-## Ark
+## Response Style
 
-Returns Yo-kai Ark information.
-
-### All Arks
-
-```text
-GET /api/ark/index.json
-```
-
-Response:
+Collection endpoints return an array named after the section:
 
 ```json
 {
-  "ark": [
-    {
-      "id": "YW-ARK-0338",
-      "legacyId": "YKW-ARK-0338",
-      "name": "Wildfire Blaze",
-      "series": "Sacred Armory",
-      "seriesGroup": "Exclusive/Promotional Keystones",
-      "rarity": null,
-      "type": "Ark",
-      "catalogNumber": 338,
-      "sourceNumber": 6,
-      "displayCode": "0103MBW",
-      "displayCodes": ["0103MBW"],
-      "arkKey": "MBW",
-      "arkKeys": ["MBW"],
-      "numericId": 28940,
-      "numericIds": [28940],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
-      "status": "confirmed",
-      "scanCount": 2,
-      "uniqueTagCount": 2
-    }
-  ]
+  "ark": []
 }
 ```
 
-### By ID
-
-```text
-GET /api/ark/by-id/YW-ARK-0338.json
-```
-
-### By Legacy ID
-
-```text
-GET /api/ark/by-legacy-id/YKW-ARK-0338.json
-```
-
-### By Catalog Number
-
-Catalog numbers are zero-padded to four digits.
-
-```text
-GET /api/ark/by-number/0338.json
-```
-
-### By Display Code
-
-Recommended lookup for apps after scanning and decoding an Ark.
-
-```text
-GET /api/ark/by-display-code/0103MBW.json
-```
-
-### By Ark Key
-
-Fallback lookup if a display code is unavailable.
-
-```text
-GET /api/ark/by-ark-key/MBW.json
-```
-
-### By Numeric ID
-
-Fallback lookup if only the decoded numeric ID is available.
-
-```text
-GET /api/ark/by-numeric-id/28940.json
-```
-
-### By Series
-
-Series names are slugged.
-
-```text
-GET /api/ark/by-series/sacred-armory.json
-```
-
-### By Status
-
-```text
-GET /api/ark/by-status/confirmed.json
-GET /api/ark/by-status/single-scan.json
-GET /api/ark/by-status/missing.json
-GET /api/ark/by-status/conflict.json
-```
-
-## Type
-
-Lists supported Yo-kai Watch NFC item sections.
-
-```text
-GET /api/type/index.json
-```
-
-## Series
-
-Lists known Ark series.
-
-```text
-GET /api/series/index.json
-```
-
-## Status
-
-Lists status values and counts.
-
-```text
-GET /api/status/index.json
-```
-
-## Last Updated
-
-```text
-GET /api/lastupdated/index.json
-```
-
-Response:
+Single-item endpoints return one object:
 
 ```json
 {
-  "lastUpdated": "2026-08-25T00:00:00+00:00"
+  "ark": {}
 }
 ```
+
+## Ark Endpoints
+
+| Purpose | Request |
+| --- | --- |
+| All Arks | `GET /api/ark/index.json` |
+| All Arks alias | `GET /api/ark/all.json` |
+| CSV export | `GET /api/ark/ark.csv` |
+| By YWAPI ID | `GET /api/ark/by-id/YW-ARK-0338.json` |
+| By legacy ID | `GET /api/ark/by-legacy-id/YKW-ARK-0338.json` |
+| By catalog number | `GET /api/ark/by-number/0338.json` |
+| By display code | `GET /api/ark/by-display-code/0103MBW.json` |
+| By Ark key | `GET /api/ark/by-ark-key/MBW.json` |
+| By numeric ID | `GET /api/ark/by-numeric-id/28940.json` |
+| By series | `GET /api/ark/by-series/sacred-armory.json` |
+| By status | `GET /api/ark/by-status/confirmed.json` |
+
+## Index Endpoints
+
+| Purpose | Request |
+| --- | --- |
+| API summary | `GET /api/index.json` |
+| Supported item types | `GET /api/type/index.json` |
+| Known Ark series | `GET /api/series/index.json` |
+| Status values and counts | `GET /api/status/index.json` |
+| Last generated timestamp | `GET /api/lastupdated/index.json` |
 
 ## Field Reference
 
-| Name | Description | Type |
+| Name | Type | Description |
 | --- | --- | --- |
-| `id` | Public YWAPI ID. | string |
-| `legacyId` | Original internal project ID. | string |
-| `name` | Item name. | string |
-| `series` | Specific product/set series. | string or null |
-| `seriesGroup` | Larger series grouping. | string or null |
-| `rarity` | Rarity or release label, when known. | string or null |
-| `type` | Item type. Currently `Ark`. | string |
-| `catalogNumber` | Catalog number. | number |
-| `sourceNumber` | Number from the source spreadsheet/list, when present. | number or null |
-| `displayCode` | Primary decoded display code for app matching. | string or null |
-| `displayCodes` | All known decoded display codes for this entry. | string[] |
-| `arkKey` | Primary decoded Ark key for app matching. | string or null |
-| `arkKeys` | All known decoded Ark keys for this entry. | string[] |
-| `numericId` | Primary decoded numeric ID. | number or null |
-| `numericIds` | All known decoded numeric IDs for this entry. | number[] |
-| `image` | Front PNG URL. | string or null |
-| `imageBack` | Back PNG URL. | string or null |
-| `status` | `confirmed`, `single_scan`, `missing`, or `conflict`. | string |
-| `scanCount` | Successful scan count in the community dataset. | number |
-| `uniqueTagCount` | Unique physical UID count in the community dataset. | number |
+| `id` | string | Public YWAPI ID. |
+| `legacyId` | string | Original internal project ID retained for compatibility. |
+| `name` | string | Item name. |
+| `series` | string or null | Specific product/set series. |
+| `seriesGroup` | string or null | Larger series grouping. |
+| `rarity` | string or null | Rarity or release label, when known. |
+| `type` | string | Item type. Currently `Ark`. |
+| `catalogNumber` | number | Catalog number. |
+| `sourceNumber` | number or null | Number from the source spreadsheet/list, when present. |
+| `displayCode` | string or null | Primary decoded display code for app matching. |
+| `displayCodes` | string[] | All known decoded display codes for this entry. |
+| `arkKey` | string or null | Primary decoded Ark key for app matching. |
+| `arkKeys` | string[] | All known decoded Ark keys for this entry. |
+| `numericId` | number or null | Primary decoded numeric ID. |
+| `numericIds` | number[] | All known decoded numeric IDs for this entry. |
+| `image` | string or null | Front PNG URL. |
+| `imageBack` | string or null | Back PNG URL. |
+| `status` | string | `confirmed`, `single_scan`, `missing`, or `conflict`. |
+| `scanCount` | number | Successful scan count in the community dataset. |
+| `uniqueTagCount` | number | Unique physical UID count in the community dataset. |
 
 ## App Lookup Order
 
@@ -187,3 +89,32 @@ Apps should match scanned Ark data in this order:
 4. manual search or manual selection
 
 Do not use UID as the public item identity. UID identifies the physical tag, not the Ark character/item.
+
+## Example
+
+```json
+{
+  "ark": {
+    "id": "YW-ARK-0338",
+    "legacyId": "YKW-ARK-0338",
+    "name": "Wildfire Blaze",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 338,
+    "sourceNumber": 6,
+    "displayCode": "0103MBW",
+    "displayCodes": ["0103MBW"],
+    "arkKey": "MBW",
+    "arkKeys": ["MBW"],
+    "numericId": 28940,
+    "numericIds": [28940],
+    "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}
+```
