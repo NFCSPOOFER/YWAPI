@@ -9,7 +9,7 @@ No authentication is required. All endpoints are plain JSON files and can be cac
 Base URL:
 
 ```text
-https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main
+https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main
 ```
 
 ## Ark
@@ -43,8 +43,8 @@ Response:
       "arkKeys": ["MBW"],
       "numericId": 28940,
       "numericIds": [28940],
-      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
+      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
       "status": "confirmed",
       "scanCount": 2,
       "uniqueTagCount": 2

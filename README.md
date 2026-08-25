@@ -11,21 +11,21 @@ This project is inspired by the simple static-data style of AmiiboAPI: apps shou
 All Arks:
 
 ```text
-https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/api/ark/index.json
+https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/index.json
 ```
 
 Lookup by decoded NFC identity:
 
 ```text
-https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/api/ark/by-display-code/0103MBW.json
-https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/api/ark/by-ark-key/MBW.json
-https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/api/ark/by-numeric-id/28940.json
+https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-display-code/0103MBW.json
+https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-ark-key/MBW.json
+https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-numeric-id/28940.json
 ```
 
 Lookup by API ID:
 
 ```text
-https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/api/ark/by-id/YW-ARK-0338.json
+https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/by-id/YW-ARK-0338.json
 ```
 
 ## App Matching
@@ -58,8 +58,8 @@ UIDs are not used as the public item identity because duplicate physical tags of
   "arkKeys": ["MBW"],
   "numericId": 28940,
   "numericIds": [28940],
-  "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
-  "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
+  "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
+  "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
   "status": "confirmed",
   "scanCount": 2,
   "uniqueTagCount": 2
