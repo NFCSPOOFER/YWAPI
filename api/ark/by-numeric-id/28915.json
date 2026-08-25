@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0308",
+    "legacyId": "YKW-ARK-0308",
+    "name": "Ruby Shurakoma",
+    "series": "Series EX - Jewel Seven Generals - SP",
+    "seriesGroup": "Yo-kai Keystone Series",
+    "rarity": "Ultimate Rare",
+    "type": "Ark",
+    "catalogNumber": 308,
+    "sourceNumber": 308,
+    "displayCode": "0278MB7",
+    "displayCodes": [
+      "0278MB7"
+    ],
+    "arkKey": "MB7",
+    "arkKeys": [
+      "MB7"
+    ],
+    "numericId": 28915,
+    "numericIds": [
+      28915
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0308.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0308.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

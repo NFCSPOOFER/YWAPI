@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0136",
+    "legacyId": "YKW-ARK-0136",
+    "name": "Whisuberi",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 136,
+    "sourceNumber": 136,
+    "displayCode": "0203M94",
+    "displayCodes": [
+      "0203M94"
+    ],
+    "arkKey": "M94",
+    "arkKeys": [
+      "M94"
+    ],
+    "numericId": 28840,
+    "numericIds": [
+      28840
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0136.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0136.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0320",
+    "legacyId": "YKW-ARK-0320",
+    "name": "Sakigake Merameraion",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Youseiken Series 03",
+    "type": "Ark",
+    "catalogNumber": 320,
+    "sourceNumber": 320,
+    "displayCode": "0051M4W",
+    "displayCodes": [
+      "0051M4W"
+    ],
+    "arkKey": "M4W",
+    "arkKeys": [
+      "M4W"
+    ],
+    "numericId": 28688,
+    "numericIds": [
+      28688
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0320.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0320.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

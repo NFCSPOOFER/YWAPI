@@ -1,0 +1,24 @@
+{
+  "ark": {
+    "id": "YW-ARK-0180",
+    "legacyId": "YKW-ARK-0180",
+    "name": "Boreas & Cole",
+    "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 180,
+    "sourceNumber": 180,
+    "displayCode": null,
+    "displayCodes": [],
+    "arkKey": null,
+    "arkKeys": [],
+    "numericId": null,
+    "numericIds": [],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0180.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0180.png",
+    "status": "missing",
+    "scanCount": 0,
+    "uniqueTagCount": 0
+  }
+}

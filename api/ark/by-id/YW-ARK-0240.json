@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0240",
+    "legacyId": "YKW-ARK-0240",
+    "name": "Little Charrmer",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 240,
+    "sourceNumber": 240,
+    "displayCode": "0241MA6",
+    "displayCodes": [
+      "0241MA6"
+    ],
+    "arkKey": "MA6",
+    "arkKeys": [
+      "MA6"
+    ],
+    "numericId": 28878,
+    "numericIds": [
+      28878
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0240.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0240.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0120",
+    "legacyId": "YKW-ARK-0120",
+    "name": "Manjimutt",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 120,
+    "sourceNumber": 120,
+    "displayCode": "0162M7Z",
+    "displayCodes": [
+      "0162M7Z"
+    ],
+    "arkKey": "M7Z",
+    "arkKeys": [
+      "M7Z"
+    ],
+    "numericId": 28799,
+    "numericIds": [
+      28799
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0120.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0120.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

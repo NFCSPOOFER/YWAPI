@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0302",
+    "legacyId": "YKW-ARK-0302",
+    "name": "Fukurou",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 302,
+    "sourceNumber": 302,
+    "displayCode": "0302MCA",
+    "displayCodes": [
+      "0302MCA"
+    ],
+    "arkKey": "MCA",
+    "arkKeys": [
+      "MCA"
+    ],
+    "numericId": 28954,
+    "numericIds": [
+      28954
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0302.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0302.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

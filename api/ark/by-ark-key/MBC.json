@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0187",
+    "legacyId": "YKW-ARK-0187",
+    "name": "Soyokusho Ran",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Jewel)",
+    "type": "Ark",
+    "catalogNumber": 187,
+    "sourceNumber": 187,
+    "displayCode": "0283MBC",
+    "displayCodes": [
+      "0283MBC"
+    ],
+    "arkKey": "MBC",
+    "arkKeys": [
+      "MBC"
+    ],
+    "numericId": 28920,
+    "numericIds": [
+      28920
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0187.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0187.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

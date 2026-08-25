@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0128",
+    "legacyId": "YKW-ARK-0128",
+    "name": "Goku Bushinyan",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Shining)",
+    "type": "Ark",
+    "catalogNumber": 128,
+    "sourceNumber": 128,
+    "displayCode": "0207M98",
+    "displayCodes": [
+      "0207M98"
+    ],
+    "arkKey": "M98",
+    "arkKeys": [
+      "M98"
+    ],
+    "numericId": 28844,
+    "numericIds": [
+      28844
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0128.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0128.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

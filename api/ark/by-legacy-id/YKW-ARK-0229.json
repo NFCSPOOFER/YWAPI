@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0229",
+    "legacyId": "YKW-ARK-0229",
+    "name": "Mimikin",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 229,
+    "sourceNumber": 229,
+    "displayCode": "0344MDG",
+    "displayCodes": [
+      "0344MDG"
+    ],
+    "arkKey": "MDG",
+    "arkKeys": [
+      "MDG"
+    ],
+    "numericId": 28996,
+    "numericIds": [
+      28996
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0229.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0229.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

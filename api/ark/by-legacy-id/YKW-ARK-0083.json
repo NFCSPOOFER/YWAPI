@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0083",
+    "legacyId": "YKW-ARK-0083",
+    "name": "Yasha Enma Benibana",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 83,
+    "sourceNumber": 83,
+    "displayCode": "0075M5K",
+    "displayCodes": [
+      "0075M5K"
+    ],
+    "arkKey": "M5K",
+    "arkKeys": [
+      "M5K"
+    ],
+    "numericId": 28712,
+    "numericIds": [
+      28712
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0083.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0083.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

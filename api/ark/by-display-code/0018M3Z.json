@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0014",
+    "legacyId": "YKW-ARK-0014",
+    "name": "Mushbarber/Kirisaki Joker",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 14,
+    "sourceNumber": 14,
+    "displayCode": "0018M3Z",
+    "displayCodes": [
+      "0018M3Z"
+    ],
+    "arkKey": "M3Z",
+    "arkKeys": [
+      "M3Z"
+    ],
+    "numericId": 28655,
+    "numericIds": [
+      28655
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0014.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0014.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 4
+  }
+}

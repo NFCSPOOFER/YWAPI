@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0054",
+    "legacyId": "YKW-ARK-0054",
+    "name": "Jii-tan/Satan Claus",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 54,
+    "sourceNumber": 54,
+    "displayCode": "0123M6W",
+    "displayCodes": [
+      "0123M6W"
+    ],
+    "arkKey": "M6W",
+    "arkKeys": [
+      "M6W"
+    ],
+    "numericId": 28760,
+    "numericIds": [
+      28760
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0054.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0054.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0167",
+    "legacyId": "YKW-ARK-0167",
+    "name": "Toadal Dude",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 167,
+    "sourceNumber": 167,
+    "displayCode": "0237MA2",
+    "displayCodes": [
+      "0237MA2"
+    ],
+    "arkKey": "MA2",
+    "arkKeys": [
+      "MA2"
+    ],
+    "numericId": 28874,
+    "numericIds": [
+      28874
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0167.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0167.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

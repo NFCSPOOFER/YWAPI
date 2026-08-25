@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0266",
+    "legacyId": "YKW-ARK-0266",
+    "name": "Smogmella",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 266,
+    "sourceNumber": 266,
+    "displayCode": "0351MDN",
+    "displayCodes": [
+      "0351MDN"
+    ],
+    "arkKey": "MDN",
+    "arkKeys": [
+      "MDN"
+    ],
+    "numericId": 29003,
+    "numericIds": [
+      29003
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0266.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0266.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

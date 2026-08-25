@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0184",
+    "legacyId": "YKW-ARK-0184",
+    "name": "Black Dianyan & Ruby Shurakoma/Seven Jewel Generals",
+    "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Daikichi (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 184,
+    "sourceNumber": 184,
+    "displayCode": "0281MBA",
+    "displayCodes": [
+      "0281MBA"
+    ],
+    "arkKey": "MBA",
+    "arkKeys": [
+      "MBA"
+    ],
+    "numericId": 28918,
+    "numericIds": [
+      28918
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0184.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0184.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0100",
+    "legacyId": "YKW-ARK-0100",
+    "name": "Nurarihyon",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 100,
+    "sourceNumber": 100,
+    "displayCode": "0134M77",
+    "displayCodes": [
+      "0134M77"
+    ],
+    "arkKey": "M77",
+    "arkKeys": [
+      "M77"
+    ],
+    "numericId": 28771,
+    "numericIds": [
+      28771
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0100.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0100.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

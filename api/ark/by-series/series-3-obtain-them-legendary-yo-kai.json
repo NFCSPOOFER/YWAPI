@@ -1,0 +1,440 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0030",
+      "legacyId": "YKW-ARK-0030",
+      "name": "Bushinyan",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 30,
+      "sourceNumber": 30,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0030.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0030.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0031",
+      "legacyId": "YKW-ARK-0031",
+      "name": "Bushinyan",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 31,
+      "sourceNumber": 31,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0031.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0031.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0032",
+      "legacyId": "YKW-ARK-0032",
+      "name": "Komasan & Komajiro",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 32,
+      "sourceNumber": 32,
+      "displayCode": "0056M51",
+      "displayCodes": [
+        "0056M51"
+      ],
+      "arkKey": "M51",
+      "arkKeys": [
+        "M51"
+      ],
+      "numericId": 28693,
+      "numericIds": [
+        28693
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0032.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0032.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0033",
+      "legacyId": "YKW-ARK-0033",
+      "name": "Mafura Jibanyan",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 33,
+      "sourceNumber": 33,
+      "displayCode": "0033M4E",
+      "displayCodes": [
+        "0033M4E"
+      ],
+      "arkKey": "M4E",
+      "arkKeys": [
+        "M4E"
+      ],
+      "numericId": 28670,
+      "numericIds": [
+        28670
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0033.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0033.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0034",
+      "legacyId": "YKW-ARK-0034",
+      "name": "Tsuchinoko",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 34,
+      "sourceNumber": 34,
+      "displayCode": "0106M6F",
+      "displayCodes": [
+        "0106M6F"
+      ],
+      "arkKey": "M6F",
+      "arkKeys": [
+        "M6F"
+      ],
+      "numericId": 28743,
+      "numericIds": [
+        28743
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0034.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0034.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0035",
+      "legacyId": "YKW-ARK-0035",
+      "name": "Zashiki-warashi",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 35,
+      "sourceNumber": 35,
+      "displayCode": "0071M5G",
+      "displayCodes": [
+        "0071M5G"
+      ],
+      "arkKey": "M5G",
+      "arkKeys": [
+        "M5G"
+      ],
+      "numericId": 28708,
+      "numericIds": [
+        28708
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0035.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0035.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0036",
+      "legacyId": "YKW-ARK-0036",
+      "name": "Tsuchigumo",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 36,
+      "sourceNumber": 36,
+      "displayCode": "0057M52",
+      "displayCodes": [
+        "0057M52"
+      ],
+      "arkKey": "M52",
+      "arkKeys": [
+        "M52"
+      ],
+      "numericId": 28694,
+      "numericIds": [
+        28694
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0036.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0036.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0037",
+      "legacyId": "YKW-ARK-0037",
+      "name": "Ogama",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 37,
+      "sourceNumber": 37,
+      "displayCode": "0059M54",
+      "displayCodes": [
+        "0059M54"
+      ],
+      "arkKey": "M54",
+      "arkKeys": [
+        "M54"
+      ],
+      "numericId": 28696,
+      "numericIds": [
+        28696
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0037.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0037.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0038",
+      "legacyId": "YKW-ARK-0038",
+      "name": "Tsuchinoko",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 38,
+      "sourceNumber": 38,
+      "displayCode": "0064M59",
+      "displayCodes": [
+        "0064M59"
+      ],
+      "arkKey": "M59",
+      "arkKeys": [
+        "M59"
+      ],
+      "numericId": 28701,
+      "numericIds": [
+        28701
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0038.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0038.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0039",
+      "legacyId": "YKW-ARK-0039",
+      "name": "Hot Pot/Shiryou no Dokudoku-nabe",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 39,
+      "sourceNumber": 39,
+      "displayCode": "0012M3T",
+      "displayCodes": [
+        "0012M3T"
+      ],
+      "arkKey": "M3T",
+      "arkKeys": [
+        "M3T"
+      ],
+      "numericId": 28649,
+      "numericIds": [
+        28649
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0039.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0039.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0040",
+      "legacyId": "YKW-ARK-0040",
+      "name": "Rai Oton",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 40,
+      "sourceNumber": 40,
+      "displayCode": "0026M47",
+      "displayCodes": [
+        "0026M47"
+      ],
+      "arkKey": "M47",
+      "arkKeys": [
+        "M47"
+      ],
+      "numericId": 28663,
+      "numericIds": [
+        28663
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0040.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0040.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0041",
+      "legacyId": "YKW-ARK-0041",
+      "name": "Komajiro",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 41,
+      "sourceNumber": 41,
+      "displayCode": "0044M4P",
+      "displayCodes": [
+        "0044M4P"
+      ],
+      "arkKey": "M4P",
+      "arkKeys": [
+        "M4P"
+      ],
+      "numericId": 28681,
+      "numericIds": [
+        28681
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0041.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0041.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0042",
+      "legacyId": "YKW-ARK-0042",
+      "name": "Shibumenken/Menkueater",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 42,
+      "sourceNumber": 42,
+      "displayCode": "0046M4R",
+      "displayCodes": [
+        "0046M4R"
+      ],
+      "arkKey": "M4R",
+      "arkKeys": [
+        "M4R"
+      ],
+      "numericId": 28683,
+      "numericIds": [
+        28683
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0042.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0042.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0043",
+      "legacyId": "YKW-ARK-0043",
+      "name": "Filmlin/Eigalien",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 43,
+      "sourceNumber": 43,
+      "displayCode": "0048M4T",
+      "displayCodes": [
+        "0048M4T"
+      ],
+      "arkKey": "M4T",
+      "arkKeys": [
+        "M4T"
+      ],
+      "numericId": 28685,
+      "numericIds": [
+        28685
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0043.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0043.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0044",
+      "legacyId": "YKW-ARK-0044",
+      "name": "Ikarin/Gesodrill",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 44,
+      "sourceNumber": 44,
+      "displayCode": "0053M4Y",
+      "displayCodes": [
+        "0053M4Y"
+      ],
+      "arkKey": "M4Y",
+      "arkKeys": [
+        "M4Y"
+      ],
+      "numericId": 28690,
+      "numericIds": [
+        28690
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0044.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0044.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0045",
+      "legacyId": "YKW-ARK-0045",
+      "name": "Leon/Dr. Chameleon",
+      "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 45,
+      "sourceNumber": 45,
+      "displayCode": "0054M4Z",
+      "displayCodes": [
+        "0054M4Z"
+      ],
+      "arkKey": "M4Z",
+      "arkKeys": [
+        "M4Z"
+      ],
+      "numericId": 28691,
+      "numericIds": [
+        28691
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0045.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0045.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    }
+  ]
+}

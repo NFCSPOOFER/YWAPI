@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0223",
+    "legacyId": "YKW-ARK-0223",
+    "name": "Momonyan",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 223,
+    "sourceNumber": 223,
+    "displayCode": "0506MHY",
+    "displayCodes": [
+      "0506MHY"
+    ],
+    "arkKey": "MHY",
+    "arkKeys": [
+      "MHY"
+    ],
+    "numericId": 29158,
+    "numericIds": [
+      29158
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0223.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0223.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

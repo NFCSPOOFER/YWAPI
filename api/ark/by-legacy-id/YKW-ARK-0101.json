@@ -1,0 +1,24 @@
+{
+  "ark": {
+    "id": "YW-ARK-0101",
+    "legacyId": "YKW-ARK-0101",
+    "name": "Shutendoji",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 101,
+    "sourceNumber": 101,
+    "displayCode": null,
+    "displayCodes": [],
+    "arkKey": null,
+    "arkKeys": [],
+    "numericId": null,
+    "numericIds": [],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0101.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0101.png",
+    "status": "missing",
+    "scanCount": 0,
+    "uniqueTagCount": 0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0248",
+    "legacyId": "YKW-ARK-0248",
+    "name": "Supernyan",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 248,
+    "sourceNumber": 248,
+    "displayCode": "0520MIC",
+    "displayCodes": [
+      "0520MIC"
+    ],
+    "arkKey": "MIC",
+    "arkKeys": [
+      "MIC"
+    ],
+    "numericId": 29172,
+    "numericIds": [
+      29172
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0248.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0248.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

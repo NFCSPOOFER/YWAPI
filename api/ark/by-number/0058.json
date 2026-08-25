@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0058",
+    "legacyId": "YKW-ARK-0058",
+    "name": "Hana-chan/Ohana-san",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 58,
+    "sourceNumber": 58,
+    "displayCode": "0055M50",
+    "displayCodes": [
+      "0055M50"
+    ],
+    "arkKey": "M50",
+    "arkKeys": [
+      "M50"
+    ],
+    "numericId": 28692,
+    "numericIds": [
+      28692
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0058.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0058.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

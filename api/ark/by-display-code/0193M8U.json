@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0147",
+    "legacyId": "YKW-ARK-0147",
+    "name": "Cheeksqueek",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 147,
+    "sourceNumber": 147,
+    "displayCode": "0193M8U",
+    "displayCodes": [
+      "0193M8U"
+    ],
+    "arkKey": "M8U",
+    "arkKeys": [
+      "M8U"
+    ],
+    "numericId": 28830,
+    "numericIds": [
+      28830
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0147.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0147.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0321",
+    "legacyId": "YKW-ARK-0321",
+    "name": "Sekka no Fubuki-hime",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Youseiken Series 04",
+    "type": "Ark",
+    "catalogNumber": 321,
+    "sourceNumber": 321,
+    "displayCode": "0050M4V",
+    "displayCodes": [
+      "0050M4V"
+    ],
+    "arkKey": "M4V",
+    "arkKeys": [
+      "M4V"
+    ],
+    "numericId": 28687,
+    "numericIds": [
+      28687
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0321.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0321.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0262",
+    "legacyId": "YKW-ARK-0262",
+    "name": "Sunsheen Enma",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 262,
+    "sourceNumber": 262,
+    "displayCode": "0533MIP",
+    "displayCodes": [
+      "0533MIP"
+    ],
+    "arkKey": "MIP",
+    "arkKeys": [
+      "MIP"
+    ],
+    "numericId": 29185,
+    "numericIds": [
+      29185
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0262.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0262.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

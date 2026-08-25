@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0010",
+    "legacyId": "YKW-ARK-0010",
+    "name": "Charlie/Ghostcycle",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 10,
+    "sourceNumber": 10,
+    "displayCode": "0011M3S",
+    "displayCodes": [
+      "0011M3S"
+    ],
+    "arkKey": "M3S",
+    "arkKeys": [
+      "M3S"
+    ],
+    "numericId": 28648,
+    "numericIds": [
+      28648
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0010.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0010.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

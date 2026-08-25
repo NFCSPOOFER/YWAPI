@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0323",
+    "legacyId": "YKW-ARK-0323",
+    "name": "Jibanyan",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Yo-kai Watch Elda Model K",
+    "type": "Ark",
+    "catalogNumber": 323,
+    "sourceNumber": 323,
+    "displayCode": "0185M8M",
+    "displayCodes": [
+      "0185M8M"
+    ],
+    "arkKey": "M8M",
+    "arkKeys": [
+      "M8M"
+    ],
+    "numericId": 28822,
+    "numericIds": [
+      28822
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0323.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0323.png",
+    "status": "confirmed",
+    "scanCount": 18,
+    "uniqueTagCount": 10
+  }
+}

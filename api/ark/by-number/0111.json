@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0111",
+    "legacyId": "YKW-ARK-0111",
+    "name": "Robonyan F & Keita F-gata",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 111,
+    "sourceNumber": 111,
+    "displayCode": "0183M8K",
+    "displayCodes": [
+      "0183M8K"
+    ],
+    "arkKey": "M8K",
+    "arkKeys": [
+      "M8K"
+    ],
+    "numericId": 28820,
+    "numericIds": [
+      28820
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0111.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0111.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

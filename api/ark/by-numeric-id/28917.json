@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0185",
+    "legacyId": "YKW-ARK-0185",
+    "name": "Gemnyans/Crystal Bushinyan",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 185,
+    "sourceNumber": 185,
+    "displayCode": "0280MB9",
+    "displayCodes": [
+      "0280MB9"
+    ],
+    "arkKey": "MB9",
+    "arkKeys": [
+      "MB9"
+    ],
+    "numericId": 28917,
+    "numericIds": [
+      28917
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0185.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0185.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

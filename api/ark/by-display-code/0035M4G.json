@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0319",
+    "legacyId": "YKW-ARK-0319",
+    "name": "Kosen Kyubi",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Youseiken Series 02",
+    "type": "Ark",
+    "catalogNumber": 319,
+    "sourceNumber": 319,
+    "displayCode": "0035M4G",
+    "displayCodes": [
+      "0035M4G"
+    ],
+    "arkKey": "M4G",
+    "arkKeys": [
+      "M4G"
+    ],
+    "numericId": 28672,
+    "numericIds": [
+      28672
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0319.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0319.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

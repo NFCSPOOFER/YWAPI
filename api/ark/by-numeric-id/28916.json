@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0192",
+    "legacyId": "YKW-ARK-0192",
+    "name": "Tsundora-hime/Hyogaki-hime",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 192,
+    "sourceNumber": 192,
+    "displayCode": "0279MB8",
+    "displayCodes": [
+      "0279MB8"
+    ],
+    "arkKey": "MB8",
+    "arkKeys": [
+      "MB8"
+    ],
+    "numericId": 28916,
+    "numericIds": [
+      28916
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0192.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0192.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

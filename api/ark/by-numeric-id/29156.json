@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0221",
+    "legacyId": "YKW-ARK-0221",
+    "name": "Shadow Venoct",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 221,
+    "sourceNumber": 221,
+    "displayCode": "0504MHW",
+    "displayCodes": [
+      "0504MHW"
+    ],
+    "arkKey": "MHW",
+    "arkKeys": [
+      "MHW"
+    ],
+    "numericId": 29156,
+    "numericIds": [
+      29156
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0221.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0221.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

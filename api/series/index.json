@@ -1,0 +1,129 @@
+{
+  "series": [
+    {
+      "key": "other",
+      "name": "Other",
+      "count": 8
+    },
+    {
+      "key": "sacred-armory",
+      "name": "Sacred Armory",
+      "count": 9
+    },
+    {
+      "key": "series-01-yo-kai-world-s-1st-martial-art-tournament-goku-orochi",
+      "name": "Series 01 - Yo-kai World's 1st Martial Art Tournament - Goku Orochi",
+      "count": 2
+    },
+    {
+      "key": "series-02-yo-kai-world-s-1st-martial-art-tournament-rinne",
+      "name": "Series 02 - Yo-kai World's 1st Martial Art Tournament - Rinne",
+      "count": 2
+    },
+    {
+      "key": "series-03-yo-kai-world-s-1st-martial-art-tournament-evil-god-kachi-kachi",
+      "name": "Series 03 - Yo-kai World's 1st Martial Art Tournament - Evil God Kachi Kachi",
+      "count": 2
+    },
+    {
+      "key": "series-04-yo-kai-world-s-1st-martial-art-tournament-lord-enma",
+      "name": "Series 04 - Yo-kai World's 1st Martial Art Tournament - Lord Enma",
+      "count": 2
+    },
+    {
+      "key": "series-05-kenshin-amaterasu-and-gesshin-tsukuyomi",
+      "name": "Series 05 - Kenshin Amaterasu and Gesshin Tsukuyomi",
+      "count": 2
+    },
+    {
+      "key": "series-1-open-first-door",
+      "name": "Series 1 - Open! First Door",
+      "count": 14
+    },
+    {
+      "key": "series-2-shine-debut-of-the-shining-yo-kai-keystones",
+      "name": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "count": 15
+    },
+    {
+      "key": "series-3-obtain-them-legendary-yo-kai",
+      "name": "Series 3 - Obtain them! Legendary Yo-kai!",
+      "count": 16
+    },
+    {
+      "key": "series-4-door-to-the-unknown",
+      "name": "Series 4 - Door to the Unknown",
+      "count": 17
+    },
+    {
+      "key": "series-5-strongest-yo-kai-appear",
+      "name": "Series 5 - Strongest Yo-kai Appear!!",
+      "count": 17
+    },
+    {
+      "key": "series-ex-jewel-seven-generals-sp",
+      "name": "Series EX - Jewel Seven Generals - SP",
+      "count": 2
+    },
+    {
+      "key": "toys",
+      "name": "Toys",
+      "count": 10
+    },
+    {
+      "key": "yo-kai-keystone-k-01-a-wobble-miracle",
+      "name": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "count": 21
+    },
+    {
+      "key": "yo-kai-keystone-k-02-goku-yo-kai-war",
+      "name": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "count": 22
+    },
+    {
+      "key": "yo-kai-keystone-k-03-shadowside-yo-kai-again",
+      "name": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+      "count": 23
+    },
+    {
+      "key": "yo-kai-keystone-k-04-many-treasures-collected-and-treasured-yo-kai",
+      "name": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "count": 23
+    },
+    {
+      "key": "yo-kai-keystone-k-05-challenge-the-conclusion-of-the-seven-valuable-jewel-generals",
+      "name": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "count": 23
+    },
+    {
+      "key": "yo-kai-keystone-k-06-save-me-endangered-yo-kai",
+      "name": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "count": 22
+    },
+    {
+      "key": "yo-kai-keystone-k-07-advent-the-great-king-of-the-yo-kai-world",
+      "name": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "count": 24
+    },
+    {
+      "key": "yo-kai-keystone-k-sp-extreme-shadowside",
+      "name": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+      "count": 12
+    },
+    {
+      "key": "yo-kai-keystone-sp-shadowside-ultimate-selection",
+      "name": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "count": 26
+    },
+    {
+      "key": "zero-series-1-the-other-side-of-the-silver-screen",
+      "name": "Zero Series 1 - The Other Side of the Silver Screen",
+      "count": 15
+    },
+    {
+      "key": "zero-series-2-sun-and-moon-god",
+      "name": "Zero Series 2 - Sun and Moon God",
+      "count": 12
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0115",
+    "legacyId": "YKW-ARK-0115",
+    "name": "Signiton",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 115,
+    "sourceNumber": 115,
+    "displayCode": "0172M89",
+    "displayCodes": [
+      "0172M89"
+    ],
+    "arkKey": "M89",
+    "arkKeys": [
+      "M89"
+    ],
+    "numericId": 28809,
+    "numericIds": [
+      28809
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0115.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0115.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0040",
+    "legacyId": "YKW-ARK-0040",
+    "name": "Rai Oton",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 40,
+    "sourceNumber": 40,
+    "displayCode": "0026M47",
+    "displayCodes": [
+      "0026M47"
+    ],
+    "arkKey": "M47",
+    "arkKeys": [
+      "M47"
+    ],
+    "numericId": 28663,
+    "numericIds": [
+      28663
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0040.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0040.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

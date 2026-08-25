@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0251",
+    "legacyId": "YKW-ARK-0251",
+    "name": "Krystal Fox",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 251,
+    "sourceNumber": 251,
+    "displayCode": "0352MDO",
+    "displayCodes": [
+      "0352MDO"
+    ],
+    "arkKey": "MDO",
+    "arkKeys": [
+      "MDO"
+    ],
+    "numericId": 29004,
+    "numericIds": [
+      29004
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0251.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0251.png",
+    "status": "confirmed",
+    "scanCount": 8,
+    "uniqueTagCount": 8
+  }
+}

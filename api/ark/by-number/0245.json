@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0245",
+    "legacyId": "YKW-ARK-0245",
+    "name": "Koma Knomads",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 245,
+    "sourceNumber": 245,
+    "displayCode": "0516MI8",
+    "displayCodes": [
+      "0516MI8"
+    ],
+    "arkKey": "MI8",
+    "arkKeys": [
+      "MI8"
+    ],
+    "numericId": 29168,
+    "numericIds": [
+      29168
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0245.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0245.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0140",
+    "legacyId": "YKW-ARK-0140",
+    "name": "Blizzaria",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 140,
+    "sourceNumber": 140,
+    "displayCode": "0200M91",
+    "displayCodes": [
+      "0200M91"
+    ],
+    "arkKey": "M91",
+    "arkKeys": [
+      "M91"
+    ],
+    "numericId": 28837,
+    "numericIds": [
+      28837
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0140.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0140.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

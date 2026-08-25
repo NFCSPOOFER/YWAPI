@@ -1,0 +1,310 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0095",
+      "legacyId": "YKW-ARK-0095",
+      "name": "Yamambaa/Gesshin Tsukuyomi",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Ultimate Rare",
+      "type": "Ark",
+      "catalogNumber": 95,
+      "sourceNumber": 95,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0095.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0095.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0096",
+      "legacyId": "YKW-ARK-0096",
+      "name": "Kenshin Amaterasu",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Ultimate Rare",
+      "type": "Ark",
+      "catalogNumber": 96,
+      "sourceNumber": 96,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0096.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0096.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0097",
+      "legacyId": "YKW-ARK-0097",
+      "name": "Yasha Enma",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 97,
+      "sourceNumber": 97,
+      "displayCode": "0131M74",
+      "displayCodes": [
+        "0131M74"
+      ],
+      "arkKey": "M74",
+      "arkKeys": [
+        "M74"
+      ],
+      "numericId": 28768,
+      "numericIds": [
+        28768
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0097.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0097.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0098",
+      "legacyId": "YKW-ARK-0098",
+      "name": "Lord Enma",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 98,
+      "sourceNumber": 98,
+      "displayCode": "0132M75",
+      "displayCodes": [
+        "0132M75"
+      ],
+      "arkKey": "M75",
+      "arkKeys": [
+        "M75"
+      ],
+      "numericId": 28769,
+      "numericIds": [
+        28769
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0098.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0098.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0099",
+      "legacyId": "YKW-ARK-0099",
+      "name": "Ancient Enma",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Super Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 99,
+      "sourceNumber": 99,
+      "displayCode": "0133M76",
+      "displayCodes": [
+        "0133M76"
+      ],
+      "arkKey": "M76",
+      "arkKeys": [
+        "M76"
+      ],
+      "numericId": 28770,
+      "numericIds": [
+        28770
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0099.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0099.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0100",
+      "legacyId": "YKW-ARK-0100",
+      "name": "Nurarihyon",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 100,
+      "sourceNumber": 100,
+      "displayCode": "0134M77",
+      "displayCodes": [
+        "0134M77"
+      ],
+      "arkKey": "M77",
+      "arkKeys": [
+        "M77"
+      ],
+      "numericId": 28771,
+      "numericIds": [
+        28771
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0100.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0100.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0101",
+      "legacyId": "YKW-ARK-0101",
+      "name": "Shutendoji",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 101,
+      "sourceNumber": 101,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0101.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0101.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0102",
+      "legacyId": "YKW-ARK-0102",
+      "name": "Gusto",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 102,
+      "sourceNumber": 102,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0102.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0102.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0103",
+      "legacyId": "YKW-ARK-0103",
+      "name": "Kappa",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 103,
+      "sourceNumber": 103,
+      "displayCode": "0138M7B",
+      "displayCodes": [
+        "0138M7B"
+      ],
+      "arkKey": "M7B",
+      "arkKeys": [
+        "M7B"
+      ],
+      "numericId": 28775,
+      "numericIds": [
+        28775
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0103.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0103.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0104",
+      "legacyId": "YKW-ARK-0104",
+      "name": "Suu-san",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 104,
+      "sourceNumber": 104,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0104.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0104.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0105",
+      "legacyId": "YKW-ARK-0105",
+      "name": "Zashiki-warashi",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 105,
+      "sourceNumber": 105,
+      "displayCode": "0139M7C",
+      "displayCodes": [
+        "0139M7C"
+      ],
+      "arkKey": "M7C",
+      "arkKeys": [
+        "M7C"
+      ],
+      "numericId": 28776,
+      "numericIds": [
+        28776
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0105.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0105.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0106",
+      "legacyId": "YKW-ARK-0106",
+      "name": "Gusto/Kaibyou Kamaitachi",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Kuroi)",
+      "type": "Ark",
+      "catalogNumber": 106,
+      "sourceNumber": 106,
+      "displayCode": "0116M6P",
+      "displayCodes": [
+        "0116M6P"
+      ],
+      "arkKey": "M6P",
+      "arkKeys": [
+        "M6P"
+      ],
+      "numericId": 28753,
+      "numericIds": [
+        28753
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0106.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0106.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    }
+  ]
+}

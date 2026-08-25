@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0205",
+    "legacyId": "YKW-ARK-0205",
+    "name": "Molar Petite",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 205,
+    "sourceNumber": 205,
+    "displayCode": "0243MA8",
+    "displayCodes": [
+      "0243MA8"
+    ],
+    "arkKey": "MA8",
+    "arkKeys": [
+      "MA8"
+    ],
+    "numericId": 28880,
+    "numericIds": [
+      28880
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0205.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0205.png",
+    "status": "confirmed",
+    "scanCount": 8,
+    "uniqueTagCount": 8
+  }
+}

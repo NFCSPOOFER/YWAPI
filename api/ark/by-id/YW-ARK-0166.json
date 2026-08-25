@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0166",
+    "legacyId": "YKW-ARK-0166",
+    "name": "Arachnus",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 166,
+    "sourceNumber": 166,
+    "displayCode": "0234M9Z",
+    "displayCodes": [
+      "0234M9Z"
+    ],
+    "arkKey": "M9Z",
+    "arkKeys": [
+      "M9Z"
+    ],
+    "numericId": 28871,
+    "numericIds": [
+      28871
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0166.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0166.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0307",
+    "legacyId": "YKW-ARK-0307",
+    "name": "Black Dianyan",
+    "series": "Series EX - Jewel Seven Generals - SP",
+    "seriesGroup": "Yo-kai Keystone Series",
+    "rarity": "Ultimate Rare",
+    "type": "Ark",
+    "catalogNumber": 307,
+    "sourceNumber": 307,
+    "displayCode": "0277MB6",
+    "displayCodes": [
+      "0277MB6"
+    ],
+    "arkKey": "MB6",
+    "arkKeys": [
+      "MB6"
+    ],
+    "numericId": 28914,
+    "numericIds": [
+      28914
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0307.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0307.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 5
+  }
+}

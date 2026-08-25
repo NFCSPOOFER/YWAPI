@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0035",
+    "legacyId": "YKW-ARK-0035",
+    "name": "Zashiki-warashi",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare (Gold)",
+    "type": "Ark",
+    "catalogNumber": 35,
+    "sourceNumber": 35,
+    "displayCode": "0071M5G",
+    "displayCodes": [
+      "0071M5G"
+    ],
+    "arkKey": "M5G",
+    "arkKeys": [
+      "M5G"
+    ],
+    "numericId": 28708,
+    "numericIds": [
+      28708
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0035.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0035.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

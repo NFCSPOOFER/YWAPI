@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0238",
+    "legacyId": "YKW-ARK-0238",
+    "name": "Usapyon/Usapyon (American Comic Hero Style)",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 238,
+    "sourceNumber": 238,
+    "displayCode": "0528MIK",
+    "displayCodes": [
+      "0528MIK"
+    ],
+    "arkKey": "MIK",
+    "arkKeys": [
+      "MIK"
+    ],
+    "numericId": 29180,
+    "numericIds": [
+      29180
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0238.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0238.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

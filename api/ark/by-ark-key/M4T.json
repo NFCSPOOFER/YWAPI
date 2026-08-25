@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0043",
+    "legacyId": "YKW-ARK-0043",
+    "name": "Filmlin/Eigalien",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 43,
+    "sourceNumber": 43,
+    "displayCode": "0048M4T",
+    "displayCodes": [
+      "0048M4T"
+    ],
+    "arkKey": "M4T",
+    "arkKeys": [
+      "M4T"
+    ],
+    "numericId": 28685,
+    "numericIds": [
+      28685
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0043.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0043.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

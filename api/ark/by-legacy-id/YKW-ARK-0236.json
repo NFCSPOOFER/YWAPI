@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0236",
+    "legacyId": "YKW-ARK-0236",
+    "name": "Nyanbaru Kuina",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Endangered)",
+    "type": "Ark",
+    "catalogNumber": 236,
+    "sourceNumber": 236,
+    "displayCode": "0523MIF",
+    "displayCodes": [
+      "0523MIF"
+    ],
+    "arkKey": "MIF",
+    "arkKeys": [
+      "MIF"
+    ],
+    "numericId": 29175,
+    "numericIds": [
+      29175
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0236.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0236.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

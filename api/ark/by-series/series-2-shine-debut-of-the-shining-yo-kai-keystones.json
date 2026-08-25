@@ -1,0 +1,421 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0015",
+      "legacyId": "YKW-ARK-0015",
+      "name": "Lord Ananta",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 15,
+      "sourceNumber": 15,
+      "displayCode": "0022M43",
+      "displayCodes": [
+        "0022M43"
+      ],
+      "arkKey": "M43",
+      "arkKeys": [
+        "M43"
+      ],
+      "numericId": 28659,
+      "numericIds": [
+        28659
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0015.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0015.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0016",
+      "legacyId": "YKW-ARK-0016",
+      "name": "Shutendoji",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 16,
+      "sourceNumber": 16,
+      "displayCode": "0021M42",
+      "displayCodes": [
+        "0021M42"
+      ],
+      "arkKey": "M42",
+      "arkKeys": [
+        "M42"
+      ],
+      "numericId": 28658,
+      "numericIds": [
+        28658
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0016.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0016.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0017",
+      "legacyId": "YKW-ARK-0017",
+      "name": "Suu-san",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 17,
+      "sourceNumber": 17,
+      "displayCode": "0072M5H",
+      "displayCodes": [
+        "0072M5H",
+        "0140M7D"
+      ],
+      "arkKey": "M5H",
+      "arkKeys": [
+        "M5H",
+        "M7D"
+      ],
+      "numericId": 28709,
+      "numericIds": [
+        28709,
+        28777
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0017.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0017.png",
+      "status": "conflict",
+      "scanCount": 5,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0018",
+      "legacyId": "YKW-ARK-0018",
+      "name": "Ogu, Togu & Mogu",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 18,
+      "sourceNumber": 18,
+      "displayCode": "0049M4U",
+      "displayCodes": [
+        "0049M4U"
+      ],
+      "arkKey": "M4U",
+      "arkKeys": [
+        "M4U"
+      ],
+      "numericId": 28686,
+      "numericIds": [
+        28686
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0018.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0018.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0019",
+      "legacyId": "YKW-ARK-0019",
+      "name": "Orochi",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 19,
+      "sourceNumber": 19,
+      "displayCode": "0261MAQ",
+      "displayCodes": [
+        "0261MAQ"
+      ],
+      "arkKey": "MAQ",
+      "arkKeys": [
+        "MAQ"
+      ],
+      "numericId": 28898,
+      "numericIds": [
+        28898
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0019.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0019.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0020",
+      "legacyId": "YKW-ARK-0020",
+      "name": "Merameraion",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 20,
+      "sourceNumber": 20,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0020.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0020.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0021",
+      "legacyId": "YKW-ARK-0021",
+      "name": "Seiryuu",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 21,
+      "sourceNumber": 21,
+      "displayCode": "0027M48",
+      "displayCodes": [
+        "0027M48"
+      ],
+      "arkKey": "M48",
+      "arkKeys": [
+        "M48"
+      ],
+      "numericId": 28664,
+      "numericIds": [
+        28664
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0021.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0021.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0022",
+      "legacyId": "YKW-ARK-0022",
+      "name": "Orochi",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 22,
+      "sourceNumber": 22,
+      "displayCode": "0030M4B",
+      "displayCodes": [
+        "0030M4B"
+      ],
+      "arkKey": "M4B",
+      "arkKeys": [
+        "M4B"
+      ],
+      "numericId": 28667,
+      "numericIds": [
+        28667
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0022.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0022.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0023",
+      "legacyId": "YKW-ARK-0023",
+      "name": "Sly/Slimamander",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 23,
+      "sourceNumber": 23,
+      "displayCode": "0023M44",
+      "displayCodes": [
+        "0023M44"
+      ],
+      "arkKey": "M44",
+      "arkKeys": [
+        "M44"
+      ],
+      "numericId": 28660,
+      "numericIds": [
+        28660
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0023.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0023.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0024",
+      "legacyId": "YKW-ARK-0024",
+      "name": "Voidera",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 24,
+      "sourceNumber": 24,
+      "displayCode": "0020M41",
+      "displayCodes": [
+        "0020M41"
+      ],
+      "arkKey": "M41",
+      "arkKeys": [
+        "M41"
+      ],
+      "numericId": 28657,
+      "numericIds": [
+        28657
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0024.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0024.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0025",
+      "legacyId": "YKW-ARK-0025",
+      "name": "Pakkun/Gaburiel",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 25,
+      "sourceNumber": 25,
+      "displayCode": "0014M3V",
+      "displayCodes": [
+        "0014M3V"
+      ],
+      "arkKey": "M3V",
+      "arkKeys": [
+        "M3V"
+      ],
+      "numericId": 28651,
+      "numericIds": [
+        28651
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0025.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0025.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0026",
+      "legacyId": "YKW-ARK-0026",
+      "name": "Tidynator",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 26,
+      "sourceNumber": 26,
+      "displayCode": "0016M3X",
+      "displayCodes": [
+        "0016M3X"
+      ],
+      "arkKey": "M3X",
+      "arkKeys": [
+        "M3X"
+      ],
+      "numericId": 28653,
+      "numericIds": [
+        28653
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0026.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0026.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0027",
+      "legacyId": "YKW-ARK-0027",
+      "name": "Himoji",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 27,
+      "sourceNumber": 27,
+      "displayCode": "0024M45",
+      "displayCodes": [
+        "0024M45"
+      ],
+      "arkKey": "M45",
+      "arkKeys": [
+        "M45"
+      ],
+      "numericId": 28661,
+      "numericIds": [
+        28661
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0027.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0027.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0028",
+      "legacyId": "YKW-ARK-0028",
+      "name": "Inari/Tatarigitsune",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 28,
+      "sourceNumber": 28,
+      "displayCode": "0045M4Q",
+      "displayCodes": [
+        "0045M4Q"
+      ],
+      "arkKey": "M4Q",
+      "arkKeys": [
+        "M4Q"
+      ],
+      "numericId": 28682,
+      "numericIds": [
+        28682
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0028.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0028.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0029",
+      "legacyId": "YKW-ARK-0029",
+      "name": "Semicolon/Bugaboo",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 29,
+      "sourceNumber": 29,
+      "displayCode": "0047M4S",
+      "displayCodes": [
+        "0047M4S"
+      ],
+      "arkKey": "M4S",
+      "arkKeys": [
+        "M4S"
+      ],
+      "numericId": 28684,
+      "numericIds": [
+        28684
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0029.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0029.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    }
+  ]
+}

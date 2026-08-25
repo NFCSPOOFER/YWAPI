@@ -1,0 +1,253 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0333",
+      "legacyId": "YKW-ARK-0333",
+      "name": "DX Stormweaver, large toy replica of the Stormweaver",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 333,
+      "sourceNumber": 1,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0333.png",
+      "imageBack": null,
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0334",
+      "legacyId": "YKW-ARK-0334",
+      "name": "Small toy replica of the Stormweaver",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 334,
+      "sourceNumber": 2,
+      "displayCode": "0101MBU",
+      "displayCodes": [
+        "0101MBU"
+      ],
+      "arkKey": "MBU",
+      "arkKeys": [
+        "MBU"
+      ],
+      "numericId": 28938,
+      "numericIds": [
+        28938
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0334.png",
+      "imageBack": null,
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0335",
+      "legacyId": "YKW-ARK-0335",
+      "name": "Small toy replica of the Stormwaver Ver. Lord Acala: Heaven",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 335,
+      "sourceNumber": 3,
+      "displayCode": "0101MBU",
+      "displayCodes": [
+        "0101MBU"
+      ],
+      "arkKey": "MBU",
+      "arkKeys": [
+        "MBU"
+      ],
+      "numericId": 28938,
+      "numericIds": [
+        28938
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0335.png",
+      "imageBack": null,
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0336",
+      "legacyId": "YKW-ARK-0336",
+      "name": "Suzaku Soutenzan",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 336,
+      "sourceNumber": 4,
+      "displayCode": "0102MBV",
+      "displayCodes": [
+        "0102MBV"
+      ],
+      "arkKey": "MBV",
+      "arkKeys": [
+        "MBV"
+      ],
+      "numericId": 28939,
+      "numericIds": [
+        28939
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0336.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0336.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0337",
+      "legacyId": "YKW-ARK-0337",
+      "name": "Genbu Hotenfu",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 337,
+      "sourceNumber": 5,
+      "displayCode": "0104MBX",
+      "displayCodes": [
+        "0104MBX"
+      ],
+      "arkKey": "MBX",
+      "arkKeys": [
+        "MBX"
+      ],
+      "numericId": 28941,
+      "numericIds": [
+        28941
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0337.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0337.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0338",
+      "legacyId": "YKW-ARK-0338",
+      "name": "Wildfire Blaze",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 338,
+      "sourceNumber": 6,
+      "displayCode": "0103MBW",
+      "displayCodes": [
+        "0103MBW"
+      ],
+      "arkKey": "MBW",
+      "arkKeys": [
+        "MBW"
+      ],
+      "numericId": 28940,
+      "numericIds": [
+        28940
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0339",
+      "legacyId": "YKW-ARK-0339",
+      "name": "Tiger's Talon",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 339,
+      "sourceNumber": 7,
+      "displayCode": "0105MBY",
+      "displayCodes": [
+        "0105MBY"
+      ],
+      "arkKey": "MBY",
+      "arkKeys": [
+        "MBY"
+      ],
+      "numericId": 28942,
+      "numericIds": [
+        28942
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0339.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0339.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0340",
+      "legacyId": "YKW-ARK-0340",
+      "name": "Small toy replica of the Enma Blade and Jaou Ken",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 340,
+      "sourceNumber": 8,
+      "displayCode": "0106MBZ",
+      "displayCodes": [
+        "0106MBZ",
+        "0107MC0"
+      ],
+      "arkKey": "MBZ",
+      "arkKeys": [
+        "MBZ",
+        "MC0"
+      ],
+      "numericId": 28943,
+      "numericIds": [
+        28943,
+        28944
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0340.png",
+      "imageBack": null,
+      "status": "conflict",
+      "scanCount": 17,
+      "uniqueTagCount": 15
+    },
+    {
+      "id": "YW-ARK-0341",
+      "legacyId": "YKW-ARK-0341",
+      "name": "Golden Stormweaver",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 341,
+      "sourceNumber": 9,
+      "displayCode": "0108MC1",
+      "displayCodes": [
+        "0108MC1"
+      ],
+      "arkKey": "MC1",
+      "arkKeys": [
+        "MC1"
+      ],
+      "numericId": 28945,
+      "numericIds": [
+        28945
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0341.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0341.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    }
+  ]
+}

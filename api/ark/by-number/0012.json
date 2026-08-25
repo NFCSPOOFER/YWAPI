@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0012",
+    "legacyId": "YKW-ARK-0012",
+    "name": "Lucky/Dogman",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 12,
+    "sourceNumber": 12,
+    "displayCode": "0015M3W",
+    "displayCodes": [
+      "0015M3W"
+    ],
+    "arkKey": "M3W",
+    "arkKeys": [
+      "M3W"
+    ],
+    "numericId": 28652,
+    "numericIds": [
+      28652
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0012.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0012.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

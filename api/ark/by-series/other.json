@@ -1,0 +1,231 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0325",
+      "legacyId": "YKW-ARK-0325",
+      "name": "Yasha Enma",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "CoroCoro Comic Giveaway",
+      "type": "Ark",
+      "catalogNumber": 325,
+      "sourceNumber": 325,
+      "displayCode": "0117M6Q",
+      "displayCodes": [
+        "0117M6Q"
+      ],
+      "arkKey": "M6Q",
+      "arkKeys": [
+        "M6Q"
+      ],
+      "numericId": 28754,
+      "numericIds": [
+        28754
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0325.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0325.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0326",
+      "legacyId": "YKW-ARK-0326",
+      "name": "Enma",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Comes with Forever Friends on DVD",
+      "type": "Ark",
+      "catalogNumber": 326,
+      "sourceNumber": 326,
+      "displayCode": "0118M6R",
+      "displayCodes": [
+        "0118M6R",
+        "0213M9E"
+      ],
+      "arkKey": "M6R",
+      "arkKeys": [
+        "M6R",
+        "M9E"
+      ],
+      "numericId": 28755,
+      "numericIds": [
+        28755,
+        28850
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0326.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0326.png",
+      "status": "conflict",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0327",
+      "legacyId": "YKW-ARK-0327",
+      "name": "Gusto",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Pre-order Yo-kai Watch: Forever Friends Tickets",
+      "type": "Ark",
+      "catalogNumber": 327,
+      "sourceNumber": 327,
+      "displayCode": "0069M5E",
+      "displayCodes": [
+        "0069M5E"
+      ],
+      "arkKey": "M5E",
+      "arkKeys": [
+        "M5E"
+      ],
+      "numericId": 28706,
+      "numericIds": [
+        28706
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0327.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0327.png",
+      "status": "confirmed",
+      "scanCount": 12,
+      "uniqueTagCount": 10
+    },
+    {
+      "id": "YW-ARK-0328",
+      "legacyId": "YKW-ARK-0328",
+      "name": "Jibanyan, Jibanyan (SS) and Gusto",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Physical Yo-kai Watch 4 (Limited)",
+      "type": "Ark",
+      "catalogNumber": 328,
+      "sourceNumber": 328,
+      "displayCode": "0158M7V",
+      "displayCodes": [
+        "0158M7V"
+      ],
+      "arkKey": "M7V",
+      "arkKeys": [
+        "M7V"
+      ],
+      "numericId": 28795,
+      "numericIds": [
+        28795
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0328.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0328.png",
+      "status": "confirmed",
+      "scanCount": 13,
+      "uniqueTagCount": 10
+    },
+    {
+      "id": "YW-ARK-0329",
+      "legacyId": "YKW-ARK-0329",
+      "name": "Fudou Myouou Boy/Fudou Myouou-kai",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Buy 10 packs of any keystone set",
+      "type": "Ark",
+      "catalogNumber": 329,
+      "sourceNumber": 329,
+      "displayCode": "0187M8O",
+      "displayCodes": [
+        "0187M8O"
+      ],
+      "arkKey": "M8O",
+      "arkKeys": [
+        "M8O"
+      ],
+      "numericId": 28824,
+      "numericIds": [
+        28824
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0329.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0329.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0330",
+      "legacyId": "YKW-ARK-0330",
+      "name": "Enma, Jibanyan, Komasan & Whisper",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 330,
+      "sourceNumber": 330,
+      "displayCode": "0212M9D",
+      "displayCodes": [
+        "0212M9D"
+      ],
+      "arkKey": "M9D",
+      "arkKeys": [
+        "M9D"
+      ],
+      "numericId": 28849,
+      "numericIds": [
+        28849
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0330.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0330.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0331",
+      "legacyId": "YKW-ARK-0331",
+      "name": "Jinpei Jiba",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Preorder Yo-kai Academy Y Tickets",
+      "type": "Ark",
+      "catalogNumber": 331,
+      "sourceNumber": 331,
+      "displayCode": "0288MBH",
+      "displayCodes": [
+        "0288MBH"
+      ],
+      "arkKey": "MBH",
+      "arkKeys": [
+        "MBH"
+      ],
+      "numericId": 28925,
+      "numericIds": [
+        28925
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0331.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0331.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0332",
+      "legacyId": "YKW-ARK-0332",
+      "name": "Kengo Benimaru (Holy Sword Version)",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Yo-kai Watch Fan Magazine Issue #11",
+      "type": "Ark",
+      "catalogNumber": 332,
+      "sourceNumber": 332,
+      "displayCode": "0536MIS",
+      "displayCodes": [
+        "0536MIS"
+      ],
+      "arkKey": "MIS",
+      "arkKeys": [
+        "MIS"
+      ],
+      "numericId": 29188,
+      "numericIds": [
+        29188
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0332.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0332.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0213",
+    "legacyId": "YKW-ARK-0213",
+    "name": "Kawataro",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Jewel)",
+    "type": "Ark",
+    "catalogNumber": 213,
+    "sourceNumber": 213,
+    "displayCode": "0287MBG",
+    "displayCodes": [
+      "0287MBG"
+    ],
+    "arkKey": "MBG",
+    "arkKeys": [
+      "MBG"
+    ],
+    "numericId": 28924,
+    "numericIds": [
+      28924
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0213.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0213.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

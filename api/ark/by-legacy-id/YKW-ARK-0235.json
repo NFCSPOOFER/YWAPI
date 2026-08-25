@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0235",
+    "legacyId": "YKW-ARK-0235",
+    "name": "Shiranyansu",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Endangered)",
+    "type": "Ark",
+    "catalogNumber": 235,
+    "sourceNumber": 235,
+    "displayCode": "0522MIE",
+    "displayCodes": [
+      "0522MIE"
+    ],
+    "arkKey": "MIE",
+    "arkKeys": [
+      "MIE"
+    ],
+    "numericId": 29174,
+    "numericIds": [
+      29174
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0235.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0235.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

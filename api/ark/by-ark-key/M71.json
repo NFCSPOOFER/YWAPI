@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0047",
+    "legacyId": "YKW-ARK-0047",
+    "name": "Shurakoma",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 47,
+    "sourceNumber": 47,
+    "displayCode": "0128M71",
+    "displayCodes": [
+      "0128M71"
+    ],
+    "arkKey": "M71",
+    "arkKeys": [
+      "M71"
+    ],
+    "numericId": 28765,
+    "numericIds": [
+      28765
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0047.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0047.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

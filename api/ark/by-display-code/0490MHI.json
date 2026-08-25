@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0264",
+    "legacyId": "YKW-ARK-0264",
+    "name": "Emenyan",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Gemnyan)",
+    "type": "Ark",
+    "catalogNumber": 264,
+    "sourceNumber": 264,
+    "displayCode": "0490MHI",
+    "displayCodes": [
+      "0490MHI"
+    ],
+    "arkKey": "MHI",
+    "arkKeys": [
+      "MHI"
+    ],
+    "numericId": 29142,
+    "numericIds": [
+      29142
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0264.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0264.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

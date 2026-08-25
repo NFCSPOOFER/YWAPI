@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0044",
+    "legacyId": "YKW-ARK-0044",
+    "name": "Ikarin/Gesodrill",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 44,
+    "sourceNumber": 44,
+    "displayCode": "0053M4Y",
+    "displayCodes": [
+      "0053M4Y"
+    ],
+    "arkKey": "M4Y",
+    "arkKeys": [
+      "M4Y"
+    ],
+    "numericId": 28690,
+    "numericIds": [
+      28690
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0044.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0044.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

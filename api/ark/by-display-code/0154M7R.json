@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0064",
+    "legacyId": "YKW-ARK-0064",
+    "name": "Zazel",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Super Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 64,
+    "sourceNumber": 64,
+    "displayCode": "0154M7R",
+    "displayCodes": [
+      "0154M7R"
+    ],
+    "arkKey": "M7R",
+    "arkKeys": [
+      "M7R"
+    ],
+    "numericId": 28791,
+    "numericIds": [
+      28791
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0064.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0064.png",
+    "status": "single_scan",
+    "scanCount": 2,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0028",
+    "legacyId": "YKW-ARK-0028",
+    "name": "Inari/Tatarigitsune",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 28,
+    "sourceNumber": 28,
+    "displayCode": "0045M4Q",
+    "displayCodes": [
+      "0045M4Q"
+    ],
+    "arkKey": "M4Q",
+    "arkKeys": [
+      "M4Q"
+    ],
+    "numericId": 28682,
+    "numericIds": [
+      28682
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0028.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0028.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

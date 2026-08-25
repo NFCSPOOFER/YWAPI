@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0332",
+    "legacyId": "YKW-ARK-0332",
+    "name": "Kengo Benimaru (Holy Sword Version)",
+    "series": "Other",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "Yo-kai Watch Fan Magazine Issue #11",
+    "type": "Ark",
+    "catalogNumber": 332,
+    "sourceNumber": 332,
+    "displayCode": "0536MIS",
+    "displayCodes": [
+      "0536MIS"
+    ],
+    "arkKey": "MIS",
+    "arkKeys": [
+      "MIS"
+    ],
+    "numericId": 29188,
+    "numericIds": [
+      29188
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0332.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0332.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

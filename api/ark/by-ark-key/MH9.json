@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0309",
+    "legacyId": "YKW-ARK-0309",
+    "name": "Ja-shin Kachi Kachi",
+    "series": "Series 03 - Yo-kai World's 1st Martial Art Tournament - Evil God Kachi Kachi",
+    "seriesGroup": "Yo-kai Keystone Series",
+    "rarity": "Ultimate Rare",
+    "type": "Ark",
+    "catalogNumber": 309,
+    "sourceNumber": 309,
+    "displayCode": "0481MH9",
+    "displayCodes": [
+      "0481MH9"
+    ],
+    "arkKey": "MH9",
+    "arkKeys": [
+      "MH9"
+    ],
+    "numericId": 29133,
+    "numericIds": [
+      29133
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0309.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0309.png",
+    "status": "confirmed",
+    "scanCount": 12,
+    "uniqueTagCount": 12
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0241",
+    "legacyId": "YKW-ARK-0241",
+    "name": "Silver Lining",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 241,
+    "sourceNumber": 241,
+    "displayCode": "0242MA7",
+    "displayCodes": [
+      "0242MA7"
+    ],
+    "arkKey": "MA7",
+    "arkKeys": [
+      "MA7"
+    ],
+    "numericId": 28879,
+    "numericIds": [
+      28879
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0241.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0241.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

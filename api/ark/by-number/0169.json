@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0169",
+    "legacyId": "YKW-ARK-0169",
+    "name": "Narikama",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 169,
+    "sourceNumber": 169,
+    "displayCode": "0100M69",
+    "displayCodes": [
+      "0100M69"
+    ],
+    "arkKey": "M69",
+    "arkKeys": [
+      "M69"
+    ],
+    "numericId": 28737,
+    "numericIds": [
+      28737
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0169.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0169.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 3
+  }
+}

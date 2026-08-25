@@ -1,0 +1,648 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0185",
+      "legacyId": "YKW-ARK-0185",
+      "name": "Gemnyans/Crystal Bushinyan",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 185,
+      "sourceNumber": 185,
+      "displayCode": "0280MB9",
+      "displayCodes": [
+        "0280MB9"
+      ],
+      "arkKey": "MB9",
+      "arkKeys": [
+        "MB9"
+      ],
+      "numericId": 28917,
+      "numericIds": [
+        28917
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0185.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0185.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0186",
+      "legacyId": "YKW-ARK-0186",
+      "name": "Shikakusho Kaichi",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Jewel)",
+      "type": "Ark",
+      "catalogNumber": 186,
+      "sourceNumber": 186,
+      "displayCode": "0286MBF",
+      "displayCodes": [
+        "0286MBF"
+      ],
+      "arkKey": "MBF",
+      "arkKeys": [
+        "MBF"
+      ],
+      "numericId": 28923,
+      "numericIds": [
+        28923
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0186.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0186.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0187",
+      "legacyId": "YKW-ARK-0187",
+      "name": "Soyokusho Ran",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Jewel)",
+      "type": "Ark",
+      "catalogNumber": 187,
+      "sourceNumber": 187,
+      "displayCode": "0283MBC",
+      "displayCodes": [
+        "0283MBC"
+      ],
+      "arkKey": "MBC",
+      "arkKeys": [
+        "MBC"
+      ],
+      "numericId": 28920,
+      "numericIds": [
+        28920
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0187.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0187.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0188",
+      "legacyId": "YKW-ARK-0188",
+      "name": "Blizzaria/Beach-hime",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 188,
+      "sourceNumber": 188,
+      "displayCode": "0258MAN",
+      "displayCodes": [
+        "0258MAN"
+      ],
+      "arkKey": "MAN",
+      "arkKeys": [
+        "MAN"
+      ],
+      "numericId": 28895,
+      "numericIds": [
+        28895
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0188.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0188.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0189",
+      "legacyId": "YKW-ARK-0189",
+      "name": "Hekikakusho Gyuma",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Jewel)",
+      "type": "Ark",
+      "catalogNumber": 189,
+      "sourceNumber": 189,
+      "displayCode": "0284MBD",
+      "displayCodes": [
+        "0284MBD"
+      ],
+      "arkKey": "MBD",
+      "arkKeys": [
+        "MBD"
+      ],
+      "numericId": 28921,
+      "numericIds": [
+        28921
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0189.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0189.png",
+      "status": "confirmed",
+      "scanCount": 9,
+      "uniqueTagCount": 9
+    },
+    {
+      "id": "YW-ARK-0190",
+      "legacyId": "YKW-ARK-0190",
+      "name": "Kuro Nyankishi",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 190,
+      "sourceNumber": 190,
+      "displayCode": "0256MAL",
+      "displayCodes": [
+        "0256MAL"
+      ],
+      "arkKey": "MAL",
+      "arkKeys": [
+        "MAL"
+      ],
+      "numericId": 28893,
+      "numericIds": [
+        28893
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0190.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0190.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0191",
+      "legacyId": "YKW-ARK-0191",
+      "name": "Shiro Nyanmajo",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 191,
+      "sourceNumber": 191,
+      "displayCode": "0262MAR",
+      "displayCodes": [
+        "0262MAR"
+      ],
+      "arkKey": "MAR",
+      "arkKeys": [
+        "MAR"
+      ],
+      "numericId": 28899,
+      "numericIds": [
+        28899
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0191.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0191.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0192",
+      "legacyId": "YKW-ARK-0192",
+      "name": "Tsundora-hime/Hyogaki-hime",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 192,
+      "sourceNumber": 192,
+      "displayCode": "0279MB8",
+      "displayCodes": [
+        "0279MB8"
+      ],
+      "arkKey": "MB8",
+      "arkKeys": [
+        "MB8"
+      ],
+      "numericId": 28916,
+      "numericIds": [
+        28916
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0192.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0192.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0193",
+      "legacyId": "YKW-ARK-0193",
+      "name": "Hovernyan",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 193,
+      "sourceNumber": 193,
+      "displayCode": "0236MA1",
+      "displayCodes": [
+        "0236MA1"
+      ],
+      "arkKey": "MA1",
+      "arkKeys": [
+        "MA1"
+      ],
+      "numericId": 28873,
+      "numericIds": [
+        28873
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0193.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0193.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0194",
+      "legacyId": "YKW-ARK-0194",
+      "name": "Sir Nyansalot",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 194,
+      "sourceNumber": 194,
+      "displayCode": "0268MAX",
+      "displayCodes": [
+        "0268MAX"
+      ],
+      "arkKey": "MAX",
+      "arkKeys": [
+        "MAX"
+      ],
+      "numericId": 28905,
+      "numericIds": [
+        28905
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0194.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0194.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0195",
+      "legacyId": "YKW-ARK-0195",
+      "name": "Maginyan",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 195,
+      "sourceNumber": 195,
+      "displayCode": "0250MAF",
+      "displayCodes": [
+        "0250MAF"
+      ],
+      "arkKey": "MAF",
+      "arkKeys": [
+        "MAF"
+      ],
+      "numericId": 28887,
+      "numericIds": [
+        28887
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0195.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0195.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0196",
+      "legacyId": "YKW-ARK-0196",
+      "name": "Illuminoct",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 196,
+      "sourceNumber": 196,
+      "displayCode": "0235MA0",
+      "displayCodes": [
+        "0235MA0"
+      ],
+      "arkKey": "MA0",
+      "arkKeys": [
+        "MA0"
+      ],
+      "numericId": 28872,
+      "numericIds": [
+        28872
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0196.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0196.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0197",
+      "legacyId": "YKW-ARK-0197",
+      "name": "Darkyubi",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 197,
+      "sourceNumber": 197,
+      "displayCode": "0238MA3",
+      "displayCodes": [
+        "0238MA3"
+      ],
+      "arkKey": "MA3",
+      "arkKeys": [
+        "MA3"
+      ],
+      "numericId": 28875,
+      "numericIds": [
+        28875
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0197.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0197.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0198",
+      "legacyId": "YKW-ARK-0198",
+      "name": "Robonyan",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 198,
+      "sourceNumber": 198,
+      "displayCode": "0228M9T",
+      "displayCodes": [
+        "0228M9T"
+      ],
+      "arkKey": "M9T",
+      "arkKeys": [
+        "M9T"
+      ],
+      "numericId": 28865,
+      "numericIds": [
+        28865
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0198.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0198.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0199",
+      "legacyId": "YKW-ARK-0199",
+      "name": "Baddinyan",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 199,
+      "sourceNumber": 199,
+      "displayCode": "0263MAS",
+      "displayCodes": [
+        "0263MAS"
+      ],
+      "arkKey": "MAS",
+      "arkKeys": [
+        "MAS"
+      ],
+      "numericId": 28900,
+      "numericIds": [
+        28900
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0199.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0199.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0200",
+      "legacyId": "YKW-ARK-0200",
+      "name": "Gargaros",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 200,
+      "sourceNumber": 200,
+      "displayCode": "0230M9V",
+      "displayCodes": [
+        "0230M9V"
+      ],
+      "arkKey": "M9V",
+      "arkKeys": [
+        "M9V"
+      ],
+      "numericId": 28867,
+      "numericIds": [
+        28867
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0200.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0200.png",
+      "status": "confirmed",
+      "scanCount": 10,
+      "uniqueTagCount": 10
+    },
+    {
+      "id": "YW-ARK-0201",
+      "legacyId": "YKW-ARK-0201",
+      "name": "Noko",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 201,
+      "sourceNumber": 201,
+      "displayCode": "0223M9O",
+      "displayCodes": [
+        "0223M9O"
+      ],
+      "arkKey": "M9O",
+      "arkKeys": [
+        "M9O"
+      ],
+      "numericId": 28860,
+      "numericIds": [
+        28860
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0201.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0201.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0202",
+      "legacyId": "YKW-ARK-0202",
+      "name": "Bananose",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 202,
+      "sourceNumber": 202,
+      "displayCode": "0251MAG",
+      "displayCodes": [
+        "0251MAG"
+      ],
+      "arkKey": "MAG",
+      "arkKeys": [
+        "MAG"
+      ],
+      "numericId": 28888,
+      "numericIds": [
+        28888
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0202.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0202.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0203",
+      "legacyId": "YKW-ARK-0203",
+      "name": "Frostina",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 203,
+      "sourceNumber": 203,
+      "displayCode": "0219M9K",
+      "displayCodes": [
+        "0219M9K"
+      ],
+      "arkKey": "M9K",
+      "arkKeys": [
+        "M9K"
+      ],
+      "numericId": 28856,
+      "numericIds": [
+        28856
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0203.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0203.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0204",
+      "legacyId": "YKW-ARK-0204",
+      "name": "Roughraff",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 204,
+      "sourceNumber": 204,
+      "displayCode": "0220M9L",
+      "displayCodes": [
+        "0220M9L"
+      ],
+      "arkKey": "M9L",
+      "arkKeys": [
+        "M9L"
+      ],
+      "numericId": 28857,
+      "numericIds": [
+        28857
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0204.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0204.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0205",
+      "legacyId": "YKW-ARK-0205",
+      "name": "Molar Petite",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 205,
+      "sourceNumber": 205,
+      "displayCode": "0243MA8",
+      "displayCodes": [
+        "0243MA8"
+      ],
+      "arkKey": "MA8",
+      "arkKeys": [
+        "MA8"
+      ],
+      "numericId": 28880,
+      "numericIds": [
+        28880
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0205.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0205.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 8
+    },
+    {
+      "id": "YW-ARK-0206",
+      "legacyId": "YKW-ARK-0206",
+      "name": "Sandmeh",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 206,
+      "sourceNumber": 206,
+      "displayCode": "0239MA4",
+      "displayCodes": [
+        "0239MA4"
+      ],
+      "arkKey": "MA4",
+      "arkKeys": [
+        "MA4"
+      ],
+      "numericId": 28876,
+      "numericIds": [
+        28876
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0206.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0206.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0207",
+      "legacyId": "YKW-ARK-0207",
+      "name": "Dimmy",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 207,
+      "sourceNumber": 207,
+      "displayCode": "0218M9J",
+      "displayCodes": [
+        "0218M9J"
+      ],
+      "arkKey": "M9J",
+      "arkKeys": [
+        "M9J"
+      ],
+      "numericId": 28855,
+      "numericIds": [
+        28855
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0207.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0207.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    }
+  ]
+}

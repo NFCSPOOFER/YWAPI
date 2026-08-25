@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0328",
+    "legacyId": "YKW-ARK-0328",
+    "name": "Jibanyan, Jibanyan (SS) and Gusto",
+    "series": "Other",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "Physical Yo-kai Watch 4 (Limited)",
+    "type": "Ark",
+    "catalogNumber": 328,
+    "sourceNumber": 328,
+    "displayCode": "0158M7V",
+    "displayCodes": [
+      "0158M7V"
+    ],
+    "arkKey": "M7V",
+    "arkKeys": [
+      "M7V"
+    ],
+    "numericId": 28795,
+    "numericIds": [
+      28795
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0328.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0328.png",
+    "status": "confirmed",
+    "scanCount": 13,
+    "uniqueTagCount": 10
+  }
+}

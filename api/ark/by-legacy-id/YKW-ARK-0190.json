@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0190",
+    "legacyId": "YKW-ARK-0190",
+    "name": "Kuro Nyankishi",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 190,
+    "sourceNumber": 190,
+    "displayCode": "0256MAL",
+    "displayCodes": [
+      "0256MAL"
+    ],
+    "arkKey": "MAL",
+    "arkKeys": [
+      "MAL"
+    ],
+    "numericId": 28893,
+    "numericIds": [
+      28893
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0190.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0190.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 6
+  }
+}

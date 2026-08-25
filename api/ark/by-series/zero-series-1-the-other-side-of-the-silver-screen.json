@@ -1,0 +1,424 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0080",
+      "legacyId": "YKW-ARK-0080",
+      "name": "Gusto/Neko'ou Bastet",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Ultimate Rare",
+      "type": "Ark",
+      "catalogNumber": 80,
+      "sourceNumber": 80,
+      "displayCode": "0066M5B",
+      "displayCodes": [
+        "0066M5B"
+      ],
+      "arkKey": "M5B",
+      "arkKeys": [
+        "M5B"
+      ],
+      "numericId": 28703,
+      "numericIds": [
+        28703
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0080.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0080.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0081",
+      "legacyId": "YKW-ARK-0081",
+      "name": "Kappa/Kappaou Sagojou",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Ultimate Rare",
+      "type": "Ark",
+      "catalogNumber": 81,
+      "sourceNumber": 81,
+      "displayCode": "0067M5C",
+      "displayCodes": [
+        "0067M5C"
+      ],
+      "arkKey": "M5C",
+      "arkKeys": [
+        "M5C"
+      ],
+      "numericId": 28704,
+      "numericIds": [
+        28704
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0081.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0081.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0082",
+      "legacyId": "YKW-ARK-0082",
+      "name": "Zashiki-Warashi/Tenguou Kurama",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Ultimate Rare",
+      "type": "Ark",
+      "catalogNumber": 82,
+      "sourceNumber": 82,
+      "displayCode": "0068M5D",
+      "displayCodes": [
+        "0068M5D"
+      ],
+      "arkKey": "M5D",
+      "arkKeys": [
+        "M5D"
+      ],
+      "numericId": 28705,
+      "numericIds": [
+        28705
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0082.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0082.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0083",
+      "legacyId": "YKW-ARK-0083",
+      "name": "Yasha Enma Benibana",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 83,
+      "sourceNumber": 83,
+      "displayCode": "0075M5K",
+      "displayCodes": [
+        "0075M5K"
+      ],
+      "arkKey": "M5K",
+      "arkKeys": [
+        "M5K"
+      ],
+      "numericId": 28712,
+      "numericIds": [
+        28712
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0083.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0083.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0084",
+      "legacyId": "YKW-ARK-0084",
+      "name": "Yasha Enma Rasetsu",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 84,
+      "sourceNumber": 84,
+      "displayCode": "0076M5L",
+      "displayCodes": [
+        "0076M5L"
+      ],
+      "arkKey": "M5L",
+      "arkKeys": [
+        "M5L"
+      ],
+      "numericId": 28713,
+      "numericIds": [
+        28713
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0084.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0084.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0085",
+      "legacyId": "YKW-ARK-0085",
+      "name": "Shien",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 85,
+      "sourceNumber": 85,
+      "displayCode": "0073M5I",
+      "displayCodes": [
+        "0073M5I"
+      ],
+      "arkKey": "M5I",
+      "arkKeys": [
+        "M5I"
+      ],
+      "numericId": 28710,
+      "numericIds": [
+        28710
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0085.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0085.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0086",
+      "legacyId": "YKW-ARK-0086",
+      "name": "Kuro Oni",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Kuroi)",
+      "type": "Ark",
+      "catalogNumber": 86,
+      "sourceNumber": 86,
+      "displayCode": "0110M6J",
+      "displayCodes": [
+        "0110M6J"
+      ],
+      "arkKey": "M6J",
+      "arkKeys": [
+        "M6J"
+      ],
+      "numericId": 28747,
+      "numericIds": [
+        28747
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0086.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0086.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0087",
+      "legacyId": "YKW-ARK-0087",
+      "name": "Kuro Oni",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 87,
+      "sourceNumber": 87,
+      "displayCode": "0111M6K",
+      "displayCodes": [
+        "0111M6K"
+      ],
+      "arkKey": "M6K",
+      "arkKeys": [
+        "M6K"
+      ],
+      "numericId": 28748,
+      "numericIds": [
+        28748
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0087.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0087.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0088",
+      "legacyId": "YKW-ARK-0088",
+      "name": "Kukuri-hime",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 88,
+      "sourceNumber": 88,
+      "displayCode": "0077M5M",
+      "displayCodes": [
+        "0077M5M"
+      ],
+      "arkKey": "M5M",
+      "arkKeys": [
+        "M5M"
+      ],
+      "numericId": 28714,
+      "numericIds": [
+        28714
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0088.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0088.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0089",
+      "legacyId": "YKW-ARK-0089",
+      "name": "Karasu Tengu",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 89,
+      "sourceNumber": 89,
+      "displayCode": "0079M5O",
+      "displayCodes": [
+        "0079M5O"
+      ],
+      "arkKey": "M5O",
+      "arkKeys": [
+        "M5O"
+      ],
+      "numericId": 28716,
+      "numericIds": [
+        28716
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0089.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0089.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0090",
+      "legacyId": "YKW-ARK-0090",
+      "name": "Karasu Tengu",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 90,
+      "sourceNumber": 90,
+      "displayCode": "0112M6L",
+      "displayCodes": [
+        "0112M6L"
+      ],
+      "arkKey": "M6L",
+      "arkKeys": [
+        "M6L"
+      ],
+      "numericId": 28749,
+      "numericIds": [
+        28749
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0090.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0090.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0091",
+      "legacyId": "YKW-ARK-0091",
+      "name": "Yamata no Orochi",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 91,
+      "sourceNumber": 91,
+      "displayCode": "0113M6M",
+      "displayCodes": [
+        "0113M6M"
+      ],
+      "arkKey": "M6M",
+      "arkKeys": [
+        "M6M"
+      ],
+      "numericId": 28750,
+      "numericIds": [
+        28750
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0091.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0091.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0092",
+      "legacyId": "YKW-ARK-0092",
+      "name": "Tamamo/Tamamo no Mae",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 92,
+      "sourceNumber": 92,
+      "displayCode": "0114M6N",
+      "displayCodes": [
+        "0114M6N"
+      ],
+      "arkKey": "M6N",
+      "arkKeys": [
+        "M6N"
+      ],
+      "numericId": 28751,
+      "numericIds": [
+        28751
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0092.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0092.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 8
+    },
+    {
+      "id": "YW-ARK-0093",
+      "legacyId": "YKW-ARK-0093",
+      "name": "Yamambaa/Yamamba",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 93,
+      "sourceNumber": 93,
+      "displayCode": "0082M5R",
+      "displayCodes": [
+        "0082M5R"
+      ],
+      "arkKey": "M5R",
+      "arkKeys": [
+        "M5R"
+      ],
+      "numericId": 28719,
+      "numericIds": [
+        28719
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0093.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0093.png",
+      "status": "confirmed",
+      "scanCount": 12,
+      "uniqueTagCount": 9
+    },
+    {
+      "id": "YW-ARK-0094",
+      "legacyId": "YKW-ARK-0094",
+      "name": "Hovernyan",
+      "series": "Zero Series 1 - The Other Side of the Silver Screen",
+      "seriesGroup": "Zero Series",
+      "rarity": "Daikichi (Lucky)",
+      "type": "Ark",
+      "catalogNumber": 94,
+      "sourceNumber": 94,
+      "displayCode": "0115M6O",
+      "displayCodes": [
+        "0115M6O"
+      ],
+      "arkKey": "M6O",
+      "arkKeys": [
+        "M6O"
+      ],
+      "numericId": 28752,
+      "numericIds": [
+        28752
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0094.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0094.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    }
+  ]
+}

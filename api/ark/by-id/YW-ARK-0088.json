@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0088",
+    "legacyId": "YKW-ARK-0088",
+    "name": "Kukuri-hime",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 88,
+    "sourceNumber": 88,
+    "displayCode": "0077M5M",
+    "displayCodes": [
+      "0077M5M"
+    ],
+    "arkKey": "M5M",
+    "arkKeys": [
+      "M5M"
+    ],
+    "numericId": 28714,
+    "numericIds": [
+      28714
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0088.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0088.png",
+    "status": "confirmed",
+    "scanCount": 8,
+    "uniqueTagCount": 7
+  }
+}

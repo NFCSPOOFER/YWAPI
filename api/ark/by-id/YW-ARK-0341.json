@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0341",
+    "legacyId": "YKW-ARK-0341",
+    "name": "Golden Stormweaver",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 341,
+    "sourceNumber": 9,
+    "displayCode": "0108MC1",
+    "displayCodes": [
+      "0108MC1"
+    ],
+    "arkKey": "MC1",
+    "arkKeys": [
+      "MC1"
+    ],
+    "numericId": 28945,
+    "numericIds": [
+      28945
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0341.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0341.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

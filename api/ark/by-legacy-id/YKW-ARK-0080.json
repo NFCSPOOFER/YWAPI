@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0080",
+    "legacyId": "YKW-ARK-0080",
+    "name": "Gusto/Neko'ou Bastet",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Ultimate Rare",
+    "type": "Ark",
+    "catalogNumber": 80,
+    "sourceNumber": 80,
+    "displayCode": "0066M5B",
+    "displayCodes": [
+      "0066M5B"
+    ],
+    "arkKey": "M5B",
+    "arkKeys": [
+      "M5B"
+    ],
+    "numericId": 28703,
+    "numericIds": [
+      28703
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0080.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0080.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

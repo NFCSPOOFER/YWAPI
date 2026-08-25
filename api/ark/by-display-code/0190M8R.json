@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0144",
+    "legacyId": "YKW-ARK-0144",
+    "name": "Hungramps",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 144,
+    "sourceNumber": 144,
+    "displayCode": "0190M8R",
+    "displayCodes": [
+      "0190M8R"
+    ],
+    "arkKey": "M8R",
+    "arkKeys": [
+      "M8R"
+    ],
+    "numericId": 28827,
+    "numericIds": [
+      28827
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0144.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0144.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

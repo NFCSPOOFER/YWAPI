@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0283",
+    "legacyId": "YKW-ARK-0283",
+    "name": "Saros",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 283,
+    "sourceNumber": 283,
+    "displayCode": "0551MJ7",
+    "displayCodes": [
+      "0551MJ7"
+    ],
+    "arkKey": "MJ7",
+    "arkKeys": [
+      "MJ7"
+    ],
+    "numericId": 29203,
+    "numericIds": [
+      29203
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0283.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0283.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

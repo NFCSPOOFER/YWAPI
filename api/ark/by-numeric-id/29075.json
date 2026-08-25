@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0219",
+    "legacyId": "YKW-ARK-0219",
+    "name": "Tengu",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 219,
+    "sourceNumber": 219,
+    "displayCode": "0423MFN",
+    "displayCodes": [
+      "0423MFN"
+    ],
+    "arkKey": "MFN",
+    "arkKeys": [
+      "MFN"
+    ],
+    "numericId": 29075,
+    "numericIds": [
+      29075
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0219.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0219.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

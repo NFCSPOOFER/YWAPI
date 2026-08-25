@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0270",
+    "legacyId": "YKW-ARK-0270",
+    "name": "Kiborikkuma/Onikuma",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 270,
+    "sourceNumber": 270,
+    "displayCode": "0316MCO",
+    "displayCodes": [
+      "0316MCO"
+    ],
+    "arkKey": "MCO",
+    "arkKeys": [
+      "MCO"
+    ],
+    "numericId": 28968,
+    "numericIds": [
+      28968
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0270.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0270.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

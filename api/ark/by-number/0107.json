@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0107",
+    "legacyId": "YKW-ARK-0107",
+    "name": "Hovernyan Cao Cao",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Shining)",
+    "type": "Ark",
+    "catalogNumber": 107,
+    "sourceNumber": 107,
+    "displayCode": "0180M8H",
+    "displayCodes": [
+      "0180M8H"
+    ],
+    "arkKey": "M8H",
+    "arkKeys": [
+      "M8H"
+    ],
+    "numericId": 28817,
+    "numericIds": [
+      28817
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0107.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0107.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

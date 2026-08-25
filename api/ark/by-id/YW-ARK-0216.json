@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0216",
+    "legacyId": "YKW-ARK-0216",
+    "name": "Goldenyan",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 216,
+    "sourceNumber": 216,
+    "displayCode": "0336MD8",
+    "displayCodes": [
+      "0336MD8"
+    ],
+    "arkKey": "MD8",
+    "arkKeys": [
+      "MD8"
+    ],
+    "numericId": 28988,
+    "numericIds": [
+      28988
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0216.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0216.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

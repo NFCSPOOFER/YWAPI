@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0255",
+    "legacyId": "YKW-ARK-0255",
+    "name": "Lord Enma Awoken",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Shining)",
+    "type": "Ark",
+    "catalogNumber": 255,
+    "sourceNumber": 255,
+    "displayCode": "0534MIQ",
+    "displayCodes": [
+      "0534MIQ"
+    ],
+    "arkKey": "MIQ",
+    "arkKeys": [
+      "MIQ"
+    ],
+    "numericId": 29186,
+    "numericIds": [
+      29186
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0255.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0255.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

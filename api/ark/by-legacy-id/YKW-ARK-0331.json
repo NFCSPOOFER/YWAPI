@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0331",
+    "legacyId": "YKW-ARK-0331",
+    "name": "Jinpei Jiba",
+    "series": "Other",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "Preorder Yo-kai Academy Y Tickets",
+    "type": "Ark",
+    "catalogNumber": 331,
+    "sourceNumber": 331,
+    "displayCode": "0288MBH",
+    "displayCodes": [
+      "0288MBH"
+    ],
+    "arkKey": "MBH",
+    "arkKeys": [
+      "MBH"
+    ],
+    "numericId": 28925,
+    "numericIds": [
+      28925
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0331.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0331.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

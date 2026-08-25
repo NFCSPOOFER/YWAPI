@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0250",
+    "legacyId": "YKW-ARK-0250",
+    "name": "Cornfused",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 250,
+    "sourceNumber": 250,
+    "displayCode": "0245MAA",
+    "displayCodes": [
+      "0245MAA"
+    ],
+    "arkKey": "MAA",
+    "arkKeys": [
+      "MAA"
+    ],
+    "numericId": 28882,
+    "numericIds": [
+      28882
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0250.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0250.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0335",
+    "legacyId": "YKW-ARK-0335",
+    "name": "Small toy replica of the Stormwaver Ver. Lord Acala: Heaven",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 335,
+    "sourceNumber": 3,
+    "displayCode": "0101MBU",
+    "displayCodes": [
+      "0101MBU"
+    ],
+    "arkKey": "MBU",
+    "arkKeys": [
+      "MBU"
+    ],
+    "numericId": 28938,
+    "numericIds": [
+      28938
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0335.png",
+    "imageBack": null,
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 4
+  }
+}

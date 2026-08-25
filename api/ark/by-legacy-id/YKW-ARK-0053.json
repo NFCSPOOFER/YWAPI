@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0053",
+    "legacyId": "YKW-ARK-0053",
+    "name": "Dianyan The Gemnyans",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Daikichi (Crystal)",
+    "type": "Ark",
+    "catalogNumber": 53,
+    "sourceNumber": 53,
+    "displayCode": "0127M70",
+    "displayCodes": [
+      "0127M70"
+    ],
+    "arkKey": "M70",
+    "arkKeys": [
+      "M70"
+    ],
+    "numericId": 28764,
+    "numericIds": [
+      28764
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0053.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0053.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

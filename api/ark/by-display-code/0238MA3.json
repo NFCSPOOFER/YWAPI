@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0197",
+    "legacyId": "YKW-ARK-0197",
+    "name": "Darkyubi",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 197,
+    "sourceNumber": 197,
+    "displayCode": "0238MA3",
+    "displayCodes": [
+      "0238MA3"
+    ],
+    "arkKey": "MA3",
+    "arkKeys": [
+      "MA3"
+    ],
+    "numericId": 28875,
+    "numericIds": [
+      28875
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0197.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0197.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0046",
+    "legacyId": "YKW-ARK-0046",
+    "name": "Unchikuma",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 46,
+    "sourceNumber": 46,
+    "displayCode": "0101M6A",
+    "displayCodes": [
+      "0101M6A"
+    ],
+    "arkKey": "M6A",
+    "arkKeys": [
+      "M6A"
+    ],
+    "numericId": 28738,
+    "numericIds": [
+      28738
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0046.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0046.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

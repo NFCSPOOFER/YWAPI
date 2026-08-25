@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0253",
+    "legacyId": "YKW-ARK-0253",
+    "name": "Komashura",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 253,
+    "sourceNumber": 253,
+    "displayCode": "0435MFZ",
+    "displayCodes": [
+      "0435MFZ"
+    ],
+    "arkKey": "MFZ",
+    "arkKeys": [
+      "MFZ"
+    ],
+    "numericId": 29087,
+    "numericIds": [
+      29087
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0253.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0253.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

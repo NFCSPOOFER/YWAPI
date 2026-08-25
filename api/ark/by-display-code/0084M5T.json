@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0161",
+    "legacyId": "YKW-ARK-0161",
+    "name": "Gyuuki",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 161,
+    "sourceNumber": 161,
+    "displayCode": "0084M5T",
+    "displayCodes": [
+      "0084M5T"
+    ],
+    "arkKey": "M5T",
+    "arkKeys": [
+      "M5T"
+    ],
+    "numericId": 28721,
+    "numericIds": [
+      28721
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0161.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0161.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

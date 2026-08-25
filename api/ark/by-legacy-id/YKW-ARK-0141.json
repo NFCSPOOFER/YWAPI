@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0141",
+    "legacyId": "YKW-ARK-0141",
+    "name": "Blazion",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 141,
+    "sourceNumber": 141,
+    "displayCode": "0201M92",
+    "displayCodes": [
+      "0201M92"
+    ],
+    "arkKey": "M92",
+    "arkKeys": [
+      "M92"
+    ],
+    "numericId": 28838,
+    "numericIds": [
+      28838
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0141.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0141.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0253",
+      "legacyId": "YKW-ARK-0253",
+      "name": "Komashura",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 253,
+      "sourceNumber": 253,
+      "displayCode": "0435MFZ",
+      "displayCodes": [
+        "0435MFZ"
+      ],
+      "arkKey": "MFZ",
+      "arkKeys": [
+        "MFZ"
+      ],
+      "numericId": 29087,
+      "numericIds": [
+        29087
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0253.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0253.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0254",
+      "legacyId": "YKW-ARK-0254",
+      "name": "Spoilerina",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 254,
+      "sourceNumber": 254,
+      "displayCode": "0535MIR",
+      "displayCodes": [
+        "0535MIR"
+      ],
+      "arkKey": "MIR",
+      "arkKeys": [
+        "MIR"
+      ],
+      "numericId": 29187,
+      "numericIds": [
+        29187
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0254.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0254.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0255",
+      "legacyId": "YKW-ARK-0255",
+      "name": "Lord Enma Awoken",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 255,
+      "sourceNumber": 255,
+      "displayCode": "0534MIQ",
+      "displayCodes": [
+        "0534MIQ"
+      ],
+      "arkKey": "MIQ",
+      "arkKeys": [
+        "MIQ"
+      ],
+      "numericId": 29186,
+      "numericIds": [
+        29186
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0255.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0255.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0256",
+      "legacyId": "YKW-ARK-0256",
+      "name": "Lord Enma/Lord Enma Awoken",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 256,
+      "sourceNumber": 256,
+      "displayCode": "0540MIW",
+      "displayCodes": [
+        "0540MIW"
+      ],
+      "arkKey": "MIW",
+      "arkKeys": [
+        "MIW"
+      ],
+      "numericId": 29192,
+      "numericIds": [
+        29192
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0256.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0256.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0257",
+      "legacyId": "YKW-ARK-0257",
+      "name": "Lord Enma",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 257,
+      "sourceNumber": 257,
+      "displayCode": "0530MIM",
+      "displayCodes": [
+        "0530MIM"
+      ],
+      "arkKey": "MIM",
+      "arkKeys": [
+        "MIM"
+      ],
+      "numericId": 29182,
+      "numericIds": [
+        29182
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0257.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0257.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0258",
+      "legacyId": "YKW-ARK-0258",
+      "name": "Enma Neko'ou Matatabi",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 258,
+      "sourceNumber": 258,
+      "displayCode": "0531MIN",
+      "displayCodes": [
+        "0531MIN"
+      ],
+      "arkKey": "MIN",
+      "arkKeys": [
+        "MIN"
+      ],
+      "numericId": 29183,
+      "numericIds": [
+        29183
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0258.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0258.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0259",
+      "legacyId": "YKW-ARK-0259",
+      "name": "Ancient Enma",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 259,
+      "sourceNumber": 259,
+      "displayCode": "0532MIO",
+      "displayCodes": [
+        "0532MIO"
+      ],
+      "arkKey": "MIO",
+      "arkKeys": [
+        "MIO"
+      ],
+      "numericId": 29184,
+      "numericIds": [
+        29184
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0259.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0259.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0260",
+      "legacyId": "YKW-ARK-0260",
+      "name": "Jinpei & Wampus",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Daikichi",
+      "type": "Ark",
+      "catalogNumber": 260,
+      "sourceNumber": 260,
+      "displayCode": "0537MIT",
+      "displayCodes": [
+        "0537MIT"
+      ],
+      "arkKey": "MIT",
+      "arkKeys": [
+        "MIT"
+      ],
+      "numericId": 29189,
+      "numericIds": [
+        29189
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0260.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0260.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0261",
+      "legacyId": "YKW-ARK-0261",
+      "name": "Kiborikkuma & Kintaronyan",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 261,
+      "sourceNumber": 261,
+      "displayCode": "0539MIV",
+      "displayCodes": [
+        "0539MIV"
+      ],
+      "arkKey": "MIV",
+      "arkKeys": [
+        "MIV"
+      ],
+      "numericId": 29191,
+      "numericIds": [
+        29191
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0261.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0261.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0262",
+      "legacyId": "YKW-ARK-0262",
+      "name": "Sunsheen Enma",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 262,
+      "sourceNumber": 262,
+      "displayCode": "0533MIP",
+      "displayCodes": [
+        "0533MIP"
+      ],
+      "arkKey": "MIP",
+      "arkKeys": [
+        "MIP"
+      ],
+      "numericId": 29185,
+      "numericIds": [
+        29185
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0262.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0262.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0263",
+      "legacyId": "YKW-ARK-0263",
+      "name": "Jibanyan/Rudy",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 263,
+      "sourceNumber": 263,
+      "displayCode": "0538MIU",
+      "displayCodes": [
+        "0538MIU"
+      ],
+      "arkKey": "MIU",
+      "arkKeys": [
+        "MIU"
+      ],
+      "numericId": 29190,
+      "numericIds": [
+        29190
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0263.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0263.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0264",
+      "legacyId": "YKW-ARK-0264",
+      "name": "Emenyan",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Gemnyan)",
+      "type": "Ark",
+      "catalogNumber": 264,
+      "sourceNumber": 264,
+      "displayCode": "0490MHI",
+      "displayCodes": [
+        "0490MHI"
+      ],
+      "arkKey": "MHI",
+      "arkKeys": [
+        "MHI"
+      ],
+      "numericId": 29142,
+      "numericIds": [
+        29142
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0264.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0264.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0265",
+      "legacyId": "YKW-ARK-0265",
+      "name": "Sapphinyan",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Gemnyan)",
+      "type": "Ark",
+      "catalogNumber": 265,
+      "sourceNumber": 265,
+      "displayCode": "0493MHL",
+      "displayCodes": [
+        "0493MHL"
+      ],
+      "arkKey": "MHL",
+      "arkKeys": [
+        "MHL"
+      ],
+      "numericId": 29145,
+      "numericIds": [
+        29145
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0265.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0265.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0266",
+      "legacyId": "YKW-ARK-0266",
+      "name": "Smogmella",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 266,
+      "sourceNumber": 266,
+      "displayCode": "0351MDN",
+      "displayCodes": [
+        "0351MDN"
+      ],
+      "arkKey": "MDN",
+      "arkKeys": [
+        "MDN"
+      ],
+      "numericId": 29003,
+      "numericIds": [
+        29003
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0266.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0266.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0267",
+      "legacyId": "YKW-ARK-0267",
+      "name": "Faux Kappa",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 267,
+      "sourceNumber": 267,
+      "displayCode": "0450MGE",
+      "displayCodes": [
+        "0450MGE"
+      ],
+      "arkKey": "MGE",
+      "arkKeys": [
+        "MGE"
+      ],
+      "numericId": 29102,
+      "numericIds": [
+        29102
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0267.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0267.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0268",
+      "legacyId": "YKW-ARK-0268",
+      "name": "Saya/Makenki",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 268,
+      "sourceNumber": 268,
+      "displayCode": "0309MCH",
+      "displayCodes": [
+        "0309MCH"
+      ],
+      "arkKey": "MCH",
+      "arkKeys": [
+        "MCH"
+      ],
+      "numericId": 28961,
+      "numericIds": [
+        28961
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0268.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0268.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0269",
+      "legacyId": "YKW-ARK-0269",
+      "name": "Hamham/Aburaham",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 269,
+      "sourceNumber": 269,
+      "displayCode": "0315MCN",
+      "displayCodes": [
+        "0315MCN"
+      ],
+      "arkKey": "MCN",
+      "arkKeys": [
+        "MCN"
+      ],
+      "numericId": 28967,
+      "numericIds": [
+        28967
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0269.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0269.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0270",
+      "legacyId": "YKW-ARK-0270",
+      "name": "Kiborikkuma/Onikuma",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 270,
+      "sourceNumber": 270,
+      "displayCode": "0316MCO",
+      "displayCodes": [
+        "0316MCO"
+      ],
+      "arkKey": "MCO",
+      "arkKeys": [
+        "MCO"
+      ],
+      "numericId": 28968,
+      "numericIds": [
+        28968
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0270.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0270.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0271",
+      "legacyId": "YKW-ARK-0271",
+      "name": "Dismarelda",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 271,
+      "sourceNumber": 271,
+      "displayCode": "0326MCY",
+      "displayCodes": [
+        "0326MCY"
+      ],
+      "arkKey": "MCY",
+      "arkKeys": [
+        "MCY"
+      ],
+      "numericId": 28978,
+      "numericIds": [
+        28978
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0271.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0271.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0272",
+      "legacyId": "YKW-ARK-0272",
+      "name": "Nosirs",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 272,
+      "sourceNumber": 272,
+      "displayCode": "0350MDM",
+      "displayCodes": [
+        "0350MDM"
+      ],
+      "arkKey": "MDM",
+      "arkKeys": [
+        "MDM"
+      ],
+      "numericId": 29002,
+      "numericIds": [
+        29002
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0272.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0272.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0273",
+      "legacyId": "YKW-ARK-0273",
+      "name": "Mermaidyn",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 273,
+      "sourceNumber": 273,
+      "displayCode": "0542MIY",
+      "displayCodes": [
+        "0542MIY"
+      ],
+      "arkKey": "MIY",
+      "arkKeys": [
+        "MIY"
+      ],
+      "numericId": 29194,
+      "numericIds": [
+        29194
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0273.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0273.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0274",
+      "legacyId": "YKW-ARK-0274",
+      "name": "Choky/Shiomaneki",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 274,
+      "sourceNumber": 274,
+      "displayCode": "0310MCI",
+      "displayCodes": [
+        "0310MCI"
+      ],
+      "arkKey": "MCI",
+      "arkKeys": [
+        "MCI"
+      ],
+      "numericId": 28962,
+      "numericIds": [
+        28962
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0274.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0274.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0275",
+      "legacyId": "YKW-ARK-0275",
+      "name": "Kawauso",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 275,
+      "sourceNumber": 275,
+      "displayCode": "0313MCL",
+      "displayCodes": [
+        "0313MCL"
+      ],
+      "arkKey": "MCL",
+      "arkKeys": [
+        "MCL"
+      ],
+      "numericId": 28965,
+      "numericIds": [
+        28965
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0275.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0275.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0276",
+      "legacyId": "YKW-ARK-0276",
+      "name": "Happierre",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 276,
+      "sourceNumber": 276,
+      "displayCode": "0330MD2",
+      "displayCodes": [
+        "0330MD2"
+      ],
+      "arkKey": "MD2",
+      "arkKeys": [
+        "MD2"
+      ],
+      "numericId": 28982,
+      "numericIds": [
+        28982
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0276.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0276.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    }
+  ]
+}

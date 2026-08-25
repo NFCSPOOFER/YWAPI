@@ -1,0 +1,24 @@
+{
+  "ark": {
+    "id": "YW-ARK-0152",
+    "legacyId": "YKW-ARK-0152",
+    "name": "Shogunyan/Shogunyan & Robonyan F",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare/Daikichi (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 152,
+    "sourceNumber": 152,
+    "displayCode": null,
+    "displayCodes": [],
+    "arkKey": null,
+    "arkKeys": [],
+    "numericId": null,
+    "numericIds": [],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0152.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0152.png",
+    "status": "missing",
+    "scanCount": 0,
+    "uniqueTagCount": 0
+  }
+}

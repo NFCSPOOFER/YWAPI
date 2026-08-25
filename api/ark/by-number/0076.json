@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0076",
+    "legacyId": "YKW-ARK-0076",
+    "name": "Chokichi/Yamikichi",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 76,
+    "sourceNumber": 76,
+    "displayCode": "0143M7G",
+    "displayCodes": [
+      "0143M7G"
+    ],
+    "arkKey": "M7G",
+    "arkKeys": [
+      "M7G"
+    ],
+    "numericId": 28780,
+    "numericIds": [
+      28780
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0076.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0076.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

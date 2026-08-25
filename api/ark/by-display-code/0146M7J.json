@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0079",
+    "legacyId": "YKW-ARK-0079",
+    "name": "Chiyoko/Valentina",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 79,
+    "sourceNumber": 79,
+    "displayCode": "0146M7J",
+    "displayCodes": [
+      "0146M7J"
+    ],
+    "arkKey": "M7J",
+    "arkKeys": [
+      "M7J"
+    ],
+    "numericId": 28783,
+    "numericIds": [
+      28783
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0079.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0079.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

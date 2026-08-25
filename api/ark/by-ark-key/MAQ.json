@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0019",
+    "legacyId": "YKW-ARK-0019",
+    "name": "Orochi",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 19,
+    "sourceNumber": 19,
+    "displayCode": "0261MAQ",
+    "displayCodes": [
+      "0261MAQ"
+    ],
+    "arkKey": "MAQ",
+    "arkKeys": [
+      "MAQ"
+    ],
+    "numericId": 28898,
+    "numericIds": [
+      28898
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0019.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0019.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

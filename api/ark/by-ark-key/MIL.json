@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0239",
+    "legacyId": "YKW-ARK-0239",
+    "name": "Jibanyan & Komasan & Komajiro/Tomnyan & Koma Knomads",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Daikichi/Miracle)",
+    "type": "Ark",
+    "catalogNumber": 239,
+    "sourceNumber": 239,
+    "displayCode": "0529MIL",
+    "displayCodes": [
+      "0529MIL"
+    ],
+    "arkKey": "MIL",
+    "arkKeys": [
+      "MIL"
+    ],
+    "numericId": 29181,
+    "numericIds": [
+      29181
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0239.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0239.png",
+    "status": "confirmed",
+    "scanCount": 8,
+    "uniqueTagCount": 8
+  }
+}

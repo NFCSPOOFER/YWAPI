@@ -1,0 +1,620 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0231",
+      "legacyId": "YKW-ARK-0231",
+      "name": "Shogunyan",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 231,
+      "sourceNumber": 231,
+      "displayCode": "0221M9M",
+      "displayCodes": [
+        "0221M9M"
+      ],
+      "arkKey": "M9M",
+      "arkKeys": [
+        "M9M"
+      ],
+      "numericId": 28858,
+      "numericIds": [
+        28858
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0231.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0231.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0232",
+      "legacyId": "YKW-ARK-0232",
+      "name": "The Last Nyanmurai",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 232,
+      "sourceNumber": 232,
+      "displayCode": "0527MIJ",
+      "displayCodes": [
+        "0527MIJ"
+      ],
+      "arkKey": "MIJ",
+      "arkKeys": [
+        "MIJ"
+      ],
+      "numericId": 29179,
+      "numericIds": [
+        29179
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0232.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0232.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0233",
+      "legacyId": "YKW-ARK-0233",
+      "name": "Nihonōkaminyan",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Endangered)",
+      "type": "Ark",
+      "catalogNumber": 233,
+      "sourceNumber": 233,
+      "displayCode": "0525MIH",
+      "displayCodes": [
+        "0525MIH"
+      ],
+      "arkKey": "MIH",
+      "arkKeys": [
+        "MIH"
+      ],
+      "numericId": 29177,
+      "numericIds": [
+        29177
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0233.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0233.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0234",
+      "legacyId": "YKW-ARK-0234",
+      "name": "Nihonōkaminyan & Puppynyan",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 234,
+      "sourceNumber": 234,
+      "displayCode": "0526MII",
+      "displayCodes": [
+        "0526MII"
+      ],
+      "arkKey": "MII",
+      "arkKeys": [
+        "MII"
+      ],
+      "numericId": 29178,
+      "numericIds": [
+        29178
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0234.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0234.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0235",
+      "legacyId": "YKW-ARK-0235",
+      "name": "Shiranyansu",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Endangered)",
+      "type": "Ark",
+      "catalogNumber": 235,
+      "sourceNumber": 235,
+      "displayCode": "0522MIE",
+      "displayCodes": [
+        "0522MIE"
+      ],
+      "arkKey": "MIE",
+      "arkKeys": [
+        "MIE"
+      ],
+      "numericId": 29174,
+      "numericIds": [
+        29174
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0235.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0235.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0236",
+      "legacyId": "YKW-ARK-0236",
+      "name": "Nyanbaru Kuina",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Endangered)",
+      "type": "Ark",
+      "catalogNumber": 236,
+      "sourceNumber": 236,
+      "displayCode": "0523MIF",
+      "displayCodes": [
+        "0523MIF"
+      ],
+      "arkKey": "MIF",
+      "arkKeys": [
+        "MIF"
+      ],
+      "numericId": 29175,
+      "numericIds": [
+        29175
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0236.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0236.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0237",
+      "legacyId": "YKW-ARK-0237",
+      "name": "Nyassie",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Endangered)",
+      "type": "Ark",
+      "catalogNumber": 237,
+      "sourceNumber": 237,
+      "displayCode": "0524MIG",
+      "displayCodes": [
+        "0524MIG"
+      ],
+      "arkKey": "MIG",
+      "arkKeys": [
+        "MIG"
+      ],
+      "numericId": 29176,
+      "numericIds": [
+        29176
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0237.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0237.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0238",
+      "legacyId": "YKW-ARK-0238",
+      "name": "Usapyon/Usapyon (American Comic Hero Style)",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 238,
+      "sourceNumber": 238,
+      "displayCode": "0528MIK",
+      "displayCodes": [
+        "0528MIK"
+      ],
+      "arkKey": "MIK",
+      "arkKeys": [
+        "MIK"
+      ],
+      "numericId": 29180,
+      "numericIds": [
+        29180
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0238.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0238.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0239",
+      "legacyId": "YKW-ARK-0239",
+      "name": "Jibanyan & Komasan & Komajiro/Tomnyan & Koma Knomads",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Daikichi/Miracle)",
+      "type": "Ark",
+      "catalogNumber": 239,
+      "sourceNumber": 239,
+      "displayCode": "0529MIL",
+      "displayCodes": [
+        "0529MIL"
+      ],
+      "arkKey": "MIL",
+      "arkKeys": [
+        "MIL"
+      ],
+      "numericId": 29181,
+      "numericIds": [
+        29181
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0239.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0239.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 8
+    },
+    {
+      "id": "YW-ARK-0240",
+      "legacyId": "YKW-ARK-0240",
+      "name": "Little Charrmer",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 240,
+      "sourceNumber": 240,
+      "displayCode": "0241MA6",
+      "displayCodes": [
+        "0241MA6"
+      ],
+      "arkKey": "MA6",
+      "arkKeys": [
+        "MA6"
+      ],
+      "numericId": 28878,
+      "numericIds": [
+        28878
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0240.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0240.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0241",
+      "legacyId": "YKW-ARK-0241",
+      "name": "Silver Lining",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 241,
+      "sourceNumber": 241,
+      "displayCode": "0242MA7",
+      "displayCodes": [
+        "0242MA7"
+      ],
+      "arkKey": "MA7",
+      "arkKeys": [
+        "MA7"
+      ],
+      "numericId": 28879,
+      "numericIds": [
+        28879
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0241.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0241.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0242",
+      "legacyId": "YKW-ARK-0242",
+      "name": "Usapyon",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 242,
+      "sourceNumber": 242,
+      "displayCode": "0244MA9",
+      "displayCodes": [
+        "0244MA9"
+      ],
+      "arkKey": "MA9",
+      "arkKeys": [
+        "MA9"
+      ],
+      "numericId": 28881,
+      "numericIds": [
+        28881
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0242.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0242.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0243",
+      "legacyId": "YKW-ARK-0243",
+      "name": "Deadcool",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 243,
+      "sourceNumber": 243,
+      "displayCode": "0246MAB",
+      "displayCodes": [
+        "0246MAB"
+      ],
+      "arkKey": "MAB",
+      "arkKeys": [
+        "MAB"
+      ],
+      "numericId": 28883,
+      "numericIds": [
+        28883
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0243.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0243.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0244",
+      "legacyId": "YKW-ARK-0244",
+      "name": "Shurikenny",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 244,
+      "sourceNumber": 244,
+      "displayCode": "0379MEF",
+      "displayCodes": [
+        "0379MEF"
+      ],
+      "arkKey": "MEF",
+      "arkKeys": [
+        "MEF"
+      ],
+      "numericId": 29031,
+      "numericIds": [
+        29031
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0244.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0244.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0245",
+      "legacyId": "YKW-ARK-0245",
+      "name": "Koma Knomads",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 245,
+      "sourceNumber": 245,
+      "displayCode": "0516MI8",
+      "displayCodes": [
+        "0516MI8"
+      ],
+      "arkKey": "MI8",
+      "arkKeys": [
+        "MI8"
+      ],
+      "numericId": 29168,
+      "numericIds": [
+        29168
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0245.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0245.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0246",
+      "legacyId": "YKW-ARK-0246",
+      "name": "Showbonyan",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 246,
+      "sourceNumber": 246,
+      "displayCode": "0518MIA",
+      "displayCodes": [
+        "0518MIA"
+      ],
+      "arkKey": "MIA",
+      "arkKeys": [
+        "MIA"
+      ],
+      "numericId": 29170,
+      "numericIds": [
+        29170
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0246.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0246.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0247",
+      "legacyId": "YKW-ARK-0247",
+      "name": "Agent Spect-hare",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 247,
+      "sourceNumber": 247,
+      "displayCode": "0519MIB",
+      "displayCodes": [
+        "0519MIB"
+      ],
+      "arkKey": "MIB",
+      "arkKeys": [
+        "MIB"
+      ],
+      "numericId": 29171,
+      "numericIds": [
+        29171
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0247.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0247.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0248",
+      "legacyId": "YKW-ARK-0248",
+      "name": "Supernyan",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 248,
+      "sourceNumber": 248,
+      "displayCode": "0520MIC",
+      "displayCodes": [
+        "0520MIC"
+      ],
+      "arkKey": "MIC",
+      "arkKeys": [
+        "MIC"
+      ],
+      "numericId": 29172,
+      "numericIds": [
+        29172
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0248.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0248.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0249",
+      "legacyId": "YKW-ARK-0249",
+      "name": "Kaped Komander",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 249,
+      "sourceNumber": 249,
+      "displayCode": "0521MID",
+      "displayCodes": [
+        "0521MID"
+      ],
+      "arkKey": "MID",
+      "arkKeys": [
+        "MID"
+      ],
+      "numericId": 29173,
+      "numericIds": [
+        29173
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0249.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0249.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0250",
+      "legacyId": "YKW-ARK-0250",
+      "name": "Cornfused",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 250,
+      "sourceNumber": 250,
+      "displayCode": "0245MAA",
+      "displayCodes": [
+        "0245MAA"
+      ],
+      "arkKey": "MAA",
+      "arkKeys": [
+        "MAA"
+      ],
+      "numericId": 28882,
+      "numericIds": [
+        28882
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0250.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0250.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 7
+    },
+    {
+      "id": "YW-ARK-0251",
+      "legacyId": "YKW-ARK-0251",
+      "name": "Krystal Fox",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 251,
+      "sourceNumber": 251,
+      "displayCode": "0352MDO",
+      "displayCodes": [
+        "0352MDO"
+      ],
+      "arkKey": "MDO",
+      "arkKeys": [
+        "MDO"
+      ],
+      "numericId": 29004,
+      "numericIds": [
+        29004
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0251.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0251.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 8
+    },
+    {
+      "id": "YW-ARK-0252",
+      "legacyId": "YKW-ARK-0252",
+      "name": "BBQvil",
+      "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 252,
+      "sourceNumber": 252,
+      "displayCode": "0517MI9",
+      "displayCodes": [
+        "0517MI9"
+      ],
+      "arkKey": "MI9",
+      "arkKeys": [
+        "MI9"
+      ],
+      "numericId": 29169,
+      "numericIds": [
+        29169
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0252.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0252.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    }
+  ]
+}

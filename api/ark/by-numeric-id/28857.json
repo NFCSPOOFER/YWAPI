@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0204",
+    "legacyId": "YKW-ARK-0204",
+    "name": "Roughraff",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 204,
+    "sourceNumber": 204,
+    "displayCode": "0220M9L",
+    "displayCodes": [
+      "0220M9L"
+    ],
+    "arkKey": "M9L",
+    "arkKeys": [
+      "M9L"
+    ],
+    "numericId": 28857,
+    "numericIds": [
+      28857
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0204.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0204.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0281",
+    "legacyId": "YKW-ARK-0281",
+    "name": "Dianyan",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Gemnyan)",
+    "type": "Ark",
+    "catalogNumber": 281,
+    "sourceNumber": 281,
+    "displayCode": "0248MAD",
+    "displayCodes": [
+      "0248MAD"
+    ],
+    "arkKey": "MAD",
+    "arkKeys": [
+      "MAD"
+    ],
+    "numericId": 28885,
+    "numericIds": [
+      28885
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0281.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0281.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

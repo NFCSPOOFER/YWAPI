@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0087",
+    "legacyId": "YKW-ARK-0087",
+    "name": "Kuro Oni",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 87,
+    "sourceNumber": 87,
+    "displayCode": "0111M6K",
+    "displayCodes": [
+      "0111M6K"
+    ],
+    "arkKey": "M6K",
+    "arkKeys": [
+      "M6K"
+    ],
+    "numericId": 28748,
+    "numericIds": [
+      28748
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0087.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0087.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

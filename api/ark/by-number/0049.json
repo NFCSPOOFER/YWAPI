@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0049",
+    "legacyId": "YKW-ARK-0049",
+    "name": "Todoroki Rai Oton",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 49,
+    "sourceNumber": 49,
+    "displayCode": "0109M6I",
+    "displayCodes": [
+      "0109M6I"
+    ],
+    "arkKey": "M6I",
+    "arkKeys": [
+      "M6I"
+    ],
+    "numericId": 28746,
+    "numericIds": [
+      28746
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0049.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0049.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

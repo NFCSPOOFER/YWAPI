@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0285",
+    "legacyId": "YKW-ARK-0285",
+    "name": "Eurus",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 285,
+    "sourceNumber": 285,
+    "displayCode": "0553MJ9",
+    "displayCodes": [
+      "0553MJ9"
+    ],
+    "arkKey": "MJ9",
+    "arkKeys": [
+      "MJ9"
+    ],
+    "numericId": 29205,
+    "numericIds": [
+      29205
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0285.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0285.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0128",
+      "legacyId": "YKW-ARK-0128",
+      "name": "Goku Bushinyan",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 128,
+      "sourceNumber": 128,
+      "displayCode": "0207M98",
+      "displayCodes": [
+        "0207M98"
+      ],
+      "arkKey": "M98",
+      "arkKeys": [
+        "M98"
+      ],
+      "numericId": 28844,
+      "numericIds": [
+        28844
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0128.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0128.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0129",
+      "legacyId": "YKW-ARK-0129",
+      "name": "Jibanyan Liu Bei",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 129,
+      "sourceNumber": 129,
+      "displayCode": "0208M99",
+      "displayCodes": [
+        "0208M99"
+      ],
+      "arkKey": "M99",
+      "arkKeys": [
+        "M99"
+      ],
+      "numericId": 28845,
+      "numericIds": [
+        28845
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0129.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0129.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0130",
+      "legacyId": "YKW-ARK-0130",
+      "name": "Goku Tsuchinoko",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Goku)",
+      "type": "Ark",
+      "catalogNumber": 130,
+      "sourceNumber": 130,
+      "displayCode": "0205M96",
+      "displayCodes": [
+        "0205M96"
+      ],
+      "arkKey": "M96",
+      "arkKeys": [
+        "M96"
+      ],
+      "numericId": 28842,
+      "numericIds": [
+        28842
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0130.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0130.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0131",
+      "legacyId": "YKW-ARK-0131",
+      "name": "Komasan Sun Ce",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 131,
+      "sourceNumber": 131,
+      "displayCode": "0206M97",
+      "displayCodes": [
+        "0206M97"
+      ],
+      "arkKey": "M97",
+      "arkKeys": [
+        "M97"
+      ],
+      "numericId": 28843,
+      "numericIds": [
+        28843
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0131.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0131.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0132",
+      "legacyId": "YKW-ARK-0132",
+      "name": "Blizzaria/Goku Fubuki-hime",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 132,
+      "sourceNumber": 132,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0132.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0132.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0133",
+      "legacyId": "YKW-ARK-0133",
+      "name": "Melonyan/Yubari Melonnyan",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 133,
+      "sourceNumber": 133,
+      "displayCode": "0210M9B",
+      "displayCodes": [
+        "0210M9B"
+      ],
+      "arkKey": "M9B",
+      "arkKeys": [
+        "M9B"
+      ],
+      "numericId": 28847,
+      "numericIds": [
+        28847
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0133.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0133.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0134",
+      "legacyId": "YKW-ARK-0134",
+      "name": "Blazion/Akachan Merameraion",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 134,
+      "sourceNumber": 134,
+      "displayCode": "0211M9C",
+      "displayCodes": [
+        "0211M9C"
+      ],
+      "arkKey": "M9C",
+      "arkKeys": [
+        "M9C"
+      ],
+      "numericId": 28848,
+      "numericIds": [
+        28848
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0134.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0134.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0135",
+      "legacyId": "YKW-ARK-0135",
+      "name": "Tomnyan & Jibanyan",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 135,
+      "sourceNumber": 135,
+      "displayCode": "0198M8Z",
+      "displayCodes": [
+        "0198M8Z"
+      ],
+      "arkKey": "M8Z",
+      "arkKeys": [
+        "M8Z"
+      ],
+      "numericId": 28835,
+      "numericIds": [
+        28835
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0135.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0135.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0136",
+      "legacyId": "YKW-ARK-0136",
+      "name": "Whisuberi",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 136,
+      "sourceNumber": 136,
+      "displayCode": "0203M94",
+      "displayCodes": [
+        "0203M94"
+      ],
+      "arkKey": "M94",
+      "arkKeys": [
+        "M94"
+      ],
+      "numericId": 28840,
+      "numericIds": [
+        28840
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0136.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0136.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0137",
+      "legacyId": "YKW-ARK-0137",
+      "name": "Komajiro",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 137,
+      "sourceNumber": 137,
+      "displayCode": "0196M8X",
+      "displayCodes": [
+        "0196M8X"
+      ],
+      "arkKey": "M8X",
+      "arkKeys": [
+        "M8X"
+      ],
+      "numericId": 28833,
+      "numericIds": [
+        28833
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0137.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0137.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0138",
+      "legacyId": "YKW-ARK-0138",
+      "name": "Tomnyan",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 138,
+      "sourceNumber": 138,
+      "displayCode": "0197M8Y",
+      "displayCodes": [
+        "0197M8Y"
+      ],
+      "arkKey": "M8Y",
+      "arkKeys": [
+        "M8Y"
+      ],
+      "numericId": 28834,
+      "numericIds": [
+        28834
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0138.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0138.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0139",
+      "legacyId": "YKW-ARK-0139",
+      "name": "Gnomey",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 139,
+      "sourceNumber": 139,
+      "displayCode": "0199M90",
+      "displayCodes": [
+        "0199M90"
+      ],
+      "arkKey": "M90",
+      "arkKeys": [
+        "M90"
+      ],
+      "numericId": 28836,
+      "numericIds": [
+        28836
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0139.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0139.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0140",
+      "legacyId": "YKW-ARK-0140",
+      "name": "Blizzaria",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 140,
+      "sourceNumber": 140,
+      "displayCode": "0200M91",
+      "displayCodes": [
+        "0200M91"
+      ],
+      "arkKey": "M91",
+      "arkKeys": [
+        "M91"
+      ],
+      "numericId": 28837,
+      "numericIds": [
+        28837
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0140.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0140.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0141",
+      "legacyId": "YKW-ARK-0141",
+      "name": "Blazion",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 141,
+      "sourceNumber": 141,
+      "displayCode": "0201M92",
+      "displayCodes": [
+        "0201M92"
+      ],
+      "arkKey": "M92",
+      "arkKeys": [
+        "M92"
+      ],
+      "numericId": 28838,
+      "numericIds": [
+        28838
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0141.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0141.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0142",
+      "legacyId": "YKW-ARK-0142",
+      "name": "Whisper",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 142,
+      "sourceNumber": 142,
+      "displayCode": "0202M93",
+      "displayCodes": [
+        "0202M93"
+      ],
+      "arkKey": "M93",
+      "arkKeys": [
+        "M93"
+      ],
+      "numericId": 28839,
+      "numericIds": [
+        28839
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0142.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0142.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0143",
+      "legacyId": "YKW-ARK-0143",
+      "name": "Compunzer",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 143,
+      "sourceNumber": 143,
+      "displayCode": "0204M95",
+      "displayCodes": [
+        "0204M95"
+      ],
+      "arkKey": "M95",
+      "arkKeys": [
+        "M95"
+      ],
+      "numericId": 28841,
+      "numericIds": [
+        28841
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0143.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0143.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0144",
+      "legacyId": "YKW-ARK-0144",
+      "name": "Hungramps",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 144,
+      "sourceNumber": 144,
+      "displayCode": "0190M8R",
+      "displayCodes": [
+        "0190M8R"
+      ],
+      "arkKey": "M8R",
+      "arkKeys": [
+        "M8R"
+      ],
+      "numericId": 28827,
+      "numericIds": [
+        28827
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0144.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0144.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0145",
+      "legacyId": "YKW-ARK-0145",
+      "name": "Tattletell",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 145,
+      "sourceNumber": 145,
+      "displayCode": "0191M8S",
+      "displayCodes": [
+        "0191M8S"
+      ],
+      "arkKey": "M8S",
+      "arkKeys": [
+        "M8S"
+      ],
+      "numericId": 28828,
+      "numericIds": [
+        28828
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0145.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0145.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0146",
+      "legacyId": "YKW-ARK-0146",
+      "name": "N'more",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 146,
+      "sourceNumber": 146,
+      "displayCode": "0192M8T",
+      "displayCodes": [
+        "0192M8T"
+      ],
+      "arkKey": "M8T",
+      "arkKeys": [
+        "M8T"
+      ],
+      "numericId": 28829,
+      "numericIds": [
+        28829
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0146.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0146.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0147",
+      "legacyId": "YKW-ARK-0147",
+      "name": "Cheeksqueek",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 147,
+      "sourceNumber": 147,
+      "displayCode": "0193M8U",
+      "displayCodes": [
+        "0193M8U"
+      ],
+      "arkKey": "M8U",
+      "arkKeys": [
+        "M8U"
+      ],
+      "numericId": 28830,
+      "numericIds": [
+        28830
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0147.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0147.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0148",
+      "legacyId": "YKW-ARK-0148",
+      "name": "Liarbird",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 148,
+      "sourceNumber": 148,
+      "displayCode": "0194M8V",
+      "displayCodes": [
+        "0194M8V"
+      ],
+      "arkKey": "M8V",
+      "arkKeys": [
+        "M8V"
+      ],
+      "numericId": 28831,
+      "numericIds": [
+        28831
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0148.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0148.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0149",
+      "legacyId": "YKW-ARK-0149",
+      "name": "Snottle",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 149,
+      "sourceNumber": 149,
+      "displayCode": "0195M8W",
+      "displayCodes": [
+        "0195M8W"
+      ],
+      "arkKey": "M8W",
+      "arkKeys": [
+        "M8W"
+      ],
+      "numericId": 28832,
+      "numericIds": [
+        28832
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0149.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0149.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    }
+  ]
+}

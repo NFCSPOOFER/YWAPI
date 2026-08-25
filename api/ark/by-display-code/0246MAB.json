@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0243",
+    "legacyId": "YKW-ARK-0243",
+    "name": "Deadcool",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 243,
+    "sourceNumber": 243,
+    "displayCode": "0246MAB",
+    "displayCodes": [
+      "0246MAB"
+    ],
+    "arkKey": "MAB",
+    "arkKeys": [
+      "MAB"
+    ],
+    "numericId": 28883,
+    "numericIds": [
+      28883
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0243.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0243.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0242",
+    "legacyId": "YKW-ARK-0242",
+    "name": "Usapyon",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 242,
+    "sourceNumber": 242,
+    "displayCode": "0244MA9",
+    "displayCodes": [
+      "0244MA9"
+    ],
+    "arkKey": "MA9",
+    "arkKeys": [
+      "MA9"
+    ],
+    "numericId": 28881,
+    "numericIds": [
+      28881
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0242.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0242.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

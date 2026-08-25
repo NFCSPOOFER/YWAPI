@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0091",
+    "legacyId": "YKW-ARK-0091",
+    "name": "Yamata no Orochi",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 91,
+    "sourceNumber": 91,
+    "displayCode": "0113M6M",
+    "displayCodes": [
+      "0113M6M"
+    ],
+    "arkKey": "M6M",
+    "arkKeys": [
+      "M6M"
+    ],
+    "numericId": 28750,
+    "numericIds": [
+      28750
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0091.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0091.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0057",
+    "legacyId": "YKW-ARK-0057",
+    "name": "Atsushi Kamamoto/Kamadouma",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 57,
+    "sourceNumber": 57,
+    "displayCode": "0052M4X",
+    "displayCodes": [
+      "0052M4X"
+    ],
+    "arkKey": "M4X",
+    "arkKeys": [
+      "M4X"
+    ],
+    "numericId": 28689,
+    "numericIds": [
+      28689
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0057.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0057.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

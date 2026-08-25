@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0194",
+    "legacyId": "YKW-ARK-0194",
+    "name": "Sir Nyansalot",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 194,
+    "sourceNumber": 194,
+    "displayCode": "0268MAX",
+    "displayCodes": [
+      "0268MAX"
+    ],
+    "arkKey": "MAX",
+    "arkKeys": [
+      "MAX"
+    ],
+    "numericId": 28905,
+    "numericIds": [
+      28905
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0194.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0194.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

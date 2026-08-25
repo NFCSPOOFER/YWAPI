@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0231",
+    "legacyId": "YKW-ARK-0231",
+    "name": "Shogunyan",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 231,
+    "sourceNumber": 231,
+    "displayCode": "0221M9M",
+    "displayCodes": [
+      "0221M9M"
+    ],
+    "arkKey": "M9M",
+    "arkKeys": [
+      "M9M"
+    ],
+    "numericId": 28858,
+    "numericIds": [
+      28858
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0231.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0231.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

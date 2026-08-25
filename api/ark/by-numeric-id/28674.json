@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0279",
+    "legacyId": "YKW-ARK-0279",
+    "name": "Bushinyan",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 279,
+    "sourceNumber": 279,
+    "displayCode": "0037M4I",
+    "displayCodes": [
+      "0037M4I"
+    ],
+    "arkKey": "M4I",
+    "arkKeys": [
+      "M4I"
+    ],
+    "numericId": 28674,
+    "numericIds": [
+      28674
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0279.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0279.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

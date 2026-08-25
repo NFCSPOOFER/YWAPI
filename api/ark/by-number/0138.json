@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0138",
+    "legacyId": "YKW-ARK-0138",
+    "name": "Tomnyan",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 138,
+    "sourceNumber": 138,
+    "displayCode": "0197M8Y",
+    "displayCodes": [
+      "0197M8Y"
+    ],
+    "arkKey": "M8Y",
+    "arkKeys": [
+      "M8Y"
+    ],
+    "numericId": 28834,
+    "numericIds": [
+      28834
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0138.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0138.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0203",
+    "legacyId": "YKW-ARK-0203",
+    "name": "Frostina",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 203,
+    "sourceNumber": 203,
+    "displayCode": "0219M9K",
+    "displayCodes": [
+      "0219M9K"
+    ],
+    "arkKey": "M9K",
+    "arkKeys": [
+      "M9K"
+    ],
+    "numericId": 28856,
+    "numericIds": [
+      28856
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0203.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0203.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

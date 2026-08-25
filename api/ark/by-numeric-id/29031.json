@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0244",
+    "legacyId": "YKW-ARK-0244",
+    "name": "Shurikenny",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 244,
+    "sourceNumber": 244,
+    "displayCode": "0379MEF",
+    "displayCodes": [
+      "0379MEF"
+    ],
+    "arkKey": "MEF",
+    "arkKeys": [
+      "MEF"
+    ],
+    "numericId": 29031,
+    "numericIds": [
+      29031
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0244.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0244.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

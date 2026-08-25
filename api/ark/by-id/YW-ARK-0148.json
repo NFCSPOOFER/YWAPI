@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0148",
+    "legacyId": "YKW-ARK-0148",
+    "name": "Liarbird",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 148,
+    "sourceNumber": 148,
+    "displayCode": "0194M8V",
+    "displayCodes": [
+      "0194M8V"
+    ],
+    "arkKey": "M8V",
+    "arkKeys": [
+      "M8V"
+    ],
+    "numericId": 28831,
+    "numericIds": [
+      28831
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0148.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0148.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

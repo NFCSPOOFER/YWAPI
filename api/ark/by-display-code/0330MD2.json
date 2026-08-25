@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0276",
+    "legacyId": "YKW-ARK-0276",
+    "name": "Happierre",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 276,
+    "sourceNumber": 276,
+    "displayCode": "0330MD2",
+    "displayCodes": [
+      "0330MD2"
+    ],
+    "arkKey": "MD2",
+    "arkKeys": [
+      "MD2"
+    ],
+    "numericId": 28982,
+    "numericIds": [
+      28982
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0276.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0276.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0009",
+    "legacyId": "YKW-ARK-0009",
+    "name": "Bancho/Basher",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 9,
+    "sourceNumber": 9,
+    "displayCode": "0003M3K",
+    "displayCodes": [
+      "0003M3K"
+    ],
+    "arkKey": "M3K",
+    "arkKeys": [
+      "M3K"
+    ],
+    "numericId": 28640,
+    "numericIds": [
+      28640
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0009.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0009.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

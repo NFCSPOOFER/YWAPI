@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0137",
+    "legacyId": "YKW-ARK-0137",
+    "name": "Komajiro",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 137,
+    "sourceNumber": 137,
+    "displayCode": "0196M8X",
+    "displayCodes": [
+      "0196M8X"
+    ],
+    "arkKey": "M8X",
+    "arkKeys": [
+      "M8X"
+    ],
+    "numericId": 28833,
+    "numericIds": [
+      28833
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0137.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0137.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

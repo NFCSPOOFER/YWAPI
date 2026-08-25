@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0176",
+    "legacyId": "YKW-ARK-0176",
+    "name": "Juno & Summer",
+    "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 176,
+    "sourceNumber": 176,
+    "displayCode": "0509MI1",
+    "displayCodes": [
+      "0509MI1"
+    ],
+    "arkKey": "MI1",
+    "arkKeys": [
+      "MI1"
+    ],
+    "numericId": 29161,
+    "numericIds": [
+      29161
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0176.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0176.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

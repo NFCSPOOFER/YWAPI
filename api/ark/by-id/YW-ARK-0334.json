@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0334",
+    "legacyId": "YKW-ARK-0334",
+    "name": "Small toy replica of the Stormweaver",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 334,
+    "sourceNumber": 2,
+    "displayCode": "0101MBU",
+    "displayCodes": [
+      "0101MBU"
+    ],
+    "arkKey": "MBU",
+    "arkKeys": [
+      "MBU"
+    ],
+    "numericId": 28938,
+    "numericIds": [
+      28938
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0334.png",
+    "imageBack": null,
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

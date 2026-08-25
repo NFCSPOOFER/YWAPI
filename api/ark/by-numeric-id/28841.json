@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0143",
+    "legacyId": "YKW-ARK-0143",
+    "name": "Compunzer",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 143,
+    "sourceNumber": 143,
+    "displayCode": "0204M95",
+    "displayCodes": [
+      "0204M95"
+    ],
+    "arkKey": "M95",
+    "arkKeys": [
+      "M95"
+    ],
+    "numericId": 28841,
+    "numericIds": [
+      28841
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0143.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0143.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 5
+  }
+}

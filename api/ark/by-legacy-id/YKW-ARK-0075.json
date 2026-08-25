@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0075",
+    "legacyId": "YKW-ARK-0075",
+    "name": "Momy/Hitotsuri Momi-no-ki",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 75,
+    "sourceNumber": 75,
+    "displayCode": "0142M7F",
+    "displayCodes": [
+      "0142M7F"
+    ],
+    "arkKey": "M7F",
+    "arkKeys": [
+      "M7F"
+    ],
+    "numericId": 28779,
+    "numericIds": [
+      28779
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0075.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0075.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

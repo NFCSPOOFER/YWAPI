@@ -1,0 +1,12 @@
+{
+  "generatedAt": "2026-08-25T04:00:00+00:00",
+  "arkCount": 341,
+  "imageFrontCount": 341,
+  "imageBackCount": 337,
+  "statusCounts": {
+    "confirmed": 248,
+    "single_scan": 57,
+    "conflict": 3,
+    "missing": 33
+  }
+}

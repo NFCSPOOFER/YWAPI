@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0324",
+    "legacyId": "YKW-ARK-0324",
+    "name": "Komasan",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Yo-kai Keystone Holder ver. K",
+    "type": "Ark",
+    "catalogNumber": 324,
+    "sourceNumber": 324,
+    "displayCode": "0186M8N",
+    "displayCodes": [
+      "0186M8N"
+    ],
+    "arkKey": "M8N",
+    "arkKeys": [
+      "M8N"
+    ],
+    "numericId": 28823,
+    "numericIds": [
+      28823
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0324.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0324.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

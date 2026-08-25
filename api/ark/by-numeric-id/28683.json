@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0042",
+    "legacyId": "YKW-ARK-0042",
+    "name": "Shibumenken/Menkueater",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 42,
+    "sourceNumber": 42,
+    "displayCode": "0046M4R",
+    "displayCodes": [
+      "0046M4R"
+    ],
+    "arkKey": "M4R",
+    "arkKeys": [
+      "M4R"
+    ],
+    "numericId": 28683,
+    "numericIds": [
+      28683
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0042.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0042.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

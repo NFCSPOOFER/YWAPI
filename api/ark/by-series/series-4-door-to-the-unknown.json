@@ -1,0 +1,480 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0046",
+      "legacyId": "YKW-ARK-0046",
+      "name": "Unchikuma",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 46,
+      "sourceNumber": 46,
+      "displayCode": "0101M6A",
+      "displayCodes": [
+        "0101M6A"
+      ],
+      "arkKey": "M6A",
+      "arkKeys": [
+        "M6A"
+      ],
+      "numericId": 28738,
+      "numericIds": [
+        28738
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0046.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0046.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0047",
+      "legacyId": "YKW-ARK-0047",
+      "name": "Shurakoma",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 47,
+      "sourceNumber": 47,
+      "displayCode": "0128M71",
+      "displayCodes": [
+        "0128M71"
+      ],
+      "arkKey": "M71",
+      "arkKeys": [
+        "M71"
+      ],
+      "numericId": 28765,
+      "numericIds": [
+        28765
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0047.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0047.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0048",
+      "legacyId": "YKW-ARK-0048",
+      "name": "Junior/Blizzard Wolf",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 48,
+      "sourceNumber": 48,
+      "displayCode": "0006M3N",
+      "displayCodes": [
+        "0006M3N"
+      ],
+      "arkKey": "M3N",
+      "arkKeys": [
+        "M3N"
+      ],
+      "numericId": 28643,
+      "numericIds": [
+        28643
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0048.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0048.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0049",
+      "legacyId": "YKW-ARK-0049",
+      "name": "Todoroki Rai Oton",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 49,
+      "sourceNumber": 49,
+      "displayCode": "0109M6I",
+      "displayCodes": [
+        "0109M6I"
+      ],
+      "arkKey": "M6I",
+      "arkKeys": [
+        "M6I"
+      ],
+      "numericId": 28746,
+      "numericIds": [
+        28746
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0049.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0049.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0050",
+      "legacyId": "YKW-ARK-0050",
+      "name": "Inugami",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 50,
+      "sourceNumber": 50,
+      "displayCode": "0125M6Y",
+      "displayCodes": [
+        "0125M6Y"
+      ],
+      "arkKey": "M6Y",
+      "arkKeys": [
+        "M6Y"
+      ],
+      "numericId": 28762,
+      "numericIds": [
+        28762
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0050.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0050.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0051",
+      "legacyId": "YKW-ARK-0051",
+      "name": "Kage Orochi",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 51,
+      "sourceNumber": 51,
+      "displayCode": "0126M6Z",
+      "displayCodes": [
+        "0126M6Z"
+      ],
+      "arkKey": "M6Z",
+      "arkKeys": [
+        "M6Z"
+      ],
+      "numericId": 28763,
+      "numericIds": [
+        28763
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0051.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0051.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0052",
+      "legacyId": "YKW-ARK-0052",
+      "name": "Junior & Lil' Acala",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 52,
+      "sourceNumber": 52,
+      "displayCode": "0124M6X",
+      "displayCodes": [
+        "0124M6X"
+      ],
+      "arkKey": "M6X",
+      "arkKeys": [
+        "M6X"
+      ],
+      "numericId": 28761,
+      "numericIds": [
+        28761
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0052.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0052.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0053",
+      "legacyId": "YKW-ARK-0053",
+      "name": "Dianyan The Gemnyans",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Daikichi (Crystal)",
+      "type": "Ark",
+      "catalogNumber": 53,
+      "sourceNumber": 53,
+      "displayCode": "0127M70",
+      "displayCodes": [
+        "0127M70"
+      ],
+      "arkKey": "M70",
+      "arkKeys": [
+        "M70"
+      ],
+      "numericId": 28764,
+      "numericIds": [
+        28764
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0053.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0053.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0054",
+      "legacyId": "YKW-ARK-0054",
+      "name": "Jii-tan/Satan Claus",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 54,
+      "sourceNumber": 54,
+      "displayCode": "0123M6W",
+      "displayCodes": [
+        "0123M6W"
+      ],
+      "arkKey": "M6W",
+      "arkKeys": [
+        "M6W"
+      ],
+      "numericId": 28760,
+      "numericIds": [
+        28760
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0054.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0054.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0055",
+      "legacyId": "YKW-ARK-0055",
+      "name": "Inugami",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 55,
+      "sourceNumber": 55,
+      "displayCode": "0062M57",
+      "displayCodes": [
+        "0062M57"
+      ],
+      "arkKey": "M57",
+      "arkKeys": [
+        "M57"
+      ],
+      "numericId": 28699,
+      "numericIds": [
+        28699
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0055.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0055.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0056",
+      "legacyId": "YKW-ARK-0056",
+      "name": "Kage Orochi",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 56,
+      "sourceNumber": 56,
+      "displayCode": "0063M58",
+      "displayCodes": [
+        "0063M58"
+      ],
+      "arkKey": "M58",
+      "arkKeys": [
+        "M58"
+      ],
+      "numericId": 28700,
+      "numericIds": [
+        28700
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0056.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0056.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0057",
+      "legacyId": "YKW-ARK-0057",
+      "name": "Atsushi Kamamoto/Kamadouma",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 57,
+      "sourceNumber": 57,
+      "displayCode": "0052M4X",
+      "displayCodes": [
+        "0052M4X"
+      ],
+      "arkKey": "M4X",
+      "arkKeys": [
+        "M4X"
+      ],
+      "numericId": 28689,
+      "numericIds": [
+        28689
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0057.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0057.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0058",
+      "legacyId": "YKW-ARK-0058",
+      "name": "Hana-chan/Ohana-san",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 58,
+      "sourceNumber": 58,
+      "displayCode": "0055M50",
+      "displayCodes": [
+        "0055M50"
+      ],
+      "arkKey": "M50",
+      "arkKeys": [
+        "M50"
+      ],
+      "numericId": 28692,
+      "numericIds": [
+        28692
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0058.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0058.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0059",
+      "legacyId": "YKW-ARK-0059",
+      "name": "Sebas-chan/Jeannie",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 59,
+      "sourceNumber": 59,
+      "displayCode": "0119M6S",
+      "displayCodes": [
+        "0119M6S"
+      ],
+      "arkKey": "M6S",
+      "arkKeys": [
+        "M6S"
+      ],
+      "numericId": 28756,
+      "numericIds": [
+        28756
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0059.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0059.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0060",
+      "legacyId": "YKW-ARK-0060",
+      "name": "Wakame-kun",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 60,
+      "sourceNumber": 60,
+      "displayCode": "0120M6T",
+      "displayCodes": [
+        "0120M6T"
+      ],
+      "arkKey": "M6T",
+      "arkKeys": [
+        "M6T"
+      ],
+      "numericId": 28757,
+      "numericIds": [
+        28757
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0060.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0060.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0061",
+      "legacyId": "YKW-ARK-0061",
+      "name": "Konbu-san",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 61,
+      "sourceNumber": 61,
+      "displayCode": "0121M6U",
+      "displayCodes": [
+        "0121M6U"
+      ],
+      "arkKey": "M6U",
+      "arkKeys": [
+        "M6U"
+      ],
+      "numericId": 28758,
+      "numericIds": [
+        28758
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0061.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0061.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0062",
+      "legacyId": "YKW-ARK-0062",
+      "name": "Mekabu-chan",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 62,
+      "sourceNumber": 62,
+      "displayCode": "0122M6V",
+      "displayCodes": [
+        "0122M6V"
+      ],
+      "arkKey": "M6V",
+      "arkKeys": [
+        "M6V"
+      ],
+      "numericId": 28759,
+      "numericIds": [
+        28759
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0062.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0062.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    }
+  ]
+}

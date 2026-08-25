@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0008",
+    "legacyId": "YKW-ARK-0008",
+    "name": "Junior",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 8,
+    "sourceNumber": 8,
+    "displayCode": "0004M3L",
+    "displayCodes": [
+      "0004M3L"
+    ],
+    "arkKey": "M3L",
+    "arkKeys": [
+      "M3L"
+    ],
+    "numericId": 28641,
+    "numericIds": [
+      28641
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0008.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0008.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0084",
+    "legacyId": "YKW-ARK-0084",
+    "name": "Yasha Enma Rasetsu",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 84,
+    "sourceNumber": 84,
+    "displayCode": "0076M5L",
+    "displayCodes": [
+      "0076M5L"
+    ],
+    "arkKey": "M5L",
+    "arkKeys": [
+      "M5L"
+    ],
+    "numericId": 28713,
+    "numericIds": [
+      28713
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0084.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0084.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

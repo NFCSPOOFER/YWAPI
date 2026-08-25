@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0071",
+    "legacyId": "YKW-ARK-0071",
+    "name": "Whisper 2040",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 71,
+    "sourceNumber": 71,
+    "displayCode": "0031M4C",
+    "displayCodes": [
+      "0031M4C"
+    ],
+    "arkKey": "M4C",
+    "arkKeys": [
+      "M4C"
+    ],
+    "numericId": 28668,
+    "numericIds": [
+      28668
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0071.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0071.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

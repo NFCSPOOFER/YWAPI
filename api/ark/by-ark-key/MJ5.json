@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0290",
+    "legacyId": "YKW-ARK-0290",
+    "name": "Yami Enma",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 290,
+    "sourceNumber": 290,
+    "displayCode": "0549MJ5",
+    "displayCodes": [
+      "0549MJ5"
+    ],
+    "arkKey": "MJ5",
+    "arkKeys": [
+      "MJ5"
+    ],
+    "numericId": 29201,
+    "numericIds": [
+      29201
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0290.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0290.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0269",
+    "legacyId": "YKW-ARK-0269",
+    "name": "Hamham/Aburaham",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 269,
+    "sourceNumber": 269,
+    "displayCode": "0315MCN",
+    "displayCodes": [
+      "0315MCN"
+    ],
+    "arkKey": "MCN",
+    "arkKeys": [
+      "MCN"
+    ],
+    "numericId": 28967,
+    "numericIds": [
+      28967
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0269.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0269.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

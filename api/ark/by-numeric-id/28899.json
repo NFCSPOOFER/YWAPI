@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0191",
+    "legacyId": "YKW-ARK-0191",
+    "name": "Shiro Nyanmajo",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 191,
+    "sourceNumber": 191,
+    "displayCode": "0262MAR",
+    "displayCodes": [
+      "0262MAR"
+    ],
+    "arkKey": "MAR",
+    "arkKeys": [
+      "MAR"
+    ],
+    "numericId": 28899,
+    "numericIds": [
+      28899
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0191.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0191.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

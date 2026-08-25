@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0206",
+    "legacyId": "YKW-ARK-0206",
+    "name": "Sandmeh",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 206,
+    "sourceNumber": 206,
+    "displayCode": "0239MA4",
+    "displayCodes": [
+      "0239MA4"
+    ],
+    "arkKey": "MA4",
+    "arkKeys": [
+      "MA4"
+    ],
+    "numericId": 28876,
+    "numericIds": [
+      28876
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0206.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0206.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

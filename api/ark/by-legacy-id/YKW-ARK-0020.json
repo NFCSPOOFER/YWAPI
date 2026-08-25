@@ -1,0 +1,24 @@
+{
+  "ark": {
+    "id": "YW-ARK-0020",
+    "legacyId": "YKW-ARK-0020",
+    "name": "Merameraion",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 20,
+    "sourceNumber": 20,
+    "displayCode": null,
+    "displayCodes": [],
+    "arkKey": null,
+    "arkKeys": [],
+    "numericId": null,
+    "numericIds": [],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0020.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0020.png",
+    "status": "missing",
+    "scanCount": 0,
+    "uniqueTagCount": 0
+  }
+}

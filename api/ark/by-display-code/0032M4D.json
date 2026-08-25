@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0003",
+    "legacyId": "YKW-ARK-0003",
+    "name": "Super Sly/Mitsumata Ghidorah",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 3,
+    "sourceNumber": 3,
+    "displayCode": "0032M4D",
+    "displayCodes": [
+      "0032M4D"
+    ],
+    "arkKey": "M4D",
+    "arkKeys": [
+      "M4D"
+    ],
+    "numericId": 28669,
+    "numericIds": [
+      28669
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0003.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0003.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

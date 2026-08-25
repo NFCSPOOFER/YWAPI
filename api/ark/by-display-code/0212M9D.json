@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0330",
+    "legacyId": "YKW-ARK-0330",
+    "name": "Enma, Jibanyan, Komasan & Whisper",
+    "series": "Other",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 330,
+    "sourceNumber": 330,
+    "displayCode": "0212M9D",
+    "displayCodes": [
+      "0212M9D"
+    ],
+    "arkKey": "M9D",
+    "arkKeys": [
+      "M9D"
+    ],
+    "numericId": 28849,
+    "numericIds": [
+      28849
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0330.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0330.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0336",
+    "legacyId": "YKW-ARK-0336",
+    "name": "Suzaku Soutenzan",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 336,
+    "sourceNumber": 4,
+    "displayCode": "0102MBV",
+    "displayCodes": [
+      "0102MBV"
+    ],
+    "arkKey": "MBV",
+    "arkKeys": [
+      "MBV"
+    ],
+    "numericId": 28939,
+    "numericIds": [
+      28939
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0336.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0336.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

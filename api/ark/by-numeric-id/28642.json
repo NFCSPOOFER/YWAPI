@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0002",
+    "legacyId": "YKW-ARK-0002",
+    "name": "Junior/Burning Dragon",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 2,
+    "sourceNumber": 2,
+    "displayCode": "0005M3M",
+    "displayCodes": [
+      "0005M3M"
+    ],
+    "arkKey": "M3M",
+    "arkKeys": [
+      "M3M"
+    ],
+    "numericId": 28642,
+    "numericIds": [
+      28642
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0002.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0002.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

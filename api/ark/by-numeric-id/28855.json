@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0207",
+    "legacyId": "YKW-ARK-0207",
+    "name": "Dimmy",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 207,
+    "sourceNumber": 207,
+    "displayCode": "0218M9J",
+    "displayCodes": [
+      "0218M9J"
+    ],
+    "arkKey": "M9J",
+    "arkKeys": [
+      "M9J"
+    ],
+    "numericId": 28855,
+    "numericIds": [
+      28855
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0207.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0207.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

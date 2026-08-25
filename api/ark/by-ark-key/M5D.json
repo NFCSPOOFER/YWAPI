@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0082",
+    "legacyId": "YKW-ARK-0082",
+    "name": "Zashiki-Warashi/Tenguou Kurama",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Ultimate Rare",
+    "type": "Ark",
+    "catalogNumber": 82,
+    "sourceNumber": 82,
+    "displayCode": "0068M5D",
+    "displayCodes": [
+      "0068M5D"
+    ],
+    "arkKey": "M5D",
+    "arkKeys": [
+      "M5D"
+    ],
+    "numericId": 28705,
+    "numericIds": [
+      28705
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0082.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0082.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 4
+  }
+}

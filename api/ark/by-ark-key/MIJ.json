@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0232",
+    "legacyId": "YKW-ARK-0232",
+    "name": "The Last Nyanmurai",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 232,
+    "sourceNumber": 232,
+    "displayCode": "0527MIJ",
+    "displayCodes": [
+      "0527MIJ"
+    ],
+    "arkKey": "MIJ",
+    "arkKeys": [
+      "MIJ"
+    ],
+    "numericId": 29179,
+    "numericIds": [
+      29179
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0232.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0232.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

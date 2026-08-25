@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0063",
+    "legacyId": "YKW-ARK-0063",
+    "name": "Enma",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Super Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 63,
+    "sourceNumber": 63,
+    "displayCode": "0153M7Q",
+    "displayCodes": [
+      "0153M7Q"
+    ],
+    "arkKey": "M7Q",
+    "arkKeys": [
+      "M7Q"
+    ],
+    "numericId": 28790,
+    "numericIds": [
+      28790
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0063.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0063.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

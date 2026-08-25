@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0164",
+    "legacyId": "YKW-ARK-0164",
+    "name": "Punkupine",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 164,
+    "sourceNumber": 164,
+    "displayCode": "0216M9H",
+    "displayCodes": [
+      "0216M9H"
+    ],
+    "arkKey": "M9H",
+    "arkKeys": [
+      "M9H"
+    ],
+    "numericId": 28853,
+    "numericIds": [
+      28853
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0164.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0164.png",
+    "status": "single_scan",
+    "scanCount": 2,
+    "uniqueTagCount": 1
+  }
+}

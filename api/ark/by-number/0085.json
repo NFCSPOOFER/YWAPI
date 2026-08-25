@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0085",
+    "legacyId": "YKW-ARK-0085",
+    "name": "Shien",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 85,
+    "sourceNumber": 85,
+    "displayCode": "0073M5I",
+    "displayCodes": [
+      "0073M5I"
+    ],
+    "arkKey": "M5I",
+    "arkKeys": [
+      "M5I"
+    ],
+    "numericId": 28710,
+    "numericIds": [
+      28710
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0085.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0085.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0182",
+    "legacyId": "YKW-ARK-0182",
+    "name": "Jorogumo",
+    "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 182,
+    "sourceNumber": 182,
+    "displayCode": "0303MCB",
+    "displayCodes": [
+      "0303MCB"
+    ],
+    "arkKey": "MCB",
+    "arkKeys": [
+      "MCB"
+    ],
+    "numericId": 28955,
+    "numericIds": [
+      28955
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0182.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0182.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

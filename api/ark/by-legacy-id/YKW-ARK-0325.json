@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0325",
+    "legacyId": "YKW-ARK-0325",
+    "name": "Yasha Enma",
+    "series": "Other",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "CoroCoro Comic Giveaway",
+    "type": "Ark",
+    "catalogNumber": 325,
+    "sourceNumber": 325,
+    "displayCode": "0117M6Q",
+    "displayCodes": [
+      "0117M6Q"
+    ],
+    "arkKey": "M6Q",
+    "arkKeys": [
+      "M6Q"
+    ],
+    "numericId": 28754,
+    "numericIds": [
+      28754
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0325.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0325.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

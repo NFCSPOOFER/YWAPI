@@ -1,0 +1,24 @@
+{
+  "ark": {
+    "id": "YW-ARK-0317",
+    "legacyId": "YKW-ARK-0317",
+    "name": "Ryuutou Rasetu/Ryuutou Benibana",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Enma Rod",
+    "type": "Ark",
+    "catalogNumber": 317,
+    "sourceNumber": 317,
+    "displayCode": null,
+    "displayCodes": [],
+    "arkKey": null,
+    "arkKeys": [],
+    "numericId": null,
+    "numericIds": [],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0317.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0317.png",
+    "status": "missing",
+    "scanCount": 0,
+    "uniqueTagCount": 0
+  }
+}

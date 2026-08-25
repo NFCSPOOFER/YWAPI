@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0168",
+    "legacyId": "YKW-ARK-0168",
+    "name": "Kyunshii/Zukkyunshii",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 168,
+    "sourceNumber": 168,
+    "displayCode": "0009M3Q",
+    "displayCodes": [
+      "0009M3Q"
+    ],
+    "arkKey": "M3Q",
+    "arkKeys": [
+      "M3Q"
+    ],
+    "numericId": 28646,
+    "numericIds": [
+      28646
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0168.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0168.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

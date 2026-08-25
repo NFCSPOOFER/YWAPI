@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0060",
+    "legacyId": "YKW-ARK-0060",
+    "name": "Wakame-kun",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 60,
+    "sourceNumber": 60,
+    "displayCode": "0120M6T",
+    "displayCodes": [
+      "0120M6T"
+    ],
+    "arkKey": "M6T",
+    "arkKeys": [
+      "M6T"
+    ],
+    "numericId": 28757,
+    "numericIds": [
+      28757
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0060.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0060.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

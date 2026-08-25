@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0316",
+    "legacyId": "YKW-ARK-0316",
+    "name": "Suu-san/Gunshin Susanoo",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Yo-kai Watch Elda Zero & Jin Power-up Kit",
+    "type": "Ark",
+    "catalogNumber": 316,
+    "sourceNumber": 316,
+    "displayCode": "0065M5A",
+    "displayCodes": [
+      "0065M5A"
+    ],
+    "arkKey": "M5A",
+    "arkKeys": [
+      "M5A"
+    ],
+    "numericId": 28702,
+    "numericIds": [
+      28702
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0316.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0316.png",
+    "status": "confirmed",
+    "scanCount": 8,
+    "uniqueTagCount": 6
+  }
+}

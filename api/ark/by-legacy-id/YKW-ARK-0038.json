@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0038",
+    "legacyId": "YKW-ARK-0038",
+    "name": "Tsuchinoko",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 38,
+    "sourceNumber": 38,
+    "displayCode": "0064M59",
+    "displayCodes": [
+      "0064M59"
+    ],
+    "arkKey": "M59",
+    "arkKeys": [
+      "M59"
+    ],
+    "numericId": 28701,
+    "numericIds": [
+      28701
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0038.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0038.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

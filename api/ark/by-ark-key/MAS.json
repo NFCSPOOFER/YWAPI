@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0199",
+    "legacyId": "YKW-ARK-0199",
+    "name": "Baddinyan",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 199,
+    "sourceNumber": 199,
+    "displayCode": "0263MAS",
+    "displayCodes": [
+      "0263MAS"
+    ],
+    "arkKey": "MAS",
+    "arkKeys": [
+      "MAS"
+    ],
+    "numericId": 28900,
+    "numericIds": [
+      28900
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0199.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0199.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0145",
+    "legacyId": "YKW-ARK-0145",
+    "name": "Tattletell",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 145,
+    "sourceNumber": 145,
+    "displayCode": "0191M8S",
+    "displayCodes": [
+      "0191M8S"
+    ],
+    "arkKey": "M8S",
+    "arkKeys": [
+      "M8S"
+    ],
+    "numericId": 28828,
+    "numericIds": [
+      28828
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0145.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0145.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0056",
+    "legacyId": "YKW-ARK-0056",
+    "name": "Kage Orochi",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 56,
+    "sourceNumber": 56,
+    "displayCode": "0063M58",
+    "displayCodes": [
+      "0063M58"
+    ],
+    "arkKey": "M58",
+    "arkKeys": [
+      "M58"
+    ],
+    "numericId": 28700,
+    "numericIds": [
+      28700
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0056.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0056.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0130",
+    "legacyId": "YKW-ARK-0130",
+    "name": "Goku Tsuchinoko",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Goku)",
+    "type": "Ark",
+    "catalogNumber": 130,
+    "sourceNumber": 130,
+    "displayCode": "0205M96",
+    "displayCodes": [
+      "0205M96"
+    ],
+    "arkKey": "M96",
+    "arkKeys": [
+      "M96"
+    ],
+    "numericId": 28842,
+    "numericIds": [
+      28842
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0130.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0130.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

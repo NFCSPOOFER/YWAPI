@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0284",
+    "legacyId": "YKW-ARK-0284",
+    "name": "Boreas",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 284,
+    "sourceNumber": 284,
+    "displayCode": "0552MJ8",
+    "displayCodes": [
+      "0552MJ8"
+    ],
+    "arkKey": "MJ8",
+    "arkKeys": [
+      "MJ8"
+    ],
+    "numericId": 29204,
+    "numericIds": [
+      29204
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0284.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0284.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

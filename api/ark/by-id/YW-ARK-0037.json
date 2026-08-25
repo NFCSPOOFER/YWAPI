@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0037",
+    "legacyId": "YKW-ARK-0037",
+    "name": "Ogama",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 37,
+    "sourceNumber": 37,
+    "displayCode": "0059M54",
+    "displayCodes": [
+      "0059M54"
+    ],
+    "arkKey": "M54",
+    "arkKeys": [
+      "M54"
+    ],
+    "numericId": 28696,
+    "numericIds": [
+      28696
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0037.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0037.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 3
+  }
+}

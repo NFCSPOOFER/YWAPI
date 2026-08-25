@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0025",
+    "legacyId": "YKW-ARK-0025",
+    "name": "Pakkun/Gaburiel",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 25,
+    "sourceNumber": 25,
+    "displayCode": "0014M3V",
+    "displayCodes": [
+      "0014M3V"
+    ],
+    "arkKey": "M3V",
+    "arkKeys": [
+      "M3V"
+    ],
+    "numericId": 28651,
+    "numericIds": [
+      28651
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0025.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0025.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0246",
+    "legacyId": "YKW-ARK-0246",
+    "name": "Showbonyan",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 246,
+    "sourceNumber": 246,
+    "displayCode": "0518MIA",
+    "displayCodes": [
+      "0518MIA"
+    ],
+    "arkKey": "MIA",
+    "arkKeys": [
+      "MIA"
+    ],
+    "numericId": 29170,
+    "numericIds": [
+      29170
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0246.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0246.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

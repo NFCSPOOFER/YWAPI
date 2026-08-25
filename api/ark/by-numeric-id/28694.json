@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0036",
+    "legacyId": "YKW-ARK-0036",
+    "name": "Tsuchigumo",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 36,
+    "sourceNumber": 36,
+    "displayCode": "0057M52",
+    "displayCodes": [
+      "0057M52"
+    ],
+    "arkKey": "M52",
+    "arkKeys": [
+      "M52"
+    ],
+    "numericId": 28694,
+    "numericIds": [
+      28694
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0036.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0036.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 4
+  }
+}

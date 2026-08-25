@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0006",
+    "legacyId": "YKW-ARK-0006",
+    "name": "Blizzaria",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 6,
+    "sourceNumber": 6,
+    "displayCode": "0025M46",
+    "displayCodes": [
+      "0025M46"
+    ],
+    "arkKey": "M46",
+    "arkKeys": [
+      "M46"
+    ],
+    "numericId": 28662,
+    "numericIds": [
+      28662
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0006.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0006.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0227",
+    "legacyId": "YKW-ARK-0227",
+    "name": "Baku",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 227,
+    "sourceNumber": 227,
+    "displayCode": "0332MD4",
+    "displayCodes": [
+      "0332MD4"
+    ],
+    "arkKey": "MD4",
+    "arkKeys": [
+      "MD4"
+    ],
+    "numericId": 28984,
+    "numericIds": [
+      28984
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0227.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0227.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0074",
+    "legacyId": "YKW-ARK-0074",
+    "name": "Anzen-bouya/Nitanita-san",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 74,
+    "sourceNumber": 74,
+    "displayCode": "0141M7E",
+    "displayCodes": [
+      "0141M7E"
+    ],
+    "arkKey": "M7E",
+    "arkKeys": [
+      "M7E"
+    ],
+    "numericId": 28778,
+    "numericIds": [
+      28778
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0074.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0074.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

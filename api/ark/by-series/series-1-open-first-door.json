@@ -1,0 +1,396 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0001",
+      "legacyId": "YKW-ARK-0001",
+      "name": "Kappa",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 1,
+      "sourceNumber": 1,
+      "displayCode": "0070M5F",
+      "displayCodes": [
+        "0070M5F"
+      ],
+      "arkKey": "M5F",
+      "arkKeys": [
+        "M5F"
+      ],
+      "numericId": 28707,
+      "numericIds": [
+        28707
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0001.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0001.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0002",
+      "legacyId": "YKW-ARK-0002",
+      "name": "Junior/Burning Dragon",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 2,
+      "sourceNumber": 2,
+      "displayCode": "0005M3M",
+      "displayCodes": [
+        "0005M3M"
+      ],
+      "arkKey": "M3M",
+      "arkKeys": [
+        "M3M"
+      ],
+      "numericId": 28642,
+      "numericIds": [
+        28642
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0002.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0002.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0003",
+      "legacyId": "YKW-ARK-0003",
+      "name": "Super Sly/Mitsumata Ghidorah",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 3,
+      "sourceNumber": 3,
+      "displayCode": "0032M4D",
+      "displayCodes": [
+        "0032M4D"
+      ],
+      "arkKey": "M4D",
+      "arkKeys": [
+        "M4D"
+      ],
+      "numericId": 28669,
+      "numericIds": [
+        28669
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0003.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0003.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0004",
+      "legacyId": "YKW-ARK-0004",
+      "name": "Kyubi",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 4,
+      "sourceNumber": 4,
+      "displayCode": "0259MAO",
+      "displayCodes": [
+        "0259MAO"
+      ],
+      "arkKey": "MAO",
+      "arkKeys": [
+        "MAO"
+      ],
+      "numericId": 28896,
+      "numericIds": [
+        28896
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0004.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0004.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0005",
+      "legacyId": "YKW-ARK-0005",
+      "name": "Komasan",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 5,
+      "sourceNumber": 5,
+      "displayCode": "0002M3J",
+      "displayCodes": [
+        "0002M3J"
+      ],
+      "arkKey": "M3J",
+      "arkKeys": [
+        "M3J"
+      ],
+      "numericId": 28639,
+      "numericIds": [
+        28639
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0005.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0005.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0006",
+      "legacyId": "YKW-ARK-0006",
+      "name": "Blizzaria",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 6,
+      "sourceNumber": 6,
+      "displayCode": "0025M46",
+      "displayCodes": [
+        "0025M46"
+      ],
+      "arkKey": "M46",
+      "arkKeys": [
+        "M46"
+      ],
+      "numericId": 28662,
+      "numericIds": [
+        28662
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0006.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0006.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0007",
+      "legacyId": "YKW-ARK-0007",
+      "name": "Kyubi",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 7,
+      "sourceNumber": 7,
+      "displayCode": "0029M4A",
+      "displayCodes": [
+        "0029M4A"
+      ],
+      "arkKey": "M4A",
+      "arkKeys": [
+        "M4A"
+      ],
+      "numericId": 28666,
+      "numericIds": [
+        28666
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0007.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0007.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0008",
+      "legacyId": "YKW-ARK-0008",
+      "name": "Junior",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 8,
+      "sourceNumber": 8,
+      "displayCode": "0004M3L",
+      "displayCodes": [
+        "0004M3L"
+      ],
+      "arkKey": "M3L",
+      "arkKeys": [
+        "M3L"
+      ],
+      "numericId": 28641,
+      "numericIds": [
+        28641
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0008.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0008.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0009",
+      "legacyId": "YKW-ARK-0009",
+      "name": "Bancho/Basher",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 9,
+      "sourceNumber": 9,
+      "displayCode": "0003M3K",
+      "displayCodes": [
+        "0003M3K"
+      ],
+      "arkKey": "M3K",
+      "arkKeys": [
+        "M3K"
+      ],
+      "numericId": 28640,
+      "numericIds": [
+        28640
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0009.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0009.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0010",
+      "legacyId": "YKW-ARK-0010",
+      "name": "Charlie/Ghostcycle",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 10,
+      "sourceNumber": 10,
+      "displayCode": "0011M3S",
+      "displayCodes": [
+        "0011M3S"
+      ],
+      "arkKey": "M3S",
+      "arkKeys": [
+        "M3S"
+      ],
+      "numericId": 28648,
+      "numericIds": [
+        28648
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0010.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0010.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0011",
+      "legacyId": "YKW-ARK-0011",
+      "name": "Jinta/Jingeki",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 11,
+      "sourceNumber": 11,
+      "displayCode": "0013M3U",
+      "displayCodes": [
+        "0013M3U"
+      ],
+      "arkKey": "M3U",
+      "arkKeys": [
+        "M3U"
+      ],
+      "numericId": 28650,
+      "numericIds": [
+        28650
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0011.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0011.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0012",
+      "legacyId": "YKW-ARK-0012",
+      "name": "Lucky/Dogman",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 12,
+      "sourceNumber": 12,
+      "displayCode": "0015M3W",
+      "displayCodes": [
+        "0015M3W"
+      ],
+      "arkKey": "M3W",
+      "arkKeys": [
+        "M3W"
+      ],
+      "numericId": 28652,
+      "numericIds": [
+        28652
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0012.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0012.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0013",
+      "legacyId": "YKW-ARK-0013",
+      "name": "Honmaguro-taishou/Neptuna",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 13,
+      "sourceNumber": 13,
+      "displayCode": "0017M3Y",
+      "displayCodes": [
+        "0017M3Y"
+      ],
+      "arkKey": "M3Y",
+      "arkKeys": [
+        "M3Y"
+      ],
+      "numericId": 28654,
+      "numericIds": [
+        28654
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0013.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0013.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0014",
+      "legacyId": "YKW-ARK-0014",
+      "name": "Mushbarber/Kirisaki Joker",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 14,
+      "sourceNumber": 14,
+      "displayCode": "0018M3Z",
+      "displayCodes": [
+        "0018M3Z"
+      ],
+      "arkKey": "M3Z",
+      "arkKeys": [
+        "M3Z"
+      ],
+      "numericId": 28655,
+      "numericIds": [
+        28655
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0014.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0014.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0268",
+    "legacyId": "YKW-ARK-0268",
+    "name": "Saya/Makenki",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 268,
+    "sourceNumber": 268,
+    "displayCode": "0309MCH",
+    "displayCodes": [
+      "0309MCH"
+    ],
+    "arkKey": "MCH",
+    "arkKeys": [
+      "MCH"
+    ],
+    "numericId": 28961,
+    "numericIds": [
+      28961
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0268.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0268.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

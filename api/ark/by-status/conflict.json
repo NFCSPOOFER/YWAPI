@@ -1,0 +1,97 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0017",
+      "legacyId": "YKW-ARK-0017",
+      "name": "Suu-san",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 17,
+      "sourceNumber": 17,
+      "displayCode": "0072M5H",
+      "displayCodes": [
+        "0072M5H",
+        "0140M7D"
+      ],
+      "arkKey": "M5H",
+      "arkKeys": [
+        "M5H",
+        "M7D"
+      ],
+      "numericId": 28709,
+      "numericIds": [
+        28709,
+        28777
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0017.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0017.png",
+      "status": "conflict",
+      "scanCount": 5,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0326",
+      "legacyId": "YKW-ARK-0326",
+      "name": "Enma",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Comes with Forever Friends on DVD",
+      "type": "Ark",
+      "catalogNumber": 326,
+      "sourceNumber": 326,
+      "displayCode": "0118M6R",
+      "displayCodes": [
+        "0118M6R",
+        "0213M9E"
+      ],
+      "arkKey": "M6R",
+      "arkKeys": [
+        "M6R",
+        "M9E"
+      ],
+      "numericId": 28755,
+      "numericIds": [
+        28755,
+        28850
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0326.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0326.png",
+      "status": "conflict",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0340",
+      "legacyId": "YKW-ARK-0340",
+      "name": "Small toy replica of the Enma Blade and Jaou Ken",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 340,
+      "sourceNumber": 8,
+      "displayCode": "0106MBZ",
+      "displayCodes": [
+        "0106MBZ",
+        "0107MC0"
+      ],
+      "arkKey": "MBZ",
+      "arkKeys": [
+        "MBZ",
+        "MC0"
+      ],
+      "numericId": 28943,
+      "numericIds": [
+        28943,
+        28944
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0340.png",
+      "imageBack": null,
+      "status": "conflict",
+      "scanCount": 17,
+      "uniqueTagCount": 15
+    }
+  ]
+}

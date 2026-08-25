@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0116",
+    "legacyId": "YKW-ARK-0116",
+    "name": "Bloominoko",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 116,
+    "sourceNumber": 116,
+    "displayCode": "0173M8A",
+    "displayCodes": [
+      "0173M8A"
+    ],
+    "arkKey": "M8A",
+    "arkKeys": [
+      "M8A"
+    ],
+    "numericId": 28810,
+    "numericIds": [
+      28810
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0116.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0116.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

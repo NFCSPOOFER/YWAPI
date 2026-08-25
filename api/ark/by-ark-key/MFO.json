@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0220",
+    "legacyId": "YKW-ARK-0220",
+    "name": "Flengu",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 220,
+    "sourceNumber": 220,
+    "displayCode": "0424MFO",
+    "displayCodes": [
+      "0424MFO"
+    ],
+    "arkKey": "MFO",
+    "arkKeys": [
+      "MFO"
+    ],
+    "numericId": 29076,
+    "numericIds": [
+      29076
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0220.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0220.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

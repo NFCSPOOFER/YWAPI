@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0146",
+    "legacyId": "YKW-ARK-0146",
+    "name": "N'more",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 146,
+    "sourceNumber": 146,
+    "displayCode": "0192M8T",
+    "displayCodes": [
+      "0192M8T"
+    ],
+    "arkKey": "M8T",
+    "arkKeys": [
+      "M8T"
+    ],
+    "numericId": 28829,
+    "numericIds": [
+      28829
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0146.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0146.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

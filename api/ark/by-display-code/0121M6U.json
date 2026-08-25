@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0061",
+    "legacyId": "YKW-ARK-0061",
+    "name": "Konbu-san",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 61,
+    "sourceNumber": 61,
+    "displayCode": "0121M6U",
+    "displayCodes": [
+      "0121M6U"
+    ],
+    "arkKey": "M6U",
+    "arkKeys": [
+      "M6U"
+    ],
+    "numericId": 28758,
+    "numericIds": [
+      28758
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0061.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0061.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

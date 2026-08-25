@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0113",
+    "legacyId": "YKW-ARK-0113",
+    "name": "Jibanyan/Jibanyans",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 113,
+    "sourceNumber": 113,
+    "displayCode": "0182M8J",
+    "displayCodes": [
+      "0182M8J"
+    ],
+    "arkKey": "M8J",
+    "arkKeys": [
+      "M8J"
+    ],
+    "numericId": 28819,
+    "numericIds": [
+      28819
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0113.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0113.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

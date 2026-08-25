@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0186",
+    "legacyId": "YKW-ARK-0186",
+    "name": "Shikakusho Kaichi",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Jewel)",
+    "type": "Ark",
+    "catalogNumber": 186,
+    "sourceNumber": 186,
+    "displayCode": "0286MBF",
+    "displayCodes": [
+      "0286MBF"
+    ],
+    "arkKey": "MBF",
+    "arkKeys": [
+      "MBF"
+    ],
+    "numericId": 28923,
+    "numericIds": [
+      28923
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0186.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0186.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

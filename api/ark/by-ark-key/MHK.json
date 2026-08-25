@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0289",
+    "legacyId": "YKW-ARK-0289",
+    "name": "Topanyan",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Gemnyan)",
+    "type": "Ark",
+    "catalogNumber": 289,
+    "sourceNumber": 289,
+    "displayCode": "0492MHK",
+    "displayCodes": [
+      "0492MHK"
+    ],
+    "arkKey": "MHK",
+    "arkKeys": [
+      "MHK"
+    ],
+    "numericId": 29144,
+    "numericIds": [
+      29144
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0289.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0289.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

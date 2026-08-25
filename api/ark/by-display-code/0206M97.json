@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0131",
+    "legacyId": "YKW-ARK-0131",
+    "name": "Komasan Sun Ce",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 131,
+    "sourceNumber": 131,
+    "displayCode": "0206M97",
+    "displayCodes": [
+      "0206M97"
+    ],
+    "arkKey": "M97",
+    "arkKeys": [
+      "M97"
+    ],
+    "numericId": 28843,
+    "numericIds": [
+      28843
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0131.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0131.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

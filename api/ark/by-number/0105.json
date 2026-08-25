@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0105",
+    "legacyId": "YKW-ARK-0105",
+    "name": "Zashiki-warashi",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare (Gold)",
+    "type": "Ark",
+    "catalogNumber": 105,
+    "sourceNumber": 105,
+    "displayCode": "0139M7C",
+    "displayCodes": [
+      "0139M7C"
+    ],
+    "arkKey": "M7C",
+    "arkKeys": [
+      "M7C"
+    ],
+    "numericId": 28776,
+    "numericIds": [
+      28776
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0105.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0105.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

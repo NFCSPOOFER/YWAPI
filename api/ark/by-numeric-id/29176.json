@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0237",
+    "legacyId": "YKW-ARK-0237",
+    "name": "Nyassie",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Endangered)",
+    "type": "Ark",
+    "catalogNumber": 237,
+    "sourceNumber": 237,
+    "displayCode": "0524MIG",
+    "displayCodes": [
+      "0524MIG"
+    ],
+    "arkKey": "MIG",
+    "arkKeys": [
+      "MIG"
+    ],
+    "numericId": 29176,
+    "numericIds": [
+      29176
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0237.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0237.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

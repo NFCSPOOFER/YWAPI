@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0097",
+    "legacyId": "YKW-ARK-0097",
+    "name": "Yasha Enma",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Super Extreme Rare (Shining)",
+    "type": "Ark",
+    "catalogNumber": 97,
+    "sourceNumber": 97,
+    "displayCode": "0131M74",
+    "displayCodes": [
+      "0131M74"
+    ],
+    "arkKey": "M74",
+    "arkKeys": [
+      "M74"
+    ],
+    "numericId": 28768,
+    "numericIds": [
+      28768
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0097.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0097.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

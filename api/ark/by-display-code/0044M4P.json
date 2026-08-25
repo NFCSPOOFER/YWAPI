@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0041",
+    "legacyId": "YKW-ARK-0041",
+    "name": "Komajiro",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 41,
+    "sourceNumber": 41,
+    "displayCode": "0044M4P",
+    "displayCodes": [
+      "0044M4P"
+    ],
+    "arkKey": "M4P",
+    "arkKeys": [
+      "M4P"
+    ],
+    "numericId": 28681,
+    "numericIds": [
+      28681
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0041.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0041.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 4
+  }
+}

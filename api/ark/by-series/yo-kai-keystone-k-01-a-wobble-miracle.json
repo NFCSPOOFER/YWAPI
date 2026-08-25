@@ -1,0 +1,592 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0107",
+      "legacyId": "YKW-ARK-0107",
+      "name": "Hovernyan Cao Cao",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 107,
+      "sourceNumber": 107,
+      "displayCode": "0180M8H",
+      "displayCodes": [
+        "0180M8H"
+      ],
+      "arkKey": "M8H",
+      "arkKeys": [
+        "M8H"
+      ],
+      "numericId": 28817,
+      "numericIds": [
+        28817
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0107.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0107.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0108",
+      "legacyId": "YKW-ARK-0108",
+      "name": "Komasan & Komasan (SS)",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Crystal)",
+      "type": "Ark",
+      "catalogNumber": 108,
+      "sourceNumber": 108,
+      "displayCode": "0177M8E",
+      "displayCodes": [
+        "0177M8E"
+      ],
+      "arkKey": "M8E",
+      "arkKeys": [
+        "M8E"
+      ],
+      "numericId": 28814,
+      "numericIds": [
+        28814
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0108.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0108.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0109",
+      "legacyId": "YKW-ARK-0109",
+      "name": "Whisper Kongming",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 109,
+      "sourceNumber": 109,
+      "displayCode": "0179M8G",
+      "displayCodes": [
+        "0179M8G"
+      ],
+      "arkKey": "M8G",
+      "arkKeys": [
+        "M8G"
+      ],
+      "numericId": 28816,
+      "numericIds": [
+        28816
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0109.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0109.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0110",
+      "legacyId": "YKW-ARK-0110",
+      "name": "Jibanyan/Sakuranyan",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 110,
+      "sourceNumber": 110,
+      "displayCode": "0181M8I",
+      "displayCodes": [
+        "0181M8I"
+      ],
+      "arkKey": "M8I",
+      "arkKeys": [
+        "M8I"
+      ],
+      "numericId": 28818,
+      "numericIds": [
+        28818
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0110.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0110.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0111",
+      "legacyId": "YKW-ARK-0111",
+      "name": "Robonyan F & Keita F-gata",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 111,
+      "sourceNumber": 111,
+      "displayCode": "0183M8K",
+      "displayCodes": [
+        "0183M8K"
+      ],
+      "arkKey": "M8K",
+      "arkKeys": [
+        "M8K"
+      ],
+      "numericId": 28820,
+      "numericIds": [
+        28820
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0111.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0111.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0112",
+      "legacyId": "YKW-ARK-0112",
+      "name": "Venoct/Venoct Zhou Yu",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 112,
+      "sourceNumber": 112,
+      "displayCode": "0184M8L",
+      "displayCodes": [
+        "0184M8L"
+      ],
+      "arkKey": "M8L",
+      "arkKeys": [
+        "M8L"
+      ],
+      "numericId": 28821,
+      "numericIds": [
+        28821
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0112.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0112.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0113",
+      "legacyId": "YKW-ARK-0113",
+      "name": "Jibanyan/Jibanyans",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 113,
+      "sourceNumber": 113,
+      "displayCode": "0182M8J",
+      "displayCodes": [
+        "0182M8J"
+      ],
+      "arkKey": "M8J",
+      "arkKeys": [
+        "M8J"
+      ],
+      "numericId": 28819,
+      "numericIds": [
+        28819
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0113.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0113.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0114",
+      "legacyId": "YKW-ARK-0114",
+      "name": "Komasan & Komajiro",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 114,
+      "sourceNumber": 114,
+      "displayCode": "0178M8F",
+      "displayCodes": [
+        "0178M8F"
+      ],
+      "arkKey": "M8F",
+      "arkKeys": [
+        "M8F"
+      ],
+      "numericId": 28815,
+      "numericIds": [
+        28815
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0114.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0114.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0115",
+      "legacyId": "YKW-ARK-0115",
+      "name": "Signiton",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 115,
+      "sourceNumber": 115,
+      "displayCode": "0172M89",
+      "displayCodes": [
+        "0172M89"
+      ],
+      "arkKey": "M89",
+      "arkKeys": [
+        "M89"
+      ],
+      "numericId": 28809,
+      "numericIds": [
+        28809
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0115.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0115.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0116",
+      "legacyId": "YKW-ARK-0116",
+      "name": "Bloominoko",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 116,
+      "sourceNumber": 116,
+      "displayCode": "0173M8A",
+      "displayCodes": [
+        "0173M8A"
+      ],
+      "arkKey": "M8A",
+      "arkKeys": [
+        "M8A"
+      ],
+      "numericId": 28810,
+      "numericIds": [
+        28810
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0116.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0116.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0117",
+      "legacyId": "YKW-ARK-0117",
+      "name": "Venoct",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 117,
+      "sourceNumber": 117,
+      "displayCode": "0174M8B",
+      "displayCodes": [
+        "0174M8B"
+      ],
+      "arkKey": "M8B",
+      "arkKeys": [
+        "M8B"
+      ],
+      "numericId": 28811,
+      "numericIds": [
+        28811
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0117.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0117.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0118",
+      "legacyId": "YKW-ARK-0118",
+      "name": "Kyubi",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 118,
+      "sourceNumber": 118,
+      "displayCode": "0175M8C",
+      "displayCodes": [
+        "0175M8C"
+      ],
+      "arkKey": "M8C",
+      "arkKeys": [
+        "M8C"
+      ],
+      "numericId": 28812,
+      "numericIds": [
+        28812
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0118.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0118.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0119",
+      "legacyId": "YKW-ARK-0119",
+      "name": "Siro",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 119,
+      "sourceNumber": 119,
+      "displayCode": "0176M8D",
+      "displayCodes": [
+        "0176M8D"
+      ],
+      "arkKey": "M8D",
+      "arkKeys": [
+        "M8D"
+      ],
+      "numericId": 28813,
+      "numericIds": [
+        28813
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0119.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0119.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0120",
+      "legacyId": "YKW-ARK-0120",
+      "name": "Manjimutt",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 120,
+      "sourceNumber": 120,
+      "displayCode": "0162M7Z",
+      "displayCodes": [
+        "0162M7Z"
+      ],
+      "arkKey": "M7Z",
+      "arkKeys": [
+        "M7Z"
+      ],
+      "numericId": 28799,
+      "numericIds": [
+        28799
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0120.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0120.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0121",
+      "legacyId": "YKW-ARK-0121",
+      "name": "Hidabat",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 121,
+      "sourceNumber": 121,
+      "displayCode": "0163M80",
+      "displayCodes": [
+        "0163M80"
+      ],
+      "arkKey": "M80",
+      "arkKeys": [
+        "M80"
+      ],
+      "numericId": 28800,
+      "numericIds": [
+        28800
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0121.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0121.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0122",
+      "legacyId": "YKW-ARK-0122",
+      "name": "Shakey",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 122,
+      "sourceNumber": 122,
+      "displayCode": "0164M81",
+      "displayCodes": [
+        "0164M81"
+      ],
+      "arkKey": "M81",
+      "arkKeys": [
+        "M81"
+      ],
+      "numericId": 28801,
+      "numericIds": [
+        28801
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0122.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0122.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0123",
+      "legacyId": "YKW-ARK-0123",
+      "name": "Wazzat",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 123,
+      "sourceNumber": 123,
+      "displayCode": "0165M82",
+      "displayCodes": [
+        "0165M82"
+      ],
+      "arkKey": "M82",
+      "arkKeys": [
+        "M82"
+      ],
+      "numericId": 28802,
+      "numericIds": [
+        28802
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0123.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0123.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0124",
+      "legacyId": "YKW-ARK-0124",
+      "name": "Supoor Hero",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 124,
+      "sourceNumber": 124,
+      "displayCode": "0166M83",
+      "displayCodes": [
+        "0166M83"
+      ],
+      "arkKey": "M83",
+      "arkKeys": [
+        "M83"
+      ],
+      "numericId": 28803,
+      "numericIds": [
+        28803
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0124.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0124.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0125",
+      "legacyId": "YKW-ARK-0125",
+      "name": "Casanono",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 125,
+      "sourceNumber": 125,
+      "displayCode": "0167M84",
+      "displayCodes": [
+        "0167M84"
+      ],
+      "arkKey": "M84",
+      "arkKeys": [
+        "M84"
+      ],
+      "numericId": 28804,
+      "numericIds": [
+        28804
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0125.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0125.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0126",
+      "legacyId": "YKW-ARK-0126",
+      "name": "Stircrazy Stu",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 126,
+      "sourceNumber": 126,
+      "displayCode": "0168M85",
+      "displayCodes": [
+        "0168M85"
+      ],
+      "arkKey": "M85",
+      "arkKeys": [
+        "M85"
+      ],
+      "numericId": 28805,
+      "numericIds": [
+        28805
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0126.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0126.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0127",
+      "legacyId": "YKW-ARK-0127",
+      "name": "Snobetty",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 127,
+      "sourceNumber": 127,
+      "displayCode": "0169M86",
+      "displayCodes": [
+        "0169M86"
+      ],
+      "arkKey": "M86",
+      "arkKeys": [
+        "M86"
+      ],
+      "numericId": 28806,
+      "numericIds": [
+        28806
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0127.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0127.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0263",
+    "legacyId": "YKW-ARK-0263",
+    "name": "Jibanyan/Rudy",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 263,
+    "sourceNumber": 263,
+    "displayCode": "0538MIU",
+    "displayCodes": [
+      "0538MIU"
+    ],
+    "arkKey": "MIU",
+    "arkKeys": [
+      "MIU"
+    ],
+    "numericId": 29190,
+    "numericIds": [
+      29190
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0263.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0263.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 3
+  }
+}

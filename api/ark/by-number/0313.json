@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0313",
+    "legacyId": "YKW-ARK-0313",
+    "name": "Kenshin Amaterasu",
+    "series": "Series 05 - Kenshin Amaterasu and Gesshin Tsukuyomi",
+    "seriesGroup": "Yo-kai Keystone Series",
+    "rarity": "Ultimate Rare",
+    "type": "Ark",
+    "catalogNumber": 313,
+    "sourceNumber": 313,
+    "displayCode": "0130M73",
+    "displayCodes": [
+      "0130M73"
+    ],
+    "arkKey": "M73",
+    "arkKeys": [
+      "M73"
+    ],
+    "numericId": 28767,
+    "numericIds": [
+      28767
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0313.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0313.png",
+    "status": "confirmed",
+    "scanCount": 9,
+    "uniqueTagCount": 5
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0165",
+    "legacyId": "YKW-ARK-0165",
+    "name": "Sgt. Burly",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 165,
+    "sourceNumber": 165,
+    "displayCode": "0233M9Y",
+    "displayCodes": [
+      "0233M9Y"
+    ],
+    "arkKey": "M9Y",
+    "arkKeys": [
+      "M9Y"
+    ],
+    "numericId": 28870,
+    "numericIds": [
+      28870
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0165.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0165.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 3
+  }
+}

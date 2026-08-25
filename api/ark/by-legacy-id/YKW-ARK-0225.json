@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0225",
+    "legacyId": "YKW-ARK-0225",
+    "name": "Walkappa",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 225,
+    "sourceNumber": 225,
+    "displayCode": "0229M9U",
+    "displayCodes": [
+      "0229M9U"
+    ],
+    "arkKey": "M9U",
+    "arkKeys": [
+      "M9U"
+    ],
+    "numericId": 28866,
+    "numericIds": [
+      28866
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0225.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0225.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

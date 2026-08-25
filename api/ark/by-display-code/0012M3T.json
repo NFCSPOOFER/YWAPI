@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0039",
+    "legacyId": "YKW-ARK-0039",
+    "name": "Hot Pot/Shiryou no Dokudoku-nabe",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 39,
+    "sourceNumber": 39,
+    "displayCode": "0012M3T",
+    "displayCodes": [
+      "0012M3T"
+    ],
+    "arkKey": "M3T",
+    "arkKeys": [
+      "M3T"
+    ],
+    "numericId": 28649,
+    "numericIds": [
+      28649
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0039.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0039.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

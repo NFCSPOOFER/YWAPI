@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0305",
+    "legacyId": "YKW-ARK-0305",
+    "name": "Rinne",
+    "series": "Series 02 - Yo-kai World's 1st Martial Art Tournament - Rinne",
+    "seriesGroup": "Yo-kai Keystone Series",
+    "rarity": "Ultimate Rare (Goku)",
+    "type": "Ark",
+    "catalogNumber": 305,
+    "sourceNumber": 305,
+    "displayCode": "0254MAJ",
+    "displayCodes": [
+      "0254MAJ"
+    ],
+    "arkKey": "MAJ",
+    "arkKeys": [
+      "MAJ"
+    ],
+    "numericId": 28891,
+    "numericIds": [
+      28891
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0305.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0305.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

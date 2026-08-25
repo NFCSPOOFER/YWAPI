@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0196",
+    "legacyId": "YKW-ARK-0196",
+    "name": "Illuminoct",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 196,
+    "sourceNumber": 196,
+    "displayCode": "0235MA0",
+    "displayCodes": [
+      "0235MA0"
+    ],
+    "arkKey": "MA0",
+    "arkKeys": [
+      "MA0"
+    ],
+    "numericId": 28872,
+    "numericIds": [
+      28872
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0196.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0196.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

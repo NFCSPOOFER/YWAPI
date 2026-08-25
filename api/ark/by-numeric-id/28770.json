@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0099",
+    "legacyId": "YKW-ARK-0099",
+    "name": "Ancient Enma",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Super Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 99,
+    "sourceNumber": 99,
+    "displayCode": "0133M76",
+    "displayCodes": [
+      "0133M76"
+    ],
+    "arkKey": "M76",
+    "arkKeys": [
+      "M76"
+    ],
+    "numericId": 28770,
+    "numericIds": [
+      28770
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0099.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0099.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

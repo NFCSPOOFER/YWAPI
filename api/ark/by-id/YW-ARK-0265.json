@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0265",
+    "legacyId": "YKW-ARK-0265",
+    "name": "Sapphinyan",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Gemnyan)",
+    "type": "Ark",
+    "catalogNumber": 265,
+    "sourceNumber": 265,
+    "displayCode": "0493MHL",
+    "displayCodes": [
+      "0493MHL"
+    ],
+    "arkKey": "MHL",
+    "arkKeys": [
+      "MHL"
+    ],
+    "numericId": 29145,
+    "numericIds": [
+      29145
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0265.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0265.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

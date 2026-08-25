@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0198",
+    "legacyId": "YKW-ARK-0198",
+    "name": "Robonyan",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 198,
+    "sourceNumber": 198,
+    "displayCode": "0228M9T",
+    "displayCodes": [
+      "0228M9T"
+    ],
+    "arkKey": "M9T",
+    "arkKeys": [
+      "M9T"
+    ],
+    "numericId": 28865,
+    "numericIds": [
+      28865
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0198.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0198.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

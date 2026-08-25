@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0024",
+    "legacyId": "YKW-ARK-0024",
+    "name": "Voidera",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 24,
+    "sourceNumber": 24,
+    "displayCode": "0020M41",
+    "displayCodes": [
+      "0020M41"
+    ],
+    "arkKey": "M41",
+    "arkKeys": [
+      "M41"
+    ],
+    "numericId": 28657,
+    "numericIds": [
+      28657
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0024.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0024.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

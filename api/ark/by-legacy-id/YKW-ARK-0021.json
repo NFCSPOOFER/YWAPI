@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0021",
+    "legacyId": "YKW-ARK-0021",
+    "name": "Seiryuu",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 21,
+    "sourceNumber": 21,
+    "displayCode": "0027M48",
+    "displayCodes": [
+      "0027M48"
+    ],
+    "arkKey": "M48",
+    "arkKeys": [
+      "M48"
+    ],
+    "numericId": 28664,
+    "numericIds": [
+      28664
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0021.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0021.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

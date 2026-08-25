@@ -1,0 +1,60 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0313",
+      "legacyId": "YKW-ARK-0313",
+      "name": "Kenshin Amaterasu",
+      "series": "Series 05 - Kenshin Amaterasu and Gesshin Tsukuyomi",
+      "seriesGroup": "Yo-kai Keystone Series",
+      "rarity": "Ultimate Rare",
+      "type": "Ark",
+      "catalogNumber": 313,
+      "sourceNumber": 313,
+      "displayCode": "0130M73",
+      "displayCodes": [
+        "0130M73"
+      ],
+      "arkKey": "M73",
+      "arkKeys": [
+        "M73"
+      ],
+      "numericId": 28767,
+      "numericIds": [
+        28767
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0313.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0313.png",
+      "status": "confirmed",
+      "scanCount": 9,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0314",
+      "legacyId": "YKW-ARK-0314",
+      "name": "Yamambaa/Gesshin Tsukuyomi",
+      "series": "Series 05 - Kenshin Amaterasu and Gesshin Tsukuyomi",
+      "seriesGroup": "Yo-kai Keystone Series",
+      "rarity": "Ultimate Rare",
+      "type": "Ark",
+      "catalogNumber": 314,
+      "sourceNumber": 314,
+      "displayCode": "0129M72",
+      "displayCodes": [
+        "0129M72"
+      ],
+      "arkKey": "M72",
+      "arkKeys": [
+        "M72"
+      ],
+      "numericId": 28766,
+      "numericIds": [
+        28766
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0314.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0314.png",
+      "status": "confirmed",
+      "scanCount": 6,
+      "uniqueTagCount": 5
+    }
+  ]
+}

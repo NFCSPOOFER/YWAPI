@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0327",
+    "legacyId": "YKW-ARK-0327",
+    "name": "Gusto",
+    "series": "Other",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "Pre-order Yo-kai Watch: Forever Friends Tickets",
+    "type": "Ark",
+    "catalogNumber": 327,
+    "sourceNumber": 327,
+    "displayCode": "0069M5E",
+    "displayCodes": [
+      "0069M5E"
+    ],
+    "arkKey": "M5E",
+    "arkKeys": [
+      "M5E"
+    ],
+    "numericId": 28706,
+    "numericIds": [
+      28706
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0327.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0327.png",
+    "status": "confirmed",
+    "scanCount": 12,
+    "uniqueTagCount": 10
+  }
+}

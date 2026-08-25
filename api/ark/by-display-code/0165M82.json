@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0123",
+    "legacyId": "YKW-ARK-0123",
+    "name": "Wazzat",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 123,
+    "sourceNumber": 123,
+    "displayCode": "0165M82",
+    "displayCodes": [
+      "0165M82"
+    ],
+    "arkKey": "M82",
+    "arkKeys": [
+      "M82"
+    ],
+    "numericId": 28802,
+    "numericIds": [
+      28802
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0123.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0123.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

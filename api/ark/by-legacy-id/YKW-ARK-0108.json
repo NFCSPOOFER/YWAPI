@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0108",
+    "legacyId": "YKW-ARK-0108",
+    "name": "Komasan & Komasan (SS)",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Crystal)",
+    "type": "Ark",
+    "catalogNumber": 108,
+    "sourceNumber": 108,
+    "displayCode": "0177M8E",
+    "displayCodes": [
+      "0177M8E"
+    ],
+    "arkKey": "M8E",
+    "arkKeys": [
+      "M8E"
+    ],
+    "numericId": 28814,
+    "numericIds": [
+      28814
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0108.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0108.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

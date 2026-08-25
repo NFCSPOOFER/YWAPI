@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0151",
+    "legacyId": "YKW-ARK-0151",
+    "name": "Rai-chan/Raijin",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Shadow)",
+    "type": "Ark",
+    "catalogNumber": 151,
+    "sourceNumber": 151,
+    "displayCode": "0043M4O",
+    "displayCodes": [
+      "0043M4O"
+    ],
+    "arkKey": "M4O",
+    "arkKeys": [
+      "M4O"
+    ],
+    "numericId": 28680,
+    "numericIds": [
+      28680
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0151.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0151.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 3
+  }
+}

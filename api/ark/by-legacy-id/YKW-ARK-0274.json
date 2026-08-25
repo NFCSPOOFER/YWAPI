@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0274",
+    "legacyId": "YKW-ARK-0274",
+    "name": "Choky/Shiomaneki",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 274,
+    "sourceNumber": 274,
+    "displayCode": "0310MCI",
+    "displayCodes": [
+      "0310MCI"
+    ],
+    "arkKey": "MCI",
+    "arkKeys": [
+      "MCI"
+    ],
+    "numericId": 28962,
+    "numericIds": [
+      28962
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0274.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0274.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

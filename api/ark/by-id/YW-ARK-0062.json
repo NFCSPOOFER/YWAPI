@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0062",
+    "legacyId": "YKW-ARK-0062",
+    "name": "Mekabu-chan",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 62,
+    "sourceNumber": 62,
+    "displayCode": "0122M6V",
+    "displayCodes": [
+      "0122M6V"
+    ],
+    "arkKey": "M6V",
+    "arkKeys": [
+      "M6V"
+    ],
+    "numericId": 28759,
+    "numericIds": [
+      28759
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0062.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0062.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

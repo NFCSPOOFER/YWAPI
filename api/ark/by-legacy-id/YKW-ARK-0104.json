@@ -1,0 +1,24 @@
+{
+  "ark": {
+    "id": "YW-ARK-0104",
+    "legacyId": "YKW-ARK-0104",
+    "name": "Suu-san",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare (Gold)",
+    "type": "Ark",
+    "catalogNumber": 104,
+    "sourceNumber": 104,
+    "displayCode": null,
+    "displayCodes": [],
+    "arkKey": null,
+    "arkKeys": [],
+    "numericId": null,
+    "numericIds": [],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0104.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0104.png",
+    "status": "missing",
+    "scanCount": 0,
+    "uniqueTagCount": 0
+  }
+}

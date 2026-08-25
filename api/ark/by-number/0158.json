@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0158",
+    "legacyId": "YKW-ARK-0158",
+    "name": "Komasan/Koma Kaachan",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 158,
+    "sourceNumber": 158,
+    "displayCode": "0224M9P",
+    "displayCodes": [
+      "0224M9P"
+    ],
+    "arkKey": "M9P",
+    "arkKeys": [
+      "M9P"
+    ],
+    "numericId": 28861,
+    "numericIds": [
+      28861
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0158.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0158.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

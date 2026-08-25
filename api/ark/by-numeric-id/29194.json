@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0273",
+    "legacyId": "YKW-ARK-0273",
+    "name": "Mermaidyn",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 273,
+    "sourceNumber": 273,
+    "displayCode": "0542MIY",
+    "displayCodes": [
+      "0542MIY"
+    ],
+    "arkKey": "MIY",
+    "arkKeys": [
+      "MIY"
+    ],
+    "numericId": 29194,
+    "numericIds": [
+      29194
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0273.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0273.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

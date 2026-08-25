@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0133",
+    "legacyId": "YKW-ARK-0133",
+    "name": "Melonyan/Yubari Melonnyan",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 133,
+    "sourceNumber": 133,
+    "displayCode": "0210M9B",
+    "displayCodes": [
+      "0210M9B"
+    ],
+    "arkKey": "M9B",
+    "arkKeys": [
+      "M9B"
+    ],
+    "numericId": 28847,
+    "numericIds": [
+      28847
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0133.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0133.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

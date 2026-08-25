@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0078",
+    "legacyId": "YKW-ARK-0078",
+    "name": "Usakichi/Bunny Trap",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 78,
+    "sourceNumber": 78,
+    "displayCode": "0145M7I",
+    "displayCodes": [
+      "0145M7I"
+    ],
+    "arkKey": "M7I",
+    "arkKeys": [
+      "M7I"
+    ],
+    "numericId": 28782,
+    "numericIds": [
+      28782
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0078.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0078.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0226",
+    "legacyId": "YKW-ARK-0226",
+    "name": "Insomni",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 226,
+    "sourceNumber": 226,
+    "displayCode": "0327MCZ",
+    "displayCodes": [
+      "0327MCZ"
+    ],
+    "arkKey": "MCZ",
+    "arkKeys": [
+      "MCZ"
+    ],
+    "numericId": 28979,
+    "numericIds": [
+      28979
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0226.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0226.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

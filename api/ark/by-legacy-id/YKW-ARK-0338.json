@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0338",
+    "legacyId": "YKW-ARK-0338",
+    "name": "Wildfire Blaze",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 338,
+    "sourceNumber": 6,
+    "displayCode": "0103MBW",
+    "displayCodes": [
+      "0103MBW"
+    ],
+    "arkKey": "MBW",
+    "arkKeys": [
+      "MBW"
+    ],
+    "numericId": 28940,
+    "numericIds": [
+      28940
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

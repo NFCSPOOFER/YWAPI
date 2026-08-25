@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0023",
+    "legacyId": "YKW-ARK-0023",
+    "name": "Sly/Slimamander",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 23,
+    "sourceNumber": 23,
+    "displayCode": "0023M44",
+    "displayCodes": [
+      "0023M44"
+    ],
+    "arkKey": "M44",
+    "arkKeys": [
+      "M44"
+    ],
+    "numericId": 28660,
+    "numericIds": [
+      28660
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0023.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0023.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0208",
+    "legacyId": "YKW-ARK-0208",
+    "name": "Gilgaros",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 208,
+    "sourceNumber": 208,
+    "displayCode": "0232M9X",
+    "displayCodes": [
+      "0232M9X"
+    ],
+    "arkKey": "M9X",
+    "arkKeys": [
+      "M9X"
+    ],
+    "numericId": 28869,
+    "numericIds": [
+      28869
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0208.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0208.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

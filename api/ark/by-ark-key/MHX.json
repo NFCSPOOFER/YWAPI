@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0222",
+    "legacyId": "YKW-ARK-0222",
+    "name": "Damona",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 222,
+    "sourceNumber": 222,
+    "displayCode": "0505MHX",
+    "displayCodes": [
+      "0505MHX"
+    ],
+    "arkKey": "MHX",
+    "arkKeys": [
+      "MHX"
+    ],
+    "numericId": 29157,
+    "numericIds": [
+      29157
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0222.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0222.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

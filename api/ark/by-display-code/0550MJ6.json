@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0282",
+    "legacyId": "YKW-ARK-0282",
+    "name": "Juno",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 282,
+    "sourceNumber": 282,
+    "displayCode": "0550MJ6",
+    "displayCodes": [
+      "0550MJ6"
+    ],
+    "arkKey": "MJ6",
+    "arkKeys": [
+      "MJ6"
+    ],
+    "numericId": 29202,
+    "numericIds": [
+      29202
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0282.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0282.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

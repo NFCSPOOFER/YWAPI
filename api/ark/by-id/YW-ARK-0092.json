@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0092",
+    "legacyId": "YKW-ARK-0092",
+    "name": "Tamamo/Tamamo no Mae",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 92,
+    "sourceNumber": 92,
+    "displayCode": "0114M6N",
+    "displayCodes": [
+      "0114M6N"
+    ],
+    "arkKey": "M6N",
+    "arkKeys": [
+      "M6N"
+    ],
+    "numericId": 28751,
+    "numericIds": [
+      28751
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0092.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0092.png",
+    "status": "confirmed",
+    "scanCount": 8,
+    "uniqueTagCount": 8
+  }
+}

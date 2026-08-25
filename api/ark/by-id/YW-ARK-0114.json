@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0114",
+    "legacyId": "YKW-ARK-0114",
+    "name": "Komasan & Komajiro",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 114,
+    "sourceNumber": 114,
+    "displayCode": "0178M8F",
+    "displayCodes": [
+      "0178M8F"
+    ],
+    "arkKey": "M8F",
+    "arkKeys": [
+      "M8F"
+    ],
+    "numericId": 28815,
+    "numericIds": [
+      28815
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0114.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0114.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0160",
+    "legacyId": "YKW-ARK-0160",
+    "name": "Hare-onna/Ame-onna",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 160,
+    "sourceNumber": 160,
+    "displayCode": "0008M3P",
+    "displayCodes": [
+      "0008M3P"
+    ],
+    "arkKey": "M3P",
+    "arkKeys": [
+      "M3P"
+    ],
+    "numericId": 28645,
+    "numericIds": [
+      28645
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0160.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0160.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

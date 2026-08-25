@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0201",
+    "legacyId": "YKW-ARK-0201",
+    "name": "Noko",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 201,
+    "sourceNumber": 201,
+    "displayCode": "0223M9O",
+    "displayCodes": [
+      "0223M9O"
+    ],
+    "arkKey": "M9O",
+    "arkKeys": [
+      "M9O"
+    ],
+    "numericId": 28860,
+    "numericIds": [
+      28860
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0201.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0201.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

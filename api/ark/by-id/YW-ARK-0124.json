@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0124",
+    "legacyId": "YKW-ARK-0124",
+    "name": "Supoor Hero",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 124,
+    "sourceNumber": 124,
+    "displayCode": "0166M83",
+    "displayCodes": [
+      "0166M83"
+    ],
+    "arkKey": "M83",
+    "arkKeys": [
+      "M83"
+    ],
+    "numericId": 28803,
+    "numericIds": [
+      28803
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0124.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0124.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

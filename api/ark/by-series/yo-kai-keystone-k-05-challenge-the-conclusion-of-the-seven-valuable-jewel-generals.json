@@ -1,0 +1,636 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0208",
+      "legacyId": "YKW-ARK-0208",
+      "name": "Gilgaros",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 208,
+      "sourceNumber": 208,
+      "displayCode": "0232M9X",
+      "displayCodes": [
+        "0232M9X"
+      ],
+      "arkKey": "M9X",
+      "arkKeys": [
+        "M9X"
+      ],
+      "numericId": 28869,
+      "numericIds": [
+        28869
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0208.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0208.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0209",
+      "legacyId": "YKW-ARK-0209",
+      "name": "Black Dianyan/Ruby Shurakoma",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 209,
+      "sourceNumber": 209,
+      "displayCode": "0282MBB",
+      "displayCodes": [
+        "0282MBB"
+      ],
+      "arkKey": "MBB",
+      "arkKeys": [
+        "MBB"
+      ],
+      "numericId": 28919,
+      "numericIds": [
+        28919
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0209.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0209.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0210",
+      "legacyId": "YKW-ARK-0210",
+      "name": "Black Dianyan/Black Tirenyan",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 210,
+      "sourceNumber": 210,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0210.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0210.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0211",
+      "legacyId": "YKW-ARK-0211",
+      "name": "Kogasho Kojin",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Jewel)",
+      "type": "Ark",
+      "catalogNumber": 211,
+      "sourceNumber": 211,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0211.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0211.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0212",
+      "legacyId": "YKW-ARK-0212",
+      "name": "Momonyan/Oni Slaying Companions",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare/Daikichi (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 212,
+      "sourceNumber": 212,
+      "displayCode": "0485MHD",
+      "displayCodes": [
+        "0485MHD"
+      ],
+      "arkKey": "MHD",
+      "arkKeys": [
+        "MHD"
+      ],
+      "numericId": 29137,
+      "numericIds": [
+        29137
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0212.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0212.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0213",
+      "legacyId": "YKW-ARK-0213",
+      "name": "Kawataro",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Jewel)",
+      "type": "Ark",
+      "catalogNumber": 213,
+      "sourceNumber": 213,
+      "displayCode": "0287MBG",
+      "displayCodes": [
+        "0287MBG"
+      ],
+      "arkKey": "MBG",
+      "arkKeys": [
+        "MBG"
+      ],
+      "numericId": 28924,
+      "numericIds": [
+        28924
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0213.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0213.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0214",
+      "legacyId": "YKW-ARK-0214",
+      "name": "Snartle",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 214,
+      "sourceNumber": 214,
+      "displayCode": "0222M9N",
+      "displayCodes": [
+        "0222M9N"
+      ],
+      "arkKey": "M9N",
+      "arkKeys": [
+        "M9N"
+      ],
+      "numericId": 28859,
+      "numericIds": [
+        28859
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0214.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0214.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0215",
+      "legacyId": "YKW-ARK-0215",
+      "name": "Orcanos",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 215,
+      "sourceNumber": 215,
+      "displayCode": "0231M9W",
+      "displayCodes": [
+        "0231M9W"
+      ],
+      "arkKey": "M9W",
+      "arkKeys": [
+        "M9W"
+      ],
+      "numericId": 28868,
+      "numericIds": [
+        28868
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0215.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0215.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0216",
+      "legacyId": "YKW-ARK-0216",
+      "name": "Goldenyan",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 216,
+      "sourceNumber": 216,
+      "displayCode": "0336MD8",
+      "displayCodes": [
+        "0336MD8"
+      ],
+      "arkKey": "MD8",
+      "arkKeys": [
+        "MD8"
+      ],
+      "numericId": 28988,
+      "numericIds": [
+        28988
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0216.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0216.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0217",
+      "legacyId": "YKW-ARK-0217",
+      "name": "Wobblewok",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 217,
+      "sourceNumber": 217,
+      "displayCode": "0340MDC",
+      "displayCodes": [
+        "0340MDC"
+      ],
+      "arkKey": "MDC",
+      "arkKeys": [
+        "MDC"
+      ],
+      "numericId": 28992,
+      "numericIds": [
+        28992
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0217.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0217.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0218",
+      "legacyId": "YKW-ARK-0218",
+      "name": "Ogralus",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 218,
+      "sourceNumber": 218,
+      "displayCode": "0341MDD",
+      "displayCodes": [
+        "0341MDD"
+      ],
+      "arkKey": "MDD",
+      "arkKeys": [
+        "MDD"
+      ],
+      "numericId": 28993,
+      "numericIds": [
+        28993
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0218.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0218.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0219",
+      "legacyId": "YKW-ARK-0219",
+      "name": "Tengu",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 219,
+      "sourceNumber": 219,
+      "displayCode": "0423MFN",
+      "displayCodes": [
+        "0423MFN"
+      ],
+      "arkKey": "MFN",
+      "arkKeys": [
+        "MFN"
+      ],
+      "numericId": 29075,
+      "numericIds": [
+        29075
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0219.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0219.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0220",
+      "legacyId": "YKW-ARK-0220",
+      "name": "Flengu",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 220,
+      "sourceNumber": 220,
+      "displayCode": "0424MFO",
+      "displayCodes": [
+        "0424MFO"
+      ],
+      "arkKey": "MFO",
+      "arkKeys": [
+        "MFO"
+      ],
+      "numericId": 29076,
+      "numericIds": [
+        29076
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0220.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0220.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0221",
+      "legacyId": "YKW-ARK-0221",
+      "name": "Shadow Venoct",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 221,
+      "sourceNumber": 221,
+      "displayCode": "0504MHW",
+      "displayCodes": [
+        "0504MHW"
+      ],
+      "arkKey": "MHW",
+      "arkKeys": [
+        "MHW"
+      ],
+      "numericId": 29156,
+      "numericIds": [
+        29156
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0221.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0221.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0222",
+      "legacyId": "YKW-ARK-0222",
+      "name": "Damona",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 222,
+      "sourceNumber": 222,
+      "displayCode": "0505MHX",
+      "displayCodes": [
+        "0505MHX"
+      ],
+      "arkKey": "MHX",
+      "arkKeys": [
+        "MHX"
+      ],
+      "numericId": 29157,
+      "numericIds": [
+        29157
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0222.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0222.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0223",
+      "legacyId": "YKW-ARK-0223",
+      "name": "Momonyan",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 223,
+      "sourceNumber": 223,
+      "displayCode": "0506MHY",
+      "displayCodes": [
+        "0506MHY"
+      ],
+      "arkKey": "MHY",
+      "arkKeys": [
+        "MHY"
+      ],
+      "numericId": 29158,
+      "numericIds": [
+        29158
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0223.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0223.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0224",
+      "legacyId": "YKW-ARK-0224",
+      "name": "Noway",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 224,
+      "sourceNumber": 224,
+      "displayCode": "0227M9S",
+      "displayCodes": [
+        "0227M9S"
+      ],
+      "arkKey": "M9S",
+      "arkKeys": [
+        "M9S"
+      ],
+      "numericId": 28864,
+      "numericIds": [
+        28864
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0224.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0224.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0225",
+      "legacyId": "YKW-ARK-0225",
+      "name": "Walkappa",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 225,
+      "sourceNumber": 225,
+      "displayCode": "0229M9U",
+      "displayCodes": [
+        "0229M9U"
+      ],
+      "arkKey": "M9U",
+      "arkKeys": [
+        "M9U"
+      ],
+      "numericId": 28866,
+      "numericIds": [
+        28866
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0225.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0225.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0226",
+      "legacyId": "YKW-ARK-0226",
+      "name": "Insomni",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 226,
+      "sourceNumber": 226,
+      "displayCode": "0327MCZ",
+      "displayCodes": [
+        "0327MCZ"
+      ],
+      "arkKey": "MCZ",
+      "arkKeys": [
+        "MCZ"
+      ],
+      "numericId": 28979,
+      "numericIds": [
+        28979
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0226.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0226.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0227",
+      "legacyId": "YKW-ARK-0227",
+      "name": "Baku",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 227,
+      "sourceNumber": 227,
+      "displayCode": "0332MD4",
+      "displayCodes": [
+        "0332MD4"
+      ],
+      "arkKey": "MD4",
+      "arkKeys": [
+        "MD4"
+      ],
+      "numericId": 28984,
+      "numericIds": [
+        28984
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0227.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0227.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0228",
+      "legacyId": "YKW-ARK-0228",
+      "name": "Shmoopie",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 228,
+      "sourceNumber": 228,
+      "displayCode": "0333MD5",
+      "displayCodes": [
+        "0333MD5"
+      ],
+      "arkKey": "MD5",
+      "arkKeys": [
+        "MD5"
+      ],
+      "numericId": 28985,
+      "numericIds": [
+        28985
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0228.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0228.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0229",
+      "legacyId": "YKW-ARK-0229",
+      "name": "Mimikin",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 229,
+      "sourceNumber": 229,
+      "displayCode": "0344MDG",
+      "displayCodes": [
+        "0344MDG"
+      ],
+      "arkKey": "MDG",
+      "arkKeys": [
+        "MDG"
+      ],
+      "numericId": 28996,
+      "numericIds": [
+        28996
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0229.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0229.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0230",
+      "legacyId": "YKW-ARK-0230",
+      "name": "Taronyan Trio",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Daikichi",
+      "type": "Ark",
+      "catalogNumber": 230,
+      "sourceNumber": 230,
+      "displayCode": "0507MHZ",
+      "displayCodes": [
+        "0507MHZ"
+      ],
+      "arkKey": "MHZ",
+      "arkKeys": [
+        "MHZ"
+      ],
+      "numericId": 29159,
+      "numericIds": [
+        29159
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0230.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0230.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    }
+  ]
+}

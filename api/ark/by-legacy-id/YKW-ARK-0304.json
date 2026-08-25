@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0304",
+    "legacyId": "YKW-ARK-0304",
+    "name": "Goku Fubuki-hime",
+    "series": "Series 01 - Yo-kai World's 1st Martial Art Tournament - Goku Orochi",
+    "seriesGroup": "Yo-kai Keystone Series",
+    "rarity": "Super Extreme Rare (Goku)",
+    "type": "Ark",
+    "catalogNumber": 304,
+    "sourceNumber": 304,
+    "displayCode": "0188M8P",
+    "displayCodes": [
+      "0188M8P"
+    ],
+    "arkKey": "M8P",
+    "arkKeys": [
+      "M8P"
+    ],
+    "numericId": 28825,
+    "numericIds": [
+      28825
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0304.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0304.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

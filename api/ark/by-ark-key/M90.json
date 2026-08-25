@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0139",
+    "legacyId": "YKW-ARK-0139",
+    "name": "Gnomey",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 139,
+    "sourceNumber": 139,
+    "displayCode": "0199M90",
+    "displayCodes": [
+      "0199M90"
+    ],
+    "arkKey": "M90",
+    "arkKeys": [
+      "M90"
+    ],
+    "numericId": 28836,
+    "numericIds": [
+      28836
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0139.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0139.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

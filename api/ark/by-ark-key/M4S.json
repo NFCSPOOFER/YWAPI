@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0029",
+    "legacyId": "YKW-ARK-0029",
+    "name": "Semicolon/Bugaboo",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 29,
+    "sourceNumber": 29,
+    "displayCode": "0047M4S",
+    "displayCodes": [
+      "0047M4S"
+    ],
+    "arkKey": "M4S",
+    "arkKeys": [
+      "M4S"
+    ],
+    "numericId": 28684,
+    "numericIds": [
+      28684
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0029.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0029.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

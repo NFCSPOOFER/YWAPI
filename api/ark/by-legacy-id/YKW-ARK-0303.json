@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0303",
+    "legacyId": "YKW-ARK-0303",
+    "name": "Goku Orochi",
+    "series": "Series 01 - Yo-kai World's 1st Martial Art Tournament - Goku Orochi",
+    "seriesGroup": "Yo-kai Keystone Series",
+    "rarity": "Ultimate Rare (Goku)",
+    "type": "Ark",
+    "catalogNumber": 303,
+    "sourceNumber": 303,
+    "displayCode": "0189M8Q",
+    "displayCodes": [
+      "0189M8Q"
+    ],
+    "arkKey": "M8Q",
+    "arkKeys": [
+      "M8Q"
+    ],
+    "numericId": 28826,
+    "numericIds": [
+      28826
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0303.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0303.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

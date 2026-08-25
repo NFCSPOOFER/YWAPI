@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0261",
+    "legacyId": "YKW-ARK-0261",
+    "name": "Kiborikkuma & Kintaronyan",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 261,
+    "sourceNumber": 261,
+    "displayCode": "0539MIV",
+    "displayCodes": [
+      "0539MIV"
+    ],
+    "arkKey": "MIV",
+    "arkKeys": [
+      "MIV"
+    ],
+    "numericId": 29191,
+    "numericIds": [
+      29191
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0261.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0261.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

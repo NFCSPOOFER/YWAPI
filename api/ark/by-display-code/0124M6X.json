@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0052",
+    "legacyId": "YKW-ARK-0052",
+    "name": "Junior & Lil' Acala",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 52,
+    "sourceNumber": 52,
+    "displayCode": "0124M6X",
+    "displayCodes": [
+      "0124M6X"
+    ],
+    "arkKey": "M6X",
+    "arkKeys": [
+      "M6X"
+    ],
+    "numericId": 28761,
+    "numericIds": [
+      28761
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0052.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0052.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0059",
+    "legacyId": "YKW-ARK-0059",
+    "name": "Sebas-chan/Jeannie",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 59,
+    "sourceNumber": 59,
+    "displayCode": "0119M6S",
+    "displayCodes": [
+      "0119M6S"
+    ],
+    "arkKey": "M6S",
+    "arkKeys": [
+      "M6S"
+    ],
+    "numericId": 28756,
+    "numericIds": [
+      28756
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0059.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0059.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

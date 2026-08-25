@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0202",
+    "legacyId": "YKW-ARK-0202",
+    "name": "Bananose",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 202,
+    "sourceNumber": 202,
+    "displayCode": "0251MAG",
+    "displayCodes": [
+      "0251MAG"
+    ],
+    "arkKey": "MAG",
+    "arkKeys": [
+      "MAG"
+    ],
+    "numericId": 28888,
+    "numericIds": [
+      28888
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0202.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0202.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

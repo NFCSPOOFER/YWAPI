@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0254",
+    "legacyId": "YKW-ARK-0254",
+    "name": "Spoilerina",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 254,
+    "sourceNumber": 254,
+    "displayCode": "0535MIR",
+    "displayCodes": [
+      "0535MIR"
+    ],
+    "arkKey": "MIR",
+    "arkKeys": [
+      "MIR"
+    ],
+    "numericId": 29187,
+    "numericIds": [
+      29187
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0254.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0254.png",
+    "status": "single_scan",
+    "scanCount": 2,
+    "uniqueTagCount": 1
+  }
+}

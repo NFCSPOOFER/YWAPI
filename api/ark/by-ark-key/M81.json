@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0122",
+    "legacyId": "YKW-ARK-0122",
+    "name": "Shakey",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 122,
+    "sourceNumber": 122,
+    "displayCode": "0164M81",
+    "displayCodes": [
+      "0164M81"
+    ],
+    "arkKey": "M81",
+    "arkKeys": [
+      "M81"
+    ],
+    "numericId": 28801,
+    "numericIds": [
+      28801
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0122.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0122.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

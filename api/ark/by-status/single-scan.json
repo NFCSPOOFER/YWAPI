@@ -1,0 +1,1600 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0007",
+      "legacyId": "YKW-ARK-0007",
+      "name": "Kyubi",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 7,
+      "sourceNumber": 7,
+      "displayCode": "0029M4A",
+      "displayCodes": [
+        "0029M4A"
+      ],
+      "arkKey": "M4A",
+      "arkKeys": [
+        "M4A"
+      ],
+      "numericId": 28666,
+      "numericIds": [
+        28666
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0007.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0007.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0009",
+      "legacyId": "YKW-ARK-0009",
+      "name": "Bancho/Basher",
+      "series": "Series 1 - Open! First Door",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 9,
+      "sourceNumber": 9,
+      "displayCode": "0003M3K",
+      "displayCodes": [
+        "0003M3K"
+      ],
+      "arkKey": "M3K",
+      "arkKeys": [
+        "M3K"
+      ],
+      "numericId": 28640,
+      "numericIds": [
+        28640
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0009.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0009.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0019",
+      "legacyId": "YKW-ARK-0019",
+      "name": "Orochi",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 19,
+      "sourceNumber": 19,
+      "displayCode": "0261MAQ",
+      "displayCodes": [
+        "0261MAQ"
+      ],
+      "arkKey": "MAQ",
+      "arkKeys": [
+        "MAQ"
+      ],
+      "numericId": 28898,
+      "numericIds": [
+        28898
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0019.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0019.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0026",
+      "legacyId": "YKW-ARK-0026",
+      "name": "Tidynator",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 26,
+      "sourceNumber": 26,
+      "displayCode": "0016M3X",
+      "displayCodes": [
+        "0016M3X"
+      ],
+      "arkKey": "M3X",
+      "arkKeys": [
+        "M3X"
+      ],
+      "numericId": 28653,
+      "numericIds": [
+        28653
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0026.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0026.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0029",
+      "legacyId": "YKW-ARK-0029",
+      "name": "Semicolon/Bugaboo",
+      "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 29,
+      "sourceNumber": 29,
+      "displayCode": "0047M4S",
+      "displayCodes": [
+        "0047M4S"
+      ],
+      "arkKey": "M4S",
+      "arkKeys": [
+        "M4S"
+      ],
+      "numericId": 28684,
+      "numericIds": [
+        28684
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0029.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0029.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0046",
+      "legacyId": "YKW-ARK-0046",
+      "name": "Unchikuma",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 46,
+      "sourceNumber": 46,
+      "displayCode": "0101M6A",
+      "displayCodes": [
+        "0101M6A"
+      ],
+      "arkKey": "M6A",
+      "arkKeys": [
+        "M6A"
+      ],
+      "numericId": 28738,
+      "numericIds": [
+        28738
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0046.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0046.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0051",
+      "legacyId": "YKW-ARK-0051",
+      "name": "Kage Orochi",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 51,
+      "sourceNumber": 51,
+      "displayCode": "0126M6Z",
+      "displayCodes": [
+        "0126M6Z"
+      ],
+      "arkKey": "M6Z",
+      "arkKeys": [
+        "M6Z"
+      ],
+      "numericId": 28763,
+      "numericIds": [
+        28763
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0051.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0051.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0052",
+      "legacyId": "YKW-ARK-0052",
+      "name": "Junior & Lil' Acala",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 52,
+      "sourceNumber": 52,
+      "displayCode": "0124M6X",
+      "displayCodes": [
+        "0124M6X"
+      ],
+      "arkKey": "M6X",
+      "arkKeys": [
+        "M6X"
+      ],
+      "numericId": 28761,
+      "numericIds": [
+        28761
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0052.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0052.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0062",
+      "legacyId": "YKW-ARK-0062",
+      "name": "Mekabu-chan",
+      "series": "Series 4 - Door to the Unknown",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 62,
+      "sourceNumber": 62,
+      "displayCode": "0122M6V",
+      "displayCodes": [
+        "0122M6V"
+      ],
+      "arkKey": "M6V",
+      "arkKeys": [
+        "M6V"
+      ],
+      "numericId": 28759,
+      "numericIds": [
+        28759
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0062.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0062.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0063",
+      "legacyId": "YKW-ARK-0063",
+      "name": "Enma",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 63,
+      "sourceNumber": 63,
+      "displayCode": "0153M7Q",
+      "displayCodes": [
+        "0153M7Q"
+      ],
+      "arkKey": "M7Q",
+      "arkKeys": [
+        "M7Q"
+      ],
+      "numericId": 28790,
+      "numericIds": [
+        28790
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0063.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0063.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0064",
+      "legacyId": "YKW-ARK-0064",
+      "name": "Zazel",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 64,
+      "sourceNumber": 64,
+      "displayCode": "0154M7R",
+      "displayCodes": [
+        "0154M7R"
+      ],
+      "arkKey": "M7R",
+      "arkKeys": [
+        "M7R"
+      ],
+      "numericId": 28791,
+      "numericIds": [
+        28791
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0064.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0064.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0065",
+      "legacyId": "YKW-ARK-0065",
+      "name": "Yamabuki Oni",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 65,
+      "sourceNumber": 65,
+      "displayCode": "0152M7P",
+      "displayCodes": [
+        "0152M7P"
+      ],
+      "arkKey": "M7P",
+      "arkKeys": [
+        "M7P"
+      ],
+      "numericId": 28789,
+      "numericIds": [
+        28789
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0065.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0065.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0066",
+      "legacyId": "YKW-ARK-0066",
+      "name": "Voidera",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 66,
+      "sourceNumber": 66,
+      "displayCode": "0151M7O",
+      "displayCodes": [
+        "0151M7O"
+      ],
+      "arkKey": "M7O",
+      "arkKeys": [
+        "M7O"
+      ],
+      "numericId": 28788,
+      "numericIds": [
+        28788
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0066.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0066.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0067",
+      "legacyId": "YKW-ARK-0067",
+      "name": "Whisper 2040, Junior & Lil' Acala",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 67,
+      "sourceNumber": 67,
+      "displayCode": "0149M7M",
+      "displayCodes": [
+        "0149M7M"
+      ],
+      "arkKey": "M7M",
+      "arkKeys": [
+        "M7M"
+      ],
+      "numericId": 28786,
+      "numericIds": [
+        28786
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0067.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0067.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0068",
+      "legacyId": "YKW-ARK-0068",
+      "name": "Hyakki-hime",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 68,
+      "sourceNumber": 68,
+      "displayCode": "0148M7L",
+      "displayCodes": [
+        "0148M7L"
+      ],
+      "arkKey": "M7L",
+      "arkKeys": [
+        "M7L"
+      ],
+      "numericId": 28785,
+      "numericIds": [
+        28785
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0068.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0068.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0070",
+      "legacyId": "YKW-ARK-0070",
+      "name": "Melonyan The Fruitnyans",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Daikichi (Crystal)",
+      "type": "Ark",
+      "catalogNumber": 70,
+      "sourceNumber": 70,
+      "displayCode": "0150M7N",
+      "displayCodes": [
+        "0150M7N"
+      ],
+      "arkKey": "M7N",
+      "arkKeys": [
+        "M7N"
+      ],
+      "numericId": 28787,
+      "numericIds": [
+        28787
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0070.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0070.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0072",
+      "legacyId": "YKW-ARK-0072",
+      "name": "Hyakki-hime",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 72,
+      "sourceNumber": 72,
+      "displayCode": "0061M56",
+      "displayCodes": [
+        "0061M56"
+      ],
+      "arkKey": "M56",
+      "arkKeys": [
+        "M56"
+      ],
+      "numericId": 28698,
+      "numericIds": [
+        28698
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0072.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0072.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0078",
+      "legacyId": "YKW-ARK-0078",
+      "name": "Usakichi/Bunny Trap",
+      "series": "Series 5 - Strongest Yo-kai Appear!!",
+      "seriesGroup": "Shadowside Yo-kai Keystone Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 78,
+      "sourceNumber": 78,
+      "displayCode": "0145M7I",
+      "displayCodes": [
+        "0145M7I"
+      ],
+      "arkKey": "M7I",
+      "arkKeys": [
+        "M7I"
+      ],
+      "numericId": 28782,
+      "numericIds": [
+        28782
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0078.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0078.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0097",
+      "legacyId": "YKW-ARK-0097",
+      "name": "Yasha Enma",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 97,
+      "sourceNumber": 97,
+      "displayCode": "0131M74",
+      "displayCodes": [
+        "0131M74"
+      ],
+      "arkKey": "M74",
+      "arkKeys": [
+        "M74"
+      ],
+      "numericId": 28768,
+      "numericIds": [
+        28768
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0097.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0097.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0098",
+      "legacyId": "YKW-ARK-0098",
+      "name": "Lord Enma",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 98,
+      "sourceNumber": 98,
+      "displayCode": "0132M75",
+      "displayCodes": [
+        "0132M75"
+      ],
+      "arkKey": "M75",
+      "arkKeys": [
+        "M75"
+      ],
+      "numericId": 28769,
+      "numericIds": [
+        28769
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0098.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0098.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0099",
+      "legacyId": "YKW-ARK-0099",
+      "name": "Ancient Enma",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Super Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 99,
+      "sourceNumber": 99,
+      "displayCode": "0133M76",
+      "displayCodes": [
+        "0133M76"
+      ],
+      "arkKey": "M76",
+      "arkKeys": [
+        "M76"
+      ],
+      "numericId": 28770,
+      "numericIds": [
+        28770
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0099.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0099.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0100",
+      "legacyId": "YKW-ARK-0100",
+      "name": "Nurarihyon",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 100,
+      "sourceNumber": 100,
+      "displayCode": "0134M77",
+      "displayCodes": [
+        "0134M77"
+      ],
+      "arkKey": "M77",
+      "arkKeys": [
+        "M77"
+      ],
+      "numericId": 28771,
+      "numericIds": [
+        28771
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0100.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0100.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0103",
+      "legacyId": "YKW-ARK-0103",
+      "name": "Kappa",
+      "series": "Zero Series 2 - Sun and Moon God",
+      "seriesGroup": "Zero Series",
+      "rarity": "Extreme Rare (Gold)",
+      "type": "Ark",
+      "catalogNumber": 103,
+      "sourceNumber": 103,
+      "displayCode": "0138M7B",
+      "displayCodes": [
+        "0138M7B"
+      ],
+      "arkKey": "M7B",
+      "arkKeys": [
+        "M7B"
+      ],
+      "numericId": 28775,
+      "numericIds": [
+        28775
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0103.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0103.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0109",
+      "legacyId": "YKW-ARK-0109",
+      "name": "Whisper Kongming",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 109,
+      "sourceNumber": 109,
+      "displayCode": "0179M8G",
+      "displayCodes": [
+        "0179M8G"
+      ],
+      "arkKey": "M8G",
+      "arkKeys": [
+        "M8G"
+      ],
+      "numericId": 28816,
+      "numericIds": [
+        28816
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0109.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0109.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0112",
+      "legacyId": "YKW-ARK-0112",
+      "name": "Venoct/Venoct Zhou Yu",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 112,
+      "sourceNumber": 112,
+      "displayCode": "0184M8L",
+      "displayCodes": [
+        "0184M8L"
+      ],
+      "arkKey": "M8L",
+      "arkKeys": [
+        "M8L"
+      ],
+      "numericId": 28821,
+      "numericIds": [
+        28821
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0112.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0112.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0117",
+      "legacyId": "YKW-ARK-0117",
+      "name": "Venoct",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 117,
+      "sourceNumber": 117,
+      "displayCode": "0174M8B",
+      "displayCodes": [
+        "0174M8B"
+      ],
+      "arkKey": "M8B",
+      "arkKeys": [
+        "M8B"
+      ],
+      "numericId": 28811,
+      "numericIds": [
+        28811
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0117.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0117.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0118",
+      "legacyId": "YKW-ARK-0118",
+      "name": "Kyubi",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 118,
+      "sourceNumber": 118,
+      "displayCode": "0175M8C",
+      "displayCodes": [
+        "0175M8C"
+      ],
+      "arkKey": "M8C",
+      "arkKeys": [
+        "M8C"
+      ],
+      "numericId": 28812,
+      "numericIds": [
+        28812
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0118.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0118.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0121",
+      "legacyId": "YKW-ARK-0121",
+      "name": "Hidabat",
+      "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 121,
+      "sourceNumber": 121,
+      "displayCode": "0163M80",
+      "displayCodes": [
+        "0163M80"
+      ],
+      "arkKey": "M80",
+      "arkKeys": [
+        "M80"
+      ],
+      "numericId": 28800,
+      "numericIds": [
+        28800
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0121.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0121.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0129",
+      "legacyId": "YKW-ARK-0129",
+      "name": "Jibanyan Liu Bei",
+      "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 129,
+      "sourceNumber": 129,
+      "displayCode": "0208M99",
+      "displayCodes": [
+        "0208M99"
+      ],
+      "arkKey": "M99",
+      "arkKeys": [
+        "M99"
+      ],
+      "numericId": 28845,
+      "numericIds": [
+        28845
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0129.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0129.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0154",
+      "legacyId": "YKW-ARK-0154",
+      "name": "Hi no Shin",
+      "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Shadow)",
+      "type": "Ark",
+      "catalogNumber": 154,
+      "sourceNumber": 154,
+      "displayCode": "0161M7Y",
+      "displayCodes": [
+        "0161M7Y"
+      ],
+      "arkKey": "M7Y",
+      "arkKeys": [
+        "M7Y"
+      ],
+      "numericId": 28798,
+      "numericIds": [
+        28798
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0154.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0154.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0157",
+      "legacyId": "YKW-ARK-0157",
+      "name": "Hi no Shin (Shadowside)",
+      "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 157,
+      "sourceNumber": 157,
+      "displayCode": "0292MBL",
+      "displayCodes": [
+        "0292MBL"
+      ],
+      "arkKey": "MBL",
+      "arkKeys": [
+        "MBL"
+      ],
+      "numericId": 28929,
+      "numericIds": [
+        28929
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0157.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0157.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0158",
+      "legacyId": "YKW-ARK-0158",
+      "name": "Komasan/Koma Kaachan",
+      "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 158,
+      "sourceNumber": 158,
+      "displayCode": "0224M9P",
+      "displayCodes": [
+        "0224M9P"
+      ],
+      "arkKey": "M9P",
+      "arkKeys": [
+        "M9P"
+      ],
+      "numericId": 28861,
+      "numericIds": [
+        28861
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0158.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0158.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0164",
+      "legacyId": "YKW-ARK-0164",
+      "name": "Punkupine",
+      "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 164,
+      "sourceNumber": 164,
+      "displayCode": "0216M9H",
+      "displayCodes": [
+        "0216M9H"
+      ],
+      "arkKey": "M9H",
+      "arkKeys": [
+        "M9H"
+      ],
+      "numericId": 28853,
+      "numericIds": [
+        28853
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0164.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0164.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0167",
+      "legacyId": "YKW-ARK-0167",
+      "name": "Toadal Dude",
+      "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Rare",
+      "type": "Ark",
+      "catalogNumber": 167,
+      "sourceNumber": 167,
+      "displayCode": "0237MA2",
+      "displayCodes": [
+        "0237MA2"
+      ],
+      "arkKey": "MA2",
+      "arkKeys": [
+        "MA2"
+      ],
+      "numericId": 28874,
+      "numericIds": [
+        28874
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0167.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0167.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0170",
+      "legacyId": "YKW-ARK-0170",
+      "name": "Kantaro/Jihanki",
+      "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 170,
+      "sourceNumber": 170,
+      "displayCode": "0136M79",
+      "displayCodes": [
+        "0136M79"
+      ],
+      "arkKey": "M79",
+      "arkKeys": [
+        "M79"
+      ],
+      "numericId": 28773,
+      "numericIds": [
+        28773
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0170.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0170.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0173",
+      "legacyId": "YKW-ARK-0173",
+      "name": "Kakusei Enma",
+      "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 173,
+      "sourceNumber": 173,
+      "displayCode": "0214M9F",
+      "displayCodes": [
+        "0214M9F"
+      ],
+      "arkKey": "M9F",
+      "arkKeys": [
+        "M9F"
+      ],
+      "numericId": 28851,
+      "numericIds": [
+        28851
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0173.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0173.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0175",
+      "legacyId": "YKW-ARK-0175",
+      "name": "Juno",
+      "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 175,
+      "sourceNumber": 175,
+      "displayCode": "0508MI0",
+      "displayCodes": [
+        "0508MI0"
+      ],
+      "arkKey": "MI0",
+      "arkKeys": [
+        "MI0"
+      ],
+      "numericId": 29160,
+      "numericIds": [
+        29160
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0175.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0175.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0176",
+      "legacyId": "YKW-ARK-0176",
+      "name": "Juno & Summer",
+      "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 176,
+      "sourceNumber": 176,
+      "displayCode": "0509MI1",
+      "displayCodes": [
+        "0509MI1"
+      ],
+      "arkKey": "MI1",
+      "arkKeys": [
+        "MI1"
+      ],
+      "numericId": 29161,
+      "numericIds": [
+        29161
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0176.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0176.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0177",
+      "legacyId": "YKW-ARK-0177",
+      "name": "Saros",
+      "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 177,
+      "sourceNumber": 177,
+      "displayCode": "0510MI2",
+      "displayCodes": [
+        "0510MI2"
+      ],
+      "arkKey": "MI2",
+      "arkKeys": [
+        "MI2"
+      ],
+      "numericId": 29162,
+      "numericIds": [
+        29162
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0177.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0177.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0178",
+      "legacyId": "YKW-ARK-0178",
+      "name": "Yami Enma",
+      "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 178,
+      "sourceNumber": 178,
+      "displayCode": "0511MI3",
+      "displayCodes": [
+        "0511MI3"
+      ],
+      "arkKey": "MI3",
+      "arkKeys": [
+        "MI3"
+      ],
+      "numericId": 29163,
+      "numericIds": [
+        29163
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0178.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0178.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0184",
+      "legacyId": "YKW-ARK-0184",
+      "name": "Black Dianyan & Ruby Shurakoma/Seven Jewel Generals",
+      "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Daikichi (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 184,
+      "sourceNumber": 184,
+      "displayCode": "0281MBA",
+      "displayCodes": [
+        "0281MBA"
+      ],
+      "arkKey": "MBA",
+      "arkKeys": [
+        "MBA"
+      ],
+      "numericId": 28918,
+      "numericIds": [
+        28918
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0184.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0184.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0186",
+      "legacyId": "YKW-ARK-0186",
+      "name": "Shikakusho Kaichi",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Jewel)",
+      "type": "Ark",
+      "catalogNumber": 186,
+      "sourceNumber": 186,
+      "displayCode": "0286MBF",
+      "displayCodes": [
+        "0286MBF"
+      ],
+      "arkKey": "MBF",
+      "arkKeys": [
+        "MBF"
+      ],
+      "numericId": 28923,
+      "numericIds": [
+        28923
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0186.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0186.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0187",
+      "legacyId": "YKW-ARK-0187",
+      "name": "Soyokusho Ran",
+      "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Jewel)",
+      "type": "Ark",
+      "catalogNumber": 187,
+      "sourceNumber": 187,
+      "displayCode": "0283MBC",
+      "displayCodes": [
+        "0283MBC"
+      ],
+      "arkKey": "MBC",
+      "arkKeys": [
+        "MBC"
+      ],
+      "numericId": 28920,
+      "numericIds": [
+        28920
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0187.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0187.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0208",
+      "legacyId": "YKW-ARK-0208",
+      "name": "Gilgaros",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 208,
+      "sourceNumber": 208,
+      "displayCode": "0232M9X",
+      "displayCodes": [
+        "0232M9X"
+      ],
+      "arkKey": "M9X",
+      "arkKeys": [
+        "M9X"
+      ],
+      "numericId": 28869,
+      "numericIds": [
+        28869
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0208.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0208.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0209",
+      "legacyId": "YKW-ARK-0209",
+      "name": "Black Dianyan/Ruby Shurakoma",
+      "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Miracle)",
+      "type": "Ark",
+      "catalogNumber": 209,
+      "sourceNumber": 209,
+      "displayCode": "0282MBB",
+      "displayCodes": [
+        "0282MBB"
+      ],
+      "arkKey": "MBB",
+      "arkKeys": [
+        "MBB"
+      ],
+      "numericId": 28919,
+      "numericIds": [
+        28919
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0209.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0209.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0254",
+      "legacyId": "YKW-ARK-0254",
+      "name": "Spoilerina",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Legendary)",
+      "type": "Ark",
+      "catalogNumber": 254,
+      "sourceNumber": 254,
+      "displayCode": "0535MIR",
+      "displayCodes": [
+        "0535MIR"
+      ],
+      "arkKey": "MIR",
+      "arkKeys": [
+        "MIR"
+      ],
+      "numericId": 29187,
+      "numericIds": [
+        29187
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0254.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0254.png",
+      "status": "single_scan",
+      "scanCount": 2,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0261",
+      "legacyId": "YKW-ARK-0261",
+      "name": "Kiborikkuma & Kintaronyan",
+      "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Stray)",
+      "type": "Ark",
+      "catalogNumber": 261,
+      "sourceNumber": 261,
+      "displayCode": "0539MIV",
+      "displayCodes": [
+        "0539MIV"
+      ],
+      "arkKey": "MIV",
+      "arkKeys": [
+        "MIV"
+      ],
+      "numericId": 29191,
+      "numericIds": [
+        29191
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0261.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0261.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0278",
+      "legacyId": "YKW-ARK-0278",
+      "name": "Yasha Enma",
+      "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Shining)",
+      "type": "Ark",
+      "catalogNumber": 278,
+      "sourceNumber": 278,
+      "displayCode": "0074M5J",
+      "displayCodes": [
+        "0074M5J"
+      ],
+      "arkKey": "M5J",
+      "arkKeys": [
+        "M5J"
+      ],
+      "numericId": 28711,
+      "numericIds": [
+        28711
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0278.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0278.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0281",
+      "legacyId": "YKW-ARK-0281",
+      "name": "Dianyan",
+      "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Super Extreme Rare (Gemnyan)",
+      "type": "Ark",
+      "catalogNumber": 281,
+      "sourceNumber": 281,
+      "displayCode": "0248MAD",
+      "displayCodes": [
+        "0248MAD"
+      ],
+      "arkKey": "MAD",
+      "arkKeys": [
+        "MAD"
+      ],
+      "numericId": 28885,
+      "numericIds": [
+        28885
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0281.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0281.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0288",
+      "legacyId": "YKW-ARK-0288",
+      "name": "Rubinyan",
+      "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Gemnyan)",
+      "type": "Ark",
+      "catalogNumber": 288,
+      "sourceNumber": 288,
+      "displayCode": "0491MHJ",
+      "displayCodes": [
+        "0491MHJ"
+      ],
+      "arkKey": "MHJ",
+      "arkKeys": [
+        "MHJ"
+      ],
+      "numericId": 29143,
+      "numericIds": [
+        29143
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0288.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0288.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0289",
+      "legacyId": "YKW-ARK-0289",
+      "name": "Topanyan",
+      "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare (Gemnyan)",
+      "type": "Ark",
+      "catalogNumber": 289,
+      "sourceNumber": 289,
+      "displayCode": "0492MHK",
+      "displayCodes": [
+        "0492MHK"
+      ],
+      "arkKey": "MHK",
+      "arkKeys": [
+        "MHK"
+      ],
+      "numericId": 29144,
+      "numericIds": [
+        29144
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0289.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0289.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0291",
+      "legacyId": "YKW-ARK-0291",
+      "name": "Tsuchigumo",
+      "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 291,
+      "sourceNumber": 291,
+      "displayCode": "0058M53",
+      "displayCodes": [
+        "0058M53"
+      ],
+      "arkKey": "M53",
+      "arkKeys": [
+        "M53"
+      ],
+      "numericId": 28695,
+      "numericIds": [
+        28695
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0291.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0291.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0292",
+      "legacyId": "YKW-ARK-0292",
+      "name": "Ogama",
+      "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Extreme Rare",
+      "type": "Ark",
+      "catalogNumber": 292,
+      "sourceNumber": 292,
+      "displayCode": "0060M55",
+      "displayCodes": [
+        "0060M55"
+      ],
+      "arkKey": "M55",
+      "arkKeys": [
+        "M55"
+      ],
+      "numericId": 28697,
+      "numericIds": [
+        28697
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0292.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0292.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0300",
+      "legacyId": "YKW-ARK-0300",
+      "name": "Tidynator",
+      "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+      "seriesGroup": "Yo-kai Keystone K Series",
+      "rarity": "Normal",
+      "type": "Ark",
+      "catalogNumber": 300,
+      "sourceNumber": 300,
+      "displayCode": "0016M3X",
+      "displayCodes": [
+        "0016M3X"
+      ],
+      "arkKey": "M3X",
+      "arkKeys": [
+        "M3X"
+      ],
+      "numericId": 28653,
+      "numericIds": [
+        28653
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0300.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0300.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0325",
+      "legacyId": "YKW-ARK-0325",
+      "name": "Yasha Enma",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "CoroCoro Comic Giveaway",
+      "type": "Ark",
+      "catalogNumber": 325,
+      "sourceNumber": 325,
+      "displayCode": "0117M6Q",
+      "displayCodes": [
+        "0117M6Q"
+      ],
+      "arkKey": "M6Q",
+      "arkKeys": [
+        "M6Q"
+      ],
+      "numericId": 28754,
+      "numericIds": [
+        28754
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0325.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0325.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0329",
+      "legacyId": "YKW-ARK-0329",
+      "name": "Fudou Myouou Boy/Fudou Myouou-kai",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Buy 10 packs of any keystone set",
+      "type": "Ark",
+      "catalogNumber": 329,
+      "sourceNumber": 329,
+      "displayCode": "0187M8O",
+      "displayCodes": [
+        "0187M8O"
+      ],
+      "arkKey": "M8O",
+      "arkKeys": [
+        "M8O"
+      ],
+      "numericId": 28824,
+      "numericIds": [
+        28824
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0329.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0329.png",
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    },
+    {
+      "id": "YW-ARK-0334",
+      "legacyId": "YKW-ARK-0334",
+      "name": "Small toy replica of the Stormweaver",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Ark",
+      "catalogNumber": 334,
+      "sourceNumber": 2,
+      "displayCode": "0101MBU",
+      "displayCodes": [
+        "0101MBU"
+      ],
+      "arkKey": "MBU",
+      "arkKeys": [
+        "MBU"
+      ],
+      "numericId": 28938,
+      "numericIds": [
+        28938
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0334.png",
+      "imageBack": null,
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
+    }
+  ]
+}

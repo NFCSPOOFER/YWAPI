@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0172",
+    "legacyId": "YKW-ARK-0172",
+    "name": "Blobgoblin",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 172,
+    "sourceNumber": 172,
+    "displayCode": "0298MBR",
+    "displayCodes": [
+      "0298MBR"
+    ],
+    "arkKey": "MBR",
+    "arkKeys": [
+      "MBR"
+    ],
+    "numericId": 28935,
+    "numericIds": [
+      28935
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0172.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0172.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 4
+  }
+}

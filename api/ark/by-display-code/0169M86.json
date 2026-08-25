@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0127",
+    "legacyId": "YKW-ARK-0127",
+    "name": "Snobetty",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 127,
+    "sourceNumber": 127,
+    "displayCode": "0169M86",
+    "displayCodes": [
+      "0169M86"
+    ],
+    "arkKey": "M86",
+    "arkKeys": [
+      "M86"
+    ],
+    "numericId": 28806,
+    "numericIds": [
+      28806
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0127.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0127.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

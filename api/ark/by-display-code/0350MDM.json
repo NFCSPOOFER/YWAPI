@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0272",
+    "legacyId": "YKW-ARK-0272",
+    "name": "Nosirs",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 272,
+    "sourceNumber": 272,
+    "displayCode": "0350MDM",
+    "displayCodes": [
+      "0350MDM"
+    ],
+    "arkKey": "MDM",
+    "arkKeys": [
+      "MDM"
+    ],
+    "numericId": 29002,
+    "numericIds": [
+      29002
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0272.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0272.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

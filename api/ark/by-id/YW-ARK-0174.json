@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0174",
+    "legacyId": "YKW-ARK-0174",
+    "name": "Overseer",
+    "series": "Yo-kai Keystone K SP - Extreme! Shadowside!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 174,
+    "sourceNumber": 174,
+    "displayCode": "0498MHQ",
+    "displayCodes": [
+      "0498MHQ"
+    ],
+    "arkKey": "MHQ",
+    "arkKeys": [
+      "MHQ"
+    ],
+    "numericId": 29150,
+    "numericIds": [
+      29150
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0174.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0174.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0067",
+    "legacyId": "YKW-ARK-0067",
+    "name": "Whisper 2040, Junior & Lil' Acala",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 67,
+    "sourceNumber": 67,
+    "displayCode": "0149M7M",
+    "displayCodes": [
+      "0149M7M"
+    ],
+    "arkKey": "M7M",
+    "arkKeys": [
+      "M7M"
+    ],
+    "numericId": 28786,
+    "numericIds": [
+      28786
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0067.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0067.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0077",
+    "legacyId": "YKW-ARK-0077",
+    "name": "Umataro/Umazura",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 77,
+    "sourceNumber": 77,
+    "displayCode": "0144M7H",
+    "displayCodes": [
+      "0144M7H"
+    ],
+    "arkKey": "M7H",
+    "arkKeys": [
+      "M7H"
+    ],
+    "numericId": 28781,
+    "numericIds": [
+      28781
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0077.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0077.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

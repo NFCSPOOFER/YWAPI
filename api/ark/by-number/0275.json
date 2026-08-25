@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0275",
+    "legacyId": "YKW-ARK-0275",
+    "name": "Kawauso",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 275,
+    "sourceNumber": 275,
+    "displayCode": "0313MCL",
+    "displayCodes": [
+      "0313MCL"
+    ],
+    "arkKey": "MCL",
+    "arkKeys": [
+      "MCL"
+    ],
+    "numericId": 28965,
+    "numericIds": [
+      28965
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0275.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0275.png",
+    "status": "confirmed",
+    "scanCount": 6,
+    "uniqueTagCount": 6
+  }
+}

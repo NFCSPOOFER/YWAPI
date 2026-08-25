@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0157",
+    "legacyId": "YKW-ARK-0157",
+    "name": "Hi no Shin (Shadowside)",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Stray)",
+    "type": "Ark",
+    "catalogNumber": 157,
+    "sourceNumber": 157,
+    "displayCode": "0292MBL",
+    "displayCodes": [
+      "0292MBL"
+    ],
+    "arkKey": "MBL",
+    "arkKeys": [
+      "MBL"
+    ],
+    "numericId": 28929,
+    "numericIds": [
+      28929
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0157.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0157.png",
+    "status": "single_scan",
+    "scanCount": 2,
+    "uniqueTagCount": 1
+  }
+}

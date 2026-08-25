@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0215",
+    "legacyId": "YKW-ARK-0215",
+    "name": "Orcanos",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 215,
+    "sourceNumber": 215,
+    "displayCode": "0231M9W",
+    "displayCodes": [
+      "0231M9W"
+    ],
+    "arkKey": "M9W",
+    "arkKeys": [
+      "M9W"
+    ],
+    "numericId": 28868,
+    "numericIds": [
+      28868
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0215.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0215.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

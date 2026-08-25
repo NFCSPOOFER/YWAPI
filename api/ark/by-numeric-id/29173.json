@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0249",
+    "legacyId": "YKW-ARK-0249",
+    "name": "Kaped Komander",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 249,
+    "sourceNumber": 249,
+    "displayCode": "0521MID",
+    "displayCodes": [
+      "0521MID"
+    ],
+    "arkKey": "MID",
+    "arkKeys": [
+      "MID"
+    ],
+    "numericId": 29173,
+    "numericIds": [
+      29173
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0249.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0249.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

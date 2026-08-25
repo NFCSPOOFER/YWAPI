@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0200",
+    "legacyId": "YKW-ARK-0200",
+    "name": "Gargaros",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 200,
+    "sourceNumber": 200,
+    "displayCode": "0230M9V",
+    "displayCodes": [
+      "0230M9V"
+    ],
+    "arkKey": "M9V",
+    "arkKeys": [
+      "M9V"
+    ],
+    "numericId": 28867,
+    "numericIds": [
+      28867
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0200.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0200.png",
+    "status": "confirmed",
+    "scanCount": 10,
+    "uniqueTagCount": 10
+  }
+}

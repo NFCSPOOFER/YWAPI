@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0339",
+    "legacyId": "YKW-ARK-0339",
+    "name": "Tiger's Talon",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 339,
+    "sourceNumber": 7,
+    "displayCode": "0105MBY",
+    "displayCodes": [
+      "0105MBY"
+    ],
+    "arkKey": "MBY",
+    "arkKeys": [
+      "MBY"
+    ],
+    "numericId": 28942,
+    "numericIds": [
+      28942
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0339.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0339.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0103",
+    "legacyId": "YKW-ARK-0103",
+    "name": "Kappa",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Extreme Rare (Gold)",
+    "type": "Ark",
+    "catalogNumber": 103,
+    "sourceNumber": 103,
+    "displayCode": "0138M7B",
+    "displayCodes": [
+      "0138M7B"
+    ],
+    "arkKey": "M7B",
+    "arkKeys": [
+      "M7B"
+    ],
+    "numericId": 28775,
+    "numericIds": [
+      28775
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0103.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0103.png",
+    "status": "single_scan",
+    "scanCount": 2,
+    "uniqueTagCount": 1
+  }
+}

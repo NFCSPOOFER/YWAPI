@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0217",
+    "legacyId": "YKW-ARK-0217",
+    "name": "Wobblewok",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 217,
+    "sourceNumber": 217,
+    "displayCode": "0340MDC",
+    "displayCodes": [
+      "0340MDC"
+    ],
+    "arkKey": "MDC",
+    "arkKeys": [
+      "MDC"
+    ],
+    "numericId": 28992,
+    "numericIds": [
+      28992
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0217.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0217.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

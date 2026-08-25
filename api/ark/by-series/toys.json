@@ -1,0 +1,278 @@
+{
+  "ark": [
+    {
+      "id": "YW-ARK-0315",
+      "legacyId": "YKW-ARK-0315",
+      "name": "Jibanyan (SS)",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Yo-Kai Watch Elda (Toy)",
+      "type": "Ark",
+      "catalogNumber": 315,
+      "sourceNumber": 315,
+      "displayCode": "0001M3I",
+      "displayCodes": [
+        "0001M3I"
+      ],
+      "arkKey": "M3I",
+      "arkKeys": [
+        "M3I"
+      ],
+      "numericId": 28638,
+      "numericIds": [
+        28638
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0315.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0315.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 8
+    },
+    {
+      "id": "YW-ARK-0316",
+      "legacyId": "YKW-ARK-0316",
+      "name": "Suu-san/Gunshin Susanoo",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Yo-kai Watch Elda Zero & Jin Power-up Kit",
+      "type": "Ark",
+      "catalogNumber": 316,
+      "sourceNumber": 316,
+      "displayCode": "0065M5A",
+      "displayCodes": [
+        "0065M5A"
+      ],
+      "arkKey": "M5A",
+      "arkKeys": [
+        "M5A"
+      ],
+      "numericId": 28702,
+      "numericIds": [
+        28702
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0316.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0316.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 6
+    },
+    {
+      "id": "YW-ARK-0317",
+      "legacyId": "YKW-ARK-0317",
+      "name": "Ryuutou Rasetu/Ryuutou Benibana",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Enma Rod",
+      "type": "Ark",
+      "catalogNumber": 317,
+      "sourceNumber": 317,
+      "displayCode": null,
+      "displayCodes": [],
+      "arkKey": null,
+      "arkKeys": [],
+      "numericId": null,
+      "numericIds": [],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0317.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0317.png",
+      "status": "missing",
+      "scanCount": 0,
+      "uniqueTagCount": 0
+    },
+    {
+      "id": "YW-ARK-0318",
+      "legacyId": "YKW-ARK-0318",
+      "name": "Koumou no Komasan",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Yo-kai Keystone Holder",
+      "type": "Ark",
+      "catalogNumber": 318,
+      "sourceNumber": 318,
+      "displayCode": "0034M4F",
+      "displayCodes": [
+        "0034M4F"
+      ],
+      "arkKey": "M4F",
+      "arkKeys": [
+        "M4F"
+      ],
+      "numericId": 28671,
+      "numericIds": [
+        28671
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0318.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0318.png",
+      "status": "confirmed",
+      "scanCount": 7,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0319",
+      "legacyId": "YKW-ARK-0319",
+      "name": "Kosen Kyubi",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Youseiken Series 02",
+      "type": "Ark",
+      "catalogNumber": 319,
+      "sourceNumber": 319,
+      "displayCode": "0035M4G",
+      "displayCodes": [
+        "0035M4G"
+      ],
+      "arkKey": "M4G",
+      "arkKeys": [
+        "M4G"
+      ],
+      "numericId": 28672,
+      "numericIds": [
+        28672
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0319.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0319.png",
+      "status": "confirmed",
+      "scanCount": 4,
+      "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0320",
+      "legacyId": "YKW-ARK-0320",
+      "name": "Sakigake Merameraion",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Youseiken Series 03",
+      "type": "Ark",
+      "catalogNumber": 320,
+      "sourceNumber": 320,
+      "displayCode": "0051M4W",
+      "displayCodes": [
+        "0051M4W"
+      ],
+      "arkKey": "M4W",
+      "arkKeys": [
+        "M4W"
+      ],
+      "numericId": 28688,
+      "numericIds": [
+        28688
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0320.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0320.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0321",
+      "legacyId": "YKW-ARK-0321",
+      "name": "Sekka no Fubuki-hime",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Youseiken Series 04",
+      "type": "Ark",
+      "catalogNumber": 321,
+      "sourceNumber": 321,
+      "displayCode": "0050M4V",
+      "displayCodes": [
+        "0050M4V"
+      ],
+      "arkKey": "M4V",
+      "arkKeys": [
+        "M4V"
+      ],
+      "numericId": 28687,
+      "numericIds": [
+        28687
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0321.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0321.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    },
+    {
+      "id": "YW-ARK-0322",
+      "legacyId": "YKW-ARK-0322",
+      "name": "Hakuryu Orochi",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Youseiken Series 05",
+      "type": "Ark",
+      "catalogNumber": 322,
+      "sourceNumber": 322,
+      "displayCode": "0036M4H",
+      "displayCodes": [
+        "0036M4H"
+      ],
+      "arkKey": "M4H",
+      "arkKeys": [
+        "M4H"
+      ],
+      "numericId": 28673,
+      "numericIds": [
+        28673
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0322.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0322.png",
+      "status": "confirmed",
+      "scanCount": 5,
+      "uniqueTagCount": 5
+    },
+    {
+      "id": "YW-ARK-0323",
+      "legacyId": "YKW-ARK-0323",
+      "name": "Jibanyan",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Yo-kai Watch Elda Model K",
+      "type": "Ark",
+      "catalogNumber": 323,
+      "sourceNumber": 323,
+      "displayCode": "0185M8M",
+      "displayCodes": [
+        "0185M8M"
+      ],
+      "arkKey": "M8M",
+      "arkKeys": [
+        "M8M"
+      ],
+      "numericId": 28822,
+      "numericIds": [
+        28822
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0323.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0323.png",
+      "status": "confirmed",
+      "scanCount": 18,
+      "uniqueTagCount": 10
+    },
+    {
+      "id": "YW-ARK-0324",
+      "legacyId": "YKW-ARK-0324",
+      "name": "Komasan",
+      "series": "Toys",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "DX Yo-kai Keystone Holder ver. K",
+      "type": "Ark",
+      "catalogNumber": 324,
+      "sourceNumber": 324,
+      "displayCode": "0186M8N",
+      "displayCodes": [
+        "0186M8N"
+      ],
+      "arkKey": "M8N",
+      "arkKeys": [
+        "M8N"
+      ],
+      "numericId": 28823,
+      "numericIds": [
+        28823
+      ],
+      "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0324.png",
+      "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0324.png",
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
+    }
+  ]
+}

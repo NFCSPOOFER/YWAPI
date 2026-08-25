@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0233",
+    "legacyId": "YKW-ARK-0233",
+    "name": "Nihonōkaminyan",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Endangered)",
+    "type": "Ark",
+    "catalogNumber": 233,
+    "sourceNumber": 233,
+    "displayCode": "0525MIH",
+    "displayCodes": [
+      "0525MIH"
+    ],
+    "arkKey": "MIH",
+    "arkKeys": [
+      "MIH"
+    ],
+    "numericId": 29177,
+    "numericIds": [
+      29177
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0233.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0233.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

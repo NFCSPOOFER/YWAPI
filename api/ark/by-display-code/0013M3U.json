@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0011",
+    "legacyId": "YKW-ARK-0011",
+    "name": "Jinta/Jingeki",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 11,
+    "sourceNumber": 11,
+    "displayCode": "0013M3U",
+    "displayCodes": [
+      "0013M3U"
+    ],
+    "arkKey": "M3U",
+    "arkKeys": [
+      "M3U"
+    ],
+    "numericId": 28650,
+    "numericIds": [
+      28650
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0011.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0011.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 3
+  }
+}

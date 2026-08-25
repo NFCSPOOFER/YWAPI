@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0318",
+    "legacyId": "YKW-ARK-0318",
+    "name": "Koumou no Komasan",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Yo-kai Keystone Holder",
+    "type": "Ark",
+    "catalogNumber": 318,
+    "sourceNumber": 318,
+    "displayCode": "0034M4F",
+    "displayCodes": [
+      "0034M4F"
+    ],
+    "arkKey": "M4F",
+    "arkKeys": [
+      "M4F"
+    ],
+    "numericId": 28671,
+    "numericIds": [
+      28671
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0318.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0318.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 5
+  }
+}

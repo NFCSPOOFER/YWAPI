@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0189",
+    "legacyId": "YKW-ARK-0189",
+    "name": "Hekikakusho Gyuma",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Jewel)",
+    "type": "Ark",
+    "catalogNumber": 189,
+    "sourceNumber": 189,
+    "displayCode": "0284MBD",
+    "displayCodes": [
+      "0284MBD"
+    ],
+    "arkKey": "MBD",
+    "arkKeys": [
+      "MBD"
+    ],
+    "numericId": 28921,
+    "numericIds": [
+      28921
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0189.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0189.png",
+    "status": "confirmed",
+    "scanCount": 9,
+    "uniqueTagCount": 9
+  }
+}

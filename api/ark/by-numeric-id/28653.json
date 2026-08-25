@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0300",
+    "legacyId": "YKW-ARK-0300",
+    "name": "Tidynator",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 300,
+    "sourceNumber": 300,
+    "displayCode": "0016M3X",
+    "displayCodes": [
+      "0016M3X"
+    ],
+    "arkKey": "M3X",
+    "arkKeys": [
+      "M3X"
+    ],
+    "numericId": 28653,
+    "numericIds": [
+      28653
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0300.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0300.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0259",
+    "legacyId": "YKW-ARK-0259",
+    "name": "Ancient Enma",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 259,
+    "sourceNumber": 259,
+    "displayCode": "0532MIO",
+    "displayCodes": [
+      "0532MIO"
+    ],
+    "arkKey": "MIO",
+    "arkKeys": [
+      "MIO"
+    ],
+    "numericId": 29184,
+    "numericIds": [
+      29184
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0259.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0259.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

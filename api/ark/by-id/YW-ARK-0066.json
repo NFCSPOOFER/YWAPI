@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0066",
+    "legacyId": "YKW-ARK-0066",
+    "name": "Voidera",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 66,
+    "sourceNumber": 66,
+    "displayCode": "0151M7O",
+    "displayCodes": [
+      "0151M7O"
+    ],
+    "arkKey": "M7O",
+    "arkKeys": [
+      "M7O"
+    ],
+    "numericId": 28788,
+    "numericIds": [
+      28788
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0066.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0066.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

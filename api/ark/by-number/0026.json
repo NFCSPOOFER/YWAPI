@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0026",
+    "legacyId": "YKW-ARK-0026",
+    "name": "Tidynator",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 26,
+    "sourceNumber": 26,
+    "displayCode": "0016M3X",
+    "displayCodes": [
+      "0016M3X"
+    ],
+    "arkKey": "M3X",
+    "arkKeys": [
+      "M3X"
+    ],
+    "numericId": 28653,
+    "numericIds": [
+      28653
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0026.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0026.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

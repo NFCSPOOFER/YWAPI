@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0033",
+    "legacyId": "YKW-ARK-0033",
+    "name": "Mafura Jibanyan",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 33,
+    "sourceNumber": 33,
+    "displayCode": "0033M4E",
+    "displayCodes": [
+      "0033M4E"
+    ],
+    "arkKey": "M4E",
+    "arkKeys": [
+      "M4E"
+    ],
+    "numericId": 28670,
+    "numericIds": [
+      28670
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0033.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0033.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

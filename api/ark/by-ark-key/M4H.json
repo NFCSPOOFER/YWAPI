@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0322",
+    "legacyId": "YKW-ARK-0322",
+    "name": "Hakuryu Orochi",
+    "series": "Toys",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "DX Youseiken Series 05",
+    "type": "Ark",
+    "catalogNumber": 322,
+    "sourceNumber": 322,
+    "displayCode": "0036M4H",
+    "displayCodes": [
+      "0036M4H"
+    ],
+    "arkKey": "M4H",
+    "arkKeys": [
+      "M4H"
+    ],
+    "numericId": 28673,
+    "numericIds": [
+      28673
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0322.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0322.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

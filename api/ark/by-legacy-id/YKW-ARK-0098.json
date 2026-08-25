@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0098",
+    "legacyId": "YKW-ARK-0098",
+    "name": "Lord Enma",
+    "series": "Zero Series 2 - Sun and Moon God",
+    "seriesGroup": "Zero Series",
+    "rarity": "Super Extreme Rare (Shining)",
+    "type": "Ark",
+    "catalogNumber": 98,
+    "sourceNumber": 98,
+    "displayCode": "0132M75",
+    "displayCodes": [
+      "0132M75"
+    ],
+    "arkKey": "M75",
+    "arkKeys": [
+      "M75"
+    ],
+    "numericId": 28769,
+    "numericIds": [
+      28769
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0098.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0098.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0007",
+    "legacyId": "YKW-ARK-0007",
+    "name": "Kyubi",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 7,
+    "sourceNumber": 7,
+    "displayCode": "0029M4A",
+    "displayCodes": [
+      "0029M4A"
+    ],
+    "arkKey": "M4A",
+    "arkKeys": [
+      "M4A"
+    ],
+    "numericId": 28666,
+    "numericIds": [
+      28666
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0007.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0007.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

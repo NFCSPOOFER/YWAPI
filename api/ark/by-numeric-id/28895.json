@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0188",
+    "legacyId": "YKW-ARK-0188",
+    "name": "Blizzaria/Beach-hime",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 188,
+    "sourceNumber": 188,
+    "displayCode": "0258MAN",
+    "displayCodes": [
+      "0258MAN"
+    ],
+    "arkKey": "MAN",
+    "arkKeys": [
+      "MAN"
+    ],
+    "numericId": 28895,
+    "numericIds": [
+      28895
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0188.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0188.png",
+    "status": "confirmed",
+    "scanCount": 7,
+    "uniqueTagCount": 7
+  }
+}

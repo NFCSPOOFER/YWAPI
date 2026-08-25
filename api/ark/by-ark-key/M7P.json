@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0065",
+    "legacyId": "YKW-ARK-0065",
+    "name": "Yamabuki Oni",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Super Extreme Rare (Legendary)",
+    "type": "Ark",
+    "catalogNumber": 65,
+    "sourceNumber": 65,
+    "displayCode": "0152M7P",
+    "displayCodes": [
+      "0152M7P"
+    ],
+    "arkKey": "M7P",
+    "arkKeys": [
+      "M7P"
+    ],
+    "numericId": 28789,
+    "numericIds": [
+      28789
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0065.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0065.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

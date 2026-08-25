@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0195",
+    "legacyId": "YKW-ARK-0195",
+    "name": "Maginyan",
+    "series": "Yo-kai Keystone K 04 - Many Treasures! Collected and Treasured Yo-kai!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 195,
+    "sourceNumber": 195,
+    "displayCode": "0250MAF",
+    "displayCodes": [
+      "0250MAF"
+    ],
+    "arkKey": "MAF",
+    "arkKeys": [
+      "MAF"
+    ],
+    "numericId": 28887,
+    "numericIds": [
+      28887
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0195.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0195.png",
+    "status": "confirmed",
+    "scanCount": 8,
+    "uniqueTagCount": 7
+  }
+}

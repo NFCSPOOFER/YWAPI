@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0337",
+    "legacyId": "YKW-ARK-0337",
+    "name": "Genbu Hotenfu",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 337,
+    "sourceNumber": 5,
+    "displayCode": "0104MBX",
+    "displayCodes": [
+      "0104MBX"
+    ],
+    "arkKey": "MBX",
+    "arkKeys": [
+      "MBX"
+    ],
+    "numericId": 28941,
+    "numericIds": [
+      28941
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0337.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0337.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

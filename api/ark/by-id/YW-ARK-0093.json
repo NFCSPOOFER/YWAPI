@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0093",
+    "legacyId": "YKW-ARK-0093",
+    "name": "Yamambaa/Yamamba",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 93,
+    "sourceNumber": 93,
+    "displayCode": "0082M5R",
+    "displayCodes": [
+      "0082M5R"
+    ],
+    "arkKey": "M5R",
+    "arkKeys": [
+      "M5R"
+    ],
+    "numericId": 28719,
+    "numericIds": [
+      28719
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0093.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0093.png",
+    "status": "confirmed",
+    "scanCount": 12,
+    "uniqueTagCount": 9
+  }
+}

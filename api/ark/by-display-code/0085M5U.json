@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0153",
+    "legacyId": "YKW-ARK-0153",
+    "name": "Uribou/Inosasaou",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare (Shadow)",
+    "type": "Ark",
+    "catalogNumber": 153,
+    "sourceNumber": 153,
+    "displayCode": "0085M5U",
+    "displayCodes": [
+      "0085M5U"
+    ],
+    "arkKey": "M5U",
+    "arkKeys": [
+      "M5U"
+    ],
+    "numericId": 28722,
+    "numericIds": [
+      28722
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0153.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0153.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

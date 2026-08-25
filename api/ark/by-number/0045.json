@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0045",
+    "legacyId": "YKW-ARK-0045",
+    "name": "Leon/Dr. Chameleon",
+    "series": "Series 3 - Obtain them! Legendary Yo-kai!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 45,
+    "sourceNumber": 45,
+    "displayCode": "0054M4Z",
+    "displayCodes": [
+      "0054M4Z"
+    ],
+    "arkKey": "M4Z",
+    "arkKeys": [
+      "M4Z"
+    ],
+    "numericId": 28691,
+    "numericIds": [
+      28691
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0045.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0045.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

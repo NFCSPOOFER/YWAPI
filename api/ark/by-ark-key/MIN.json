@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0258",
+    "legacyId": "YKW-ARK-0258",
+    "name": "Enma Neko'ou Matatabi",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 258,
+    "sourceNumber": 258,
+    "displayCode": "0531MIN",
+    "displayCodes": [
+      "0531MIN"
+    ],
+    "arkKey": "MIN",
+    "arkKeys": [
+      "MIN"
+    ],
+    "numericId": 29183,
+    "numericIds": [
+      29183
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0258.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0258.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

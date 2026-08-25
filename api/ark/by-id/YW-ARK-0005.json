@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0005",
+    "legacyId": "YKW-ARK-0005",
+    "name": "Komasan",
+    "series": "Series 1 - Open! First Door",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 5,
+    "sourceNumber": 5,
+    "displayCode": "0002M3J",
+    "displayCodes": [
+      "0002M3J"
+    ],
+    "arkKey": "M3J",
+    "arkKeys": [
+      "M3J"
+    ],
+    "numericId": 28639,
+    "numericIds": [
+      28639
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0005.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0005.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

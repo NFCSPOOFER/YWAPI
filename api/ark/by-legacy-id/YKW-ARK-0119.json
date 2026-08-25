@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0119",
+    "legacyId": "YKW-ARK-0119",
+    "name": "Siro",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 119,
+    "sourceNumber": 119,
+    "displayCode": "0176M8D",
+    "displayCodes": [
+      "0176M8D"
+    ],
+    "arkKey": "M8D",
+    "arkKeys": [
+      "M8D"
+    ],
+    "numericId": 28813,
+    "numericIds": [
+      28813
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0119.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0119.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

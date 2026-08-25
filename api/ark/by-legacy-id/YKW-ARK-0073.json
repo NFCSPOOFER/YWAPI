@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0073",
+    "legacyId": "YKW-ARK-0073",
+    "name": "Shield of Brightness/Darkness",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 73,
+    "sourceNumber": 73,
+    "displayCode": "0147M7K",
+    "displayCodes": [
+      "0147M7K"
+    ],
+    "arkKey": "M7K",
+    "arkKeys": [
+      "M7K"
+    ],
+    "numericId": 28784,
+    "numericIds": [
+      28784
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0073.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0073.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0292",
+    "legacyId": "YKW-ARK-0292",
+    "name": "Ogama",
+    "series": "Yo-kai Keystone SP - Shadowside Ultimate Selection",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 292,
+    "sourceNumber": 292,
+    "displayCode": "0060M55",
+    "displayCodes": [
+      "0060M55"
+    ],
+    "arkKey": "M55",
+    "arkKeys": [
+      "M55"
+    ],
+    "numericId": 28697,
+    "numericIds": [
+      28697
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0292.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0292.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

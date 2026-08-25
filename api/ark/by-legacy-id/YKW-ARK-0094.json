@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0094",
+    "legacyId": "YKW-ARK-0094",
+    "name": "Hovernyan",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Daikichi (Lucky)",
+    "type": "Ark",
+    "catalogNumber": 94,
+    "sourceNumber": 94,
+    "displayCode": "0115M6O",
+    "displayCodes": [
+      "0115M6O"
+    ],
+    "arkKey": "M6O",
+    "arkKeys": [
+      "M6O"
+    ],
+    "numericId": 28752,
+    "numericIds": [
+      28752
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0094.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0094.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

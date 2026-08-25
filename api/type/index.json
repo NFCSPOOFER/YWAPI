@@ -1,0 +1,28 @@
+{
+  "type": [
+    {
+      "key": "ark",
+      "name": "Ark"
+    },
+    {
+      "key": "dream-medal",
+      "name": "Dream Medal"
+    },
+    {
+      "key": "treasure-medal",
+      "name": "Treasure Medal / T Medal"
+    },
+    {
+      "key": "yo-seiken",
+      "name": "Yo-seiken"
+    },
+    {
+      "key": "y-medal",
+      "name": "Yo-kai Y Medal"
+    },
+    {
+      "key": "genju-disk",
+      "name": "Genju Disk"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0125",
+    "legacyId": "YKW-ARK-0125",
+    "name": "Casanono",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 125,
+    "sourceNumber": 125,
+    "displayCode": "0167M84",
+    "displayCodes": [
+      "0167M84"
+    ],
+    "arkKey": "M84",
+    "arkKeys": [
+      "M84"
+    ],
+    "numericId": 28804,
+    "numericIds": [
+      28804
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0125.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0125.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

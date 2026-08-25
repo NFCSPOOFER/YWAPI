@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0089",
+    "legacyId": "YKW-ARK-0089",
+    "name": "Karasu Tengu",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 89,
+    "sourceNumber": 89,
+    "displayCode": "0079M5O",
+    "displayCodes": [
+      "0079M5O"
+    ],
+    "arkKey": "M5O",
+    "arkKeys": [
+      "M5O"
+    ],
+    "numericId": 28716,
+    "numericIds": [
+      28716
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0089.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0089.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 3
+  }
+}

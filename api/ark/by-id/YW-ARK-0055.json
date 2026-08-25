@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0055",
+    "legacyId": "YKW-ARK-0055",
+    "name": "Inugami",
+    "series": "Series 4 - Door to the Unknown",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 55,
+    "sourceNumber": 55,
+    "displayCode": "0062M57",
+    "displayCodes": [
+      "0062M57"
+    ],
+    "arkKey": "M57",
+    "arkKeys": [
+      "M57"
+    ],
+    "numericId": 28699,
+    "numericIds": [
+      28699
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0055.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0055.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

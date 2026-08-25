@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0163",
+    "legacyId": "YKW-ARK-0163",
+    "name": "Shirokuma",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 163,
+    "sourceNumber": 163,
+    "displayCode": "0215M9G",
+    "displayCodes": [
+      "0215M9G"
+    ],
+    "arkKey": "M9G",
+    "arkKeys": [
+      "M9G"
+    ],
+    "numericId": 28852,
+    "numericIds": [
+      28852
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0163.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0163.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 3
+  }
+}

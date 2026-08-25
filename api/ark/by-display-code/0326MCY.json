@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0271",
+    "legacyId": "YKW-ARK-0271",
+    "name": "Dismarelda",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 271,
+    "sourceNumber": 271,
+    "displayCode": "0326MCY",
+    "displayCodes": [
+      "0326MCY"
+    ],
+    "arkKey": "MCY",
+    "arkKeys": [
+      "MCY"
+    ],
+    "numericId": 28978,
+    "numericIds": [
+      28978
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0271.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0271.png",
+    "status": "confirmed",
+    "scanCount": 5,
+    "uniqueTagCount": 5
+  }
+}

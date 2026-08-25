@@ -1,0 +1,33 @@
+{
+  "ark": {
+    "id": "YW-ARK-0017",
+    "legacyId": "YKW-ARK-0017",
+    "name": "Suu-san",
+    "series": "Series 2 - Shine! Debut of the Shining Yo-kai Keystones!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Extreme Rare (Gold)",
+    "type": "Ark",
+    "catalogNumber": 17,
+    "sourceNumber": 17,
+    "displayCode": "0072M5H",
+    "displayCodes": [
+      "0072M5H",
+      "0140M7D"
+    ],
+    "arkKey": "M5H",
+    "arkKeys": [
+      "M5H",
+      "M7D"
+    ],
+    "numericId": 28709,
+    "numericIds": [
+      28709,
+      28777
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0017.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0017.png",
+    "status": "conflict",
+    "scanCount": 5,
+    "uniqueTagCount": 4
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ark": {
+    "id": "YW-ARK-0333",
+    "legacyId": "YKW-ARK-0333",
+    "name": "DX Stormweaver, large toy replica of the Stormweaver",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Ark",
+    "catalogNumber": 333,
+    "sourceNumber": 1,
+    "displayCode": null,
+    "displayCodes": [],
+    "arkKey": null,
+    "arkKeys": [],
+    "numericId": null,
+    "numericIds": [],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0333.png",
+    "imageBack": null,
+    "status": "missing",
+    "scanCount": 0,
+    "uniqueTagCount": 0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0218",
+    "legacyId": "YKW-ARK-0218",
+    "name": "Ogralus",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 218,
+    "sourceNumber": 218,
+    "displayCode": "0341MDD",
+    "displayCodes": [
+      "0341MDD"
+    ],
+    "arkKey": "MDD",
+    "arkKeys": [
+      "MDD"
+    ],
+    "numericId": 28993,
+    "numericIds": [
+      28993
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0218.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0218.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

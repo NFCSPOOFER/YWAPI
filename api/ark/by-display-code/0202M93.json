@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0142",
+    "legacyId": "YKW-ARK-0142",
+    "name": "Whisper",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 142,
+    "sourceNumber": 142,
+    "displayCode": "0202M93",
+    "displayCodes": [
+      "0202M93"
+    ],
+    "arkKey": "M93",
+    "arkKeys": [
+      "M93"
+    ],
+    "numericId": 28839,
+    "numericIds": [
+      28839
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0142.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0142.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0109",
+    "legacyId": "YKW-ARK-0109",
+    "name": "Whisper Kongming",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare",
+    "type": "Ark",
+    "catalogNumber": 109,
+    "sourceNumber": 109,
+    "displayCode": "0179M8G",
+    "displayCodes": [
+      "0179M8G"
+    ],
+    "arkKey": "M8G",
+    "arkKeys": [
+      "M8G"
+    ],
+    "numericId": 28816,
+    "numericIds": [
+      28816
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0109.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0109.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0252",
+    "legacyId": "YKW-ARK-0252",
+    "name": "BBQvil",
+    "series": "Yo-kai Keystone K 06 - Save me! Endangered Yo-kai",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 252,
+    "sourceNumber": 252,
+    "displayCode": "0517MI9",
+    "displayCodes": [
+      "0517MI9"
+    ],
+    "arkKey": "MI9",
+    "arkKeys": [
+      "MI9"
+    ],
+    "numericId": 29169,
+    "numericIds": [
+      29169
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0252.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0252.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

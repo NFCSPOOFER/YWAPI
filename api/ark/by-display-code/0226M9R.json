@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0159",
+    "legacyId": "YKW-ARK-0159",
+    "name": "Roughraff & Jibanyan/Baddinyan",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Extreme Rare/Daikichi (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 159,
+    "sourceNumber": 159,
+    "displayCode": "0226M9R",
+    "displayCodes": [
+      "0226M9R"
+    ],
+    "arkKey": "M9R",
+    "arkKeys": [
+      "M9R"
+    ],
+    "numericId": 28863,
+    "numericIds": [
+      28863
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0159.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0159.png",
+    "status": "confirmed",
+    "scanCount": 2,
+    "uniqueTagCount": 2
+  }
+}

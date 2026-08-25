@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0209",
+    "legacyId": "YKW-ARK-0209",
+    "name": "Black Dianyan/Ruby Shurakoma",
+    "series": "Yo-kai Keystone K 05 - Challenge! The Conclusion of the Seven Valuable Jewel Generals!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Super Extreme Rare (Miracle)",
+    "type": "Ark",
+    "catalogNumber": 209,
+    "sourceNumber": 209,
+    "displayCode": "0282MBB",
+    "displayCodes": [
+      "0282MBB"
+    ],
+    "arkKey": "MBB",
+    "arkKeys": [
+      "MBB"
+    ],
+    "numericId": 28919,
+    "numericIds": [
+      28919
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0209.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0209.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

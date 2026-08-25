@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0149",
+    "legacyId": "YKW-ARK-0149",
+    "name": "Snottle",
+    "series": "Yo-kai Keystone K 02 - Goku Yo-kai War!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 149,
+    "sourceNumber": 149,
+    "displayCode": "0195M8W",
+    "displayCodes": [
+      "0195M8W"
+    ],
+    "arkKey": "M8W",
+    "arkKeys": [
+      "M8W"
+    ],
+    "numericId": 28832,
+    "numericIds": [
+      28832
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0149.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0149.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}

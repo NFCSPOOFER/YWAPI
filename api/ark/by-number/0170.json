@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0170",
+    "legacyId": "YKW-ARK-0170",
+    "name": "Kantaro/Jihanki",
+    "series": "Yo-kai Keystone K 03 - Shadowside Yo-kai Again!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 170,
+    "sourceNumber": 170,
+    "displayCode": "0136M79",
+    "displayCodes": [
+      "0136M79"
+    ],
+    "arkKey": "M79",
+    "arkKeys": [
+      "M79"
+    ],
+    "numericId": 28773,
+    "numericIds": [
+      28773
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0170.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0170.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

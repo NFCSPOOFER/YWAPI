@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0267",
+    "legacyId": "YKW-ARK-0267",
+    "name": "Faux Kappa",
+    "series": "Yo-kai Keystone K 07 - Advent! The Great King of the Yo-kai World",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Rare",
+    "type": "Ark",
+    "catalogNumber": 267,
+    "sourceNumber": 267,
+    "displayCode": "0450MGE",
+    "displayCodes": [
+      "0450MGE"
+    ],
+    "arkKey": "MGE",
+    "arkKeys": [
+      "MGE"
+    ],
+    "numericId": 29102,
+    "numericIds": [
+      29102
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0267.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0267.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 4
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0070",
+    "legacyId": "YKW-ARK-0070",
+    "name": "Melonyan The Fruitnyans",
+    "series": "Series 5 - Strongest Yo-kai Appear!!",
+    "seriesGroup": "Shadowside Yo-kai Keystone Series",
+    "rarity": "Daikichi (Crystal)",
+    "type": "Ark",
+    "catalogNumber": 70,
+    "sourceNumber": 70,
+    "displayCode": "0150M7N",
+    "displayCodes": [
+      "0150M7N"
+    ],
+    "arkKey": "M7N",
+    "arkKeys": [
+      "M7N"
+    ],
+    "numericId": 28787,
+    "numericIds": [
+      28787
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0070.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0070.png",
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1
+  }
+}

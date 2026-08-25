@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0081",
+    "legacyId": "YKW-ARK-0081",
+    "name": "Kappa/Kappaou Sagojou",
+    "series": "Zero Series 1 - The Other Side of the Silver Screen",
+    "seriesGroup": "Zero Series",
+    "rarity": "Ultimate Rare",
+    "type": "Ark",
+    "catalogNumber": 81,
+    "sourceNumber": 81,
+    "displayCode": "0067M5C",
+    "displayCodes": [
+      "0067M5C"
+    ],
+    "arkKey": "M5C",
+    "arkKeys": [
+      "M5C"
+    ],
+    "numericId": 28704,
+    "numericIds": [
+      28704
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0081.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0081.png",
+    "status": "confirmed",
+    "scanCount": 4,
+    "uniqueTagCount": 3
+  }
+}

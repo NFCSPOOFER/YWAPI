@@ -1,0 +1,24 @@
+{
+  "status": [
+    {
+      "key": "confirmed",
+      "name": "Confirmed",
+      "count": 248
+    },
+    {
+      "key": "conflict",
+      "name": "Conflict",
+      "count": 3
+    },
+    {
+      "key": "missing",
+      "name": "Missing",
+      "count": 33
+    },
+    {
+      "key": "single_scan",
+      "name": "Single Scan",
+      "count": 57
+    }
+  ]
+}

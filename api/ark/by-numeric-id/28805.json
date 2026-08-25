@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0126",
+    "legacyId": "YKW-ARK-0126",
+    "name": "Stircrazy Stu",
+    "series": "Yo-kai Keystone K 01 - A Wobble Miracle!",
+    "seriesGroup": "Yo-kai Keystone K Series",
+    "rarity": "Normal",
+    "type": "Ark",
+    "catalogNumber": 126,
+    "sourceNumber": 126,
+    "displayCode": "0168M85",
+    "displayCodes": [
+      "0168M85"
+    ],
+    "arkKey": "M85",
+    "arkKeys": [
+      "M85"
+    ],
+    "numericId": 28805,
+    "numericIds": [
+      28805
+    ],
+    "image": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/front/YW-ARK-0126.png",
+    "imageBack": "https://raw.githubusercontent.com/ibrahimalzaabi/YWAPI/main/images/ark/back/YW-ARK-0126.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 3
+  }
+}
