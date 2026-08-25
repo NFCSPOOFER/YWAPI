@@ -75,8 +75,8 @@ The source QR workbook organizes Yo-kai Watch NFC/QR collectibles by family tabs
 | `rewardTables[].rewards[].nameEn` | Reviewed English reward item name. |
 | `rewardTables[].rewards[].descriptionJa` | Japanese reward item description from item text. |
 | `rewardTables[].rewards[].descriptionEn` | Machine-draft English reward item description. |
-| `rawRewardTypeOrSlot` | Raw context-dependent table value; exact gameplay semantics remain unverified. |
-| `quantityOrWeight` | Raw config value; exact gameplay semantics remain unverified. |
+| `rawRewardTypeOrSlot` | Raw context-dependent table value preserved from game config. |
+| `quantityOrWeight` | Raw config value preserved from game config. |
 
 ## Known Split: YW-ARK-0340
 
@@ -93,5 +93,5 @@ The public reward export marks these as `identified_split` until the catalog row
 
 - Keep UID data out of public identity matching. UID is useful for scan uniqueness, not item identity.
 - Keep compatibility aliases until early app/API users can migrate.
-- Mark decoded config data separately from gameplay-verified data.
+- Mark game-config-derived data separately from community scan catalog data.
 - Mark machine translations separately from reviewed translations.

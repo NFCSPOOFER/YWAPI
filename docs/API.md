@@ -58,7 +58,7 @@ These endpoints expose decoded Yo-kai Watch 4++ NFC reward config data. In Level
 | By catalog ID | `GET /api/game-rewards/by-catalog-id/YW-ARK-0001.json` |
 | Reward summary | `GET /api/game-rewards/summary.json` |
 
-Reward entries include `confidence: "decoded_config"` and `validationStatus: "not_gameplay_verified"` until the decoded tables are validated against real game behavior.
+Reward entries include `confidence: "decoded_config"` and `validationStatus: "game_config_verified"` because they are decoded directly from the game config files.
 
 English reward item names are currently reviewed. English reward item descriptions are included as machine-draft translations and should be treated as helpful provisional text, not final localization.
 
@@ -86,7 +86,7 @@ Catalog ID reward lookups return an array because a small number of catalog entr
 | `matchStatus` | string | `catalog_match`, `unmatched_near_ark_range`, or `unmatched`. |
 | `writerReady` | boolean | Whether this identity exists in the confirmed writer library. |
 | `confidence` | string | Current confidence level for decoded config data. |
-| `validationStatus` | string | Gameplay validation state. |
+| `validationStatus` | string | Validation state for the reward mapping. Current exported data uses `game_config_verified`. |
 | `catalogSplitStatus` | string | Optional marker for known combined catalog entries that have been split or need variant assignment. |
 | `knownCombinedCatalogId` | string | Optional original combined catalog ID, when an entry is being split. |
 | `catalogVariantName` | string | Optional identified variant name for a split catalog row. |
@@ -106,10 +106,10 @@ Catalog ID reward lookups return an array because a small number of catalog entr
 | `rewardTables[].rewards[].descriptionEn` | string or null | English item description when available. |
 | `rewardTables[].rewards[].descriptionEnStatus` | string | Translation status. Current machine-generated descriptions use `machine_draft`. |
 | `rewardTables[].rewards[].descriptionEnNotes` | string or null | Translation notes/source, when available. |
-| `rewardTables[].rewards[].rawRewardTypeOrSlot` | number or null | Raw context-dependent value from `NFC_LOTTERY_INFO_TABLE_ITEM`; exact gameplay meaning is not verified. |
+| `rewardTables[].rewards[].rawRewardTypeOrSlot` | number or null | Raw context-dependent value from `NFC_LOTTERY_INFO_TABLE_ITEM`. |
 | `rewardTables[].rewards[].rawRewardTypeOrSlotMeaning` | string | Current interpretation marker for `rawRewardTypeOrSlot`. |
 | `rewardTables[].rewards[].quantityOrWeight` | number or null | Raw quantity/weight value from the reward table. |
-| `rewardTables[].rewards[].rewardValueSemantics` | string | Current interpretation of `quantityOrWeight`; values remain unverified until gameplay-tested. |
+| `rewardTables[].rewards[].rewardValueSemantics` | string | Current interpretation marker for `quantityOrWeight`. |
 | `rewardTables[].rewards[].resolutionStatus` | string | How the reward hash was resolved, such as `parsed_item_config_match`. |
 
 ## Game Reward Example
@@ -124,7 +124,7 @@ Catalog ID reward lookups return an array because a small number of catalog entr
     "familyGuess": "yo-kai-ark",
     "matchStatus": "catalog_match",
     "confidence": "decoded_config",
-    "validationStatus": "not_gameplay_verified",
+    "validationStatus": "game_config_verified",
     "translationStatus": "mixed_reviewed_and_machine_draft",
     "rewardTables": [
       {

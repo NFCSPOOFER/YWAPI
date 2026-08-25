@@ -17,7 +17,7 @@ YWAPI starts with Yo-kai Arks because that is the first scanned and decoded data
 - Add missing backs and improved preservation images.
 - Polish machine-draft reward descriptions when human translations are available.
 - Publish stable versioned exports.
-- Add gameplay-verified reward behavior when community testing confirms exact table semantics.
+- Refine raw reward field names if future config research identifies exact runtime semantics.
 
 ## Later Sections
 

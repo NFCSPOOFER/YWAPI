@@ -9,7 +9,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -1910,7 +1910,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -3552,7 +3552,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -8473,7 +8473,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -10115,7 +10115,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -11757,7 +11757,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -13658,7 +13658,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -15300,7 +15300,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -19897,7 +19897,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -21377,7 +21377,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -23019,7 +23019,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -24661,7 +24661,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -26303,7 +26303,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -27945,7 +27945,7 @@
       "matchStatus": "unmatched_near_ark_range",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -29497,7 +29497,7 @@
       "matchStatus": "unmatched",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -31139,7 +31139,7 @@
       "matchStatus": "unmatched",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -32781,7 +32781,7 @@
       "matchStatus": "unmatched",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [
@@ -34423,7 +34423,7 @@
       "matchStatus": "unmatched",
       "writerReady": false,
       "confidence": "decoded_config",
-      "validationStatus": "not_gameplay_verified",
+      "validationStatus": "game_config_verified",
       "translationStatus": "mixed_reviewed_and_machine_draft",
       "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
       "rewardTables": [

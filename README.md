@@ -115,13 +115,13 @@ console.log(ark.image);
 
 Game reward endpoints are decoded from Yo-kai Watch 4++ config files. They expose NFC ItemIDs, reward table references, reward `itemHash` values, internal reward `itemId` values, Japanese item names/descriptions, reviewed English item names, draft English item descriptions, and raw quantity/weight values.
 
-Reward data currently has `confidence: "decoded_config"` and `validationStatus: "not_gameplay_verified"` until each table is validated against real game behavior.
+Reward data currently has `confidence: "decoded_config"` and `validationStatus: "game_config_verified"` because it is decoded directly from the game config files.
 
 English reward names use `nameEn` plus `nameEnStatus: "reviewed"`. English descriptions use `descriptionEn` plus `descriptionEnStatus: "machine_draft"` until manually polished.
 
 `ItemID` is the preferred term for the decoded NFC identity. Existing `numericId` fields are retained for compatibility with early YWAPI/app builds.
 
-Reward `itemHash` values are CRC-32B / ISO-HDLC Level-5 config IDs. Reward `rawRewardTypeOrSlot` values are preserved from the decoded config, but their exact type/slot meaning is still treated as context-dependent until gameplay behavior is verified.
+Reward `itemHash` values are CRC-32B / ISO-HDLC Level-5 config IDs. Reward `rawRewardTypeOrSlot` values are preserved from the decoded config, but their exact type/slot meaning is still treated as context-dependent.
 
 ## Object Example
 

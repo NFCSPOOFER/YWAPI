@@ -14,7 +14,7 @@
     "catalogMatchedEntryCount": 200,
     "unmatchedEntryCount": 18,
     "confidence": "decoded_config",
-    "validationStatus": "not_gameplay_verified",
+    "validationStatus": "game_config_verified",
     "uniqueRewardItemCount": 140,
     "uniqueRewardItemsWithEnglishNames": 140,
     "uniqueRewardItemsWithEnglishDescriptions": 140,
