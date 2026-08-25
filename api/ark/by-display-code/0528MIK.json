@@ -21,8 +21,8 @@
     "numericIds": [
       29180
     ],
-    "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0238.png",
-    "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0238.png",
+    "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0238.png",
+    "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0238.png",
     "status": "confirmed",
     "scanCount": 4,
     "uniqueTagCount": 4

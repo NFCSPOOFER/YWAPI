@@ -20,7 +20,7 @@ It is built in the spirit of AmiiboAPI: simple static JSON, stable image URLs, n
 ## Base URL
 
 ```text
-https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main
+https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main
 ```
 
 ## Quick Start
@@ -34,7 +34,7 @@ GET /api/ark/index.json
 Direct URL:
 
 ```text
-https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/api/ark/index.json
+https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/api/ark/index.json
 ```
 
 Lookup by decoded NFC identity:
@@ -66,7 +66,7 @@ UIDs are not public item identities. Duplicate physical tags for the same Ark ha
 ## JavaScript Example
 
 ```js
-const baseUrl = "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main";
+const baseUrl = "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main";
 const displayCode = "0103MBW";
 
 const response = await fetch(`${baseUrl}/api/ark/by-display-code/${displayCode}.json`);
@@ -126,8 +126,8 @@ console.log(ark.image);
   "arkKeys": ["MBW"],
   "numericId": 28940,
   "numericIds": [28940],
-  "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
-  "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
+  "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0338.png",
+  "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0338.png",
   "status": "confirmed",
   "scanCount": 2,
   "uniqueTagCount": 2

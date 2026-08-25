@@ -22,8 +22,8 @@
       "numericIds": [
         28869
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0208.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0208.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0208.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0208.png",
       "status": "single_scan",
       "scanCount": 1,
       "uniqueTagCount": 1
@@ -50,8 +50,8 @@
       "numericIds": [
         28919
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0209.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0209.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0209.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0209.png",
       "status": "single_scan",
       "scanCount": 1,
       "uniqueTagCount": 1
@@ -72,8 +72,8 @@
       "arkKeys": [],
       "numericId": null,
       "numericIds": [],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0210.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0210.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0210.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0210.png",
       "status": "missing",
       "scanCount": 0,
       "uniqueTagCount": 0
@@ -94,8 +94,8 @@
       "arkKeys": [],
       "numericId": null,
       "numericIds": [],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0211.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0211.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0211.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0211.png",
       "status": "missing",
       "scanCount": 0,
       "uniqueTagCount": 0
@@ -122,8 +122,8 @@
       "numericIds": [
         29137
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0212.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0212.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0212.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0212.png",
       "status": "confirmed",
       "scanCount": 5,
       "uniqueTagCount": 5
@@ -150,8 +150,8 @@
       "numericIds": [
         28924
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0213.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0213.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0213.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0213.png",
       "status": "confirmed",
       "scanCount": 5,
       "uniqueTagCount": 5
@@ -178,8 +178,8 @@
       "numericIds": [
         28859
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0214.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0214.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0214.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0214.png",
       "status": "confirmed",
       "scanCount": 5,
       "uniqueTagCount": 5
@@ -206,8 +206,8 @@
       "numericIds": [
         28868
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0215.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0215.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0215.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0215.png",
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
@@ -234,8 +234,8 @@
       "numericIds": [
         28988
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0216.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0216.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0216.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0216.png",
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
@@ -262,8 +262,8 @@
       "numericIds": [
         28992
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0217.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0217.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0217.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0217.png",
       "status": "confirmed",
       "scanCount": 4,
       "uniqueTagCount": 4
@@ -290,8 +290,8 @@
       "numericIds": [
         28993
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0218.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0218.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0218.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0218.png",
       "status": "confirmed",
       "scanCount": 4,
       "uniqueTagCount": 4
@@ -318,8 +318,8 @@
       "numericIds": [
         29075
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0219.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0219.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0219.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0219.png",
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
@@ -346,8 +346,8 @@
       "numericIds": [
         29076
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0220.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0220.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0220.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0220.png",
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
@@ -374,8 +374,8 @@
       "numericIds": [
         29156
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0221.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0221.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0221.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0221.png",
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
@@ -402,8 +402,8 @@
       "numericIds": [
         29157
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0222.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0222.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0222.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0222.png",
       "status": "confirmed",
       "scanCount": 4,
       "uniqueTagCount": 4
@@ -430,8 +430,8 @@
       "numericIds": [
         29158
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0223.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0223.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0223.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0223.png",
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
@@ -458,8 +458,8 @@
       "numericIds": [
         28864
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0224.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0224.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0224.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0224.png",
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
@@ -486,8 +486,8 @@
       "numericIds": [
         28866
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0225.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0225.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0225.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0225.png",
       "status": "confirmed",
       "scanCount": 4,
       "uniqueTagCount": 4
@@ -514,8 +514,8 @@
       "numericIds": [
         28979
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0226.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0226.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0226.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0226.png",
       "status": "confirmed",
       "scanCount": 5,
       "uniqueTagCount": 5
@@ -542,8 +542,8 @@
       "numericIds": [
         28984
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0227.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0227.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0227.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0227.png",
       "status": "confirmed",
       "scanCount": 5,
       "uniqueTagCount": 5
@@ -570,8 +570,8 @@
       "numericIds": [
         28985
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0228.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0228.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0228.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0228.png",
       "status": "confirmed",
       "scanCount": 4,
       "uniqueTagCount": 4
@@ -598,8 +598,8 @@
       "numericIds": [
         28996
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0229.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0229.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0229.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0229.png",
       "status": "confirmed",
       "scanCount": 4,
       "uniqueTagCount": 4
@@ -626,8 +626,8 @@
       "numericIds": [
         29159
       ],
-      "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0230.png",
-      "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0230.png",
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0230.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0230.png",
       "status": "confirmed",
       "scanCount": 5,
       "uniqueTagCount": 5

@@ -7,7 +7,7 @@ No authentication is required. All endpoints are regular files hosted from the G
 ## Base URL
 
 ```text
-https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main
+https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main
 ```
 
 ## Response Style
@@ -110,8 +110,8 @@ Do not use UID as the public item identity. UID identifies the physical tag, not
     "arkKeys": ["MBW"],
     "numericId": 28940,
     "numericIds": [28940],
-    "image": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/front/YW-ARK-0338.png",
-    "imageBack": "https://raw.githubusercontent.com/ibrahimnalzaabi/YWAPI/main/images/ark/back/YW-ARK-0338.png",
+    "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0338.png",
+    "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0338.png",
     "status": "confirmed",
     "scanCount": 2,
     "uniqueTagCount": 2
