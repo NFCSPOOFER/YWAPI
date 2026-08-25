@@ -40,9 +40,29 @@ Single-item endpoints return one object:
 | By catalog number | `GET /api/ark/by-number/0338.json` |
 | By display code | `GET /api/ark/by-display-code/0103MBW.json` |
 | By Ark key | `GET /api/ark/by-ark-key/MBW.json` |
-| By numeric ID | `GET /api/ark/by-numeric-id/28940.json` |
+| By ItemID / numeric ID | `GET /api/ark/by-numeric-id/28940.json` |
 | By series | `GET /api/ark/by-series/sacred-armory.json` |
 | By status | `GET /api/ark/by-status/confirmed.json` |
+
+## Game Reward Endpoints
+
+These endpoints expose decoded Yo-kai Watch 4++ NFC reward config data. In Level-5 terminology, the decoded numeric NFC identity is treated as an `ItemID`; older YWAPI fields using `numericId` are retained as compatibility aliases.
+
+| Purpose | Request |
+| --- | --- |
+| All decoded reward entries | `GET /api/game-rewards/index.json` |
+| All decoded reward entries alias | `GET /api/game-rewards/all.json` |
+| Catalog-matched reward entries | `GET /api/game-rewards/matched.json` |
+| Unmatched reward entries | `GET /api/game-rewards/unmatched.json` |
+| By NFC ItemID / numeric ID | `GET /api/game-rewards/by-numeric-id/28707.json` |
+| By catalog ID | `GET /api/game-rewards/by-catalog-id/YW-ARK-0001.json` |
+| Reward summary | `GET /api/game-rewards/summary.json` |
+
+Reward entries include `confidence: "decoded_config"` and `validationStatus: "not_gameplay_verified"` until the decoded tables are validated against real game behavior.
+
+English reward item names are currently reviewed. English reward item descriptions are included as machine-draft translations and should be treated as helpful provisional text, not final localization.
+
+Catalog ID reward lookups return an array because a small number of catalog entries currently have multiple decoded reward mappings while conflicts/special items are being resolved.
 
 ## Index Endpoints
 
@@ -53,6 +73,79 @@ Single-item endpoints return one object:
 | Known Ark series | `GET /api/series/index.json` |
 | Status values and counts | `GET /api/status/index.json` |
 | Last generated timestamp | `GET /api/lastupdated/index.json` |
+
+## Game Reward Field Reference
+
+| Name | Type | Description |
+| --- | --- | --- |
+| `nfcItemId` | number | Preferred field name for the decoded NFC ItemID used by the game config. |
+| `nfcNumericId` | number | Compatibility alias for `nfcItemId`. |
+| `catalogIds` | string[] | Matching YWAPI catalog IDs, when known. |
+| `catalogNames` | string[] | Matching YWAPI catalog names, when known. |
+| `familyGuess` | string | Research classification such as `yo-kai-ark`. |
+| `matchStatus` | string | `catalog_match`, `unmatched_near_ark_range`, or `unmatched`. |
+| `writerReady` | boolean | Whether this identity exists in the confirmed writer library. |
+| `confidence` | string | Current confidence level for decoded config data. |
+| `validationStatus` | string | Gameplay validation state. |
+| `catalogSplitStatus` | string | Optional marker for known combined catalog entries that have been split or need variant assignment. |
+| `knownCombinedCatalogId` | string | Optional original combined catalog ID, when an entry is being split. |
+| `catalogVariantName` | string | Optional identified variant name for a split catalog row. |
+| `catalogVariantDisplayCode` | string | Optional display code for the identified split variant. |
+| `catalogVariantArkKey` | string | Optional Ark key for the identified split variant. |
+| `catalogVariantVisual` | string | Optional short visual description for the identified split variant. |
+| `catalogSplitEvidence` | string | Optional evidence note for the split mapping. |
+| `rewardTables` | array | Reward table slots referenced by this NFC identity. |
+| `rewardTables[].rewards[].itemKey` | string or null | Internal item key guess, such as `iky010020`. |
+| `rewardTables[].rewards[].itemHash` | string or null | CRC-32B/ISO-HDLC ID value from the game config. |
+| `rewardTables[].rewards[].nameJa` | string or null | Japanese item name decoded from game text. |
+| `rewardTables[].rewards[].nameEn` | string or null | English item name when available. |
+| `rewardTables[].rewards[].nameEnStatus` | string | Translation status. Current reviewed names use `reviewed`. |
+| `rewardTables[].rewards[].descriptionJa` | string or null | Japanese item description decoded from game text. |
+| `rewardTables[].rewards[].descriptionEn` | string or null | English item description when available. |
+| `rewardTables[].rewards[].descriptionEnStatus` | string | Translation status. Current machine-generated descriptions use `machine_draft`. |
+| `rewardTables[].rewards[].descriptionEnNotes` | string or null | Translation notes/source, when available. |
+| `rewardTables[].rewards[].quantityOrWeight` | number or null | Raw quantity/weight value from the reward table. |
+| `rewardTables[].rewards[].rewardValueSemantics` | string | Current interpretation of `quantityOrWeight`; values remain unverified until gameplay-tested. |
+| `rewardTables[].rewards[].resolutionStatus` | string | How the reward hash was resolved, such as `parsed_item_config_match`. |
+
+## Game Reward Example
+
+```json
+{
+  "gameReward": {
+    "nfcItemId": 28638,
+    "nfcNumericId": 28638,
+    "catalogIds": ["YW-ARK-0315"],
+    "catalogNames": ["Jibanyan (SS)"],
+    "familyGuess": "yo-kai-ark",
+    "matchStatus": "catalog_match",
+    "confidence": "decoded_config",
+    "validationStatus": "not_gameplay_verified",
+    "translationStatus": "mixed_reviewed_and_machine_draft",
+    "rewardTables": [
+      {
+        "slot": 0,
+        "tableHash": "72165E6E",
+        "resolvedRewardCount": 103,
+        "rewards": [
+          {
+            "itemHash": "D34B5E2F",
+            "itemKey": "iky010010",
+            "nameJa": "うめおにぎり",
+            "nameEn": "Plum Rice Ball",
+            "nameEnStatus": "reviewed",
+            "descriptionJa": "すっぱい梅干しが入っている　おにぎり。\nおにぎりといえばコレ！　という人も多い。",
+            "descriptionEn": "Rice balls with sour plums. Many people say that this is the best rice ball.",
+            "descriptionEnStatus": "machine_draft",
+            "quantityOrWeight": 18,
+            "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed"
+          }
+        ]
+      }
+    ]
+  }
+}
+```
 
 ## Field Reference
 
@@ -71,8 +164,8 @@ Single-item endpoints return one object:
 | `displayCodes` | string[] | All known decoded display codes for this entry. |
 | `arkKey` | string or null | Primary decoded Ark key for app matching. |
 | `arkKeys` | string[] | All known decoded Ark keys for this entry. |
-| `numericId` | number or null | Primary decoded numeric ID. |
-| `numericIds` | number[] | All known decoded numeric IDs for this entry. |
+| `numericId` | number or null | Compatibility field for the primary decoded NFC ItemID. |
+| `numericIds` | number[] | Compatibility field for all known decoded NFC ItemIDs. |
 | `image` | string or null | Front PNG URL. |
 | `imageBack` | string or null | Back PNG URL. |
 | `status` | string | `confirmed`, `single_scan`, `missing`, or `conflict`. |

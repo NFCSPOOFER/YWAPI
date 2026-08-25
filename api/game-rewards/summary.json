@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-08-25T08:17:56+00:00",
+  "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
+  "confidence": "decoded_config",
+  "validationStatus": "not_gameplay_verified",
+  "nfcRewardEntryCount": 218,
+  "catalogMatchedEntryCount": 200,
+  "unmatchedEntryCount": 18,
+  "byNumericIdCount": 218,
+  "byCatalogIdFileCount": 199,
+  "uniqueRewardItemCount": 140,
+  "uniqueRewardItemsWithEnglishNames": 140,
+  "uniqueRewardItemsWithEnglishDescriptions": 140,
+  "englishNameStatus": "reviewed",
+  "englishDescriptionStatus": "machine_draft",
+  "catalogIdsWithMultipleRewardEntries": [
+    "YW-ARK-0017",
+    "YW-ARK-0326",
+    "YW-ARK-0340"
+  ]
+}

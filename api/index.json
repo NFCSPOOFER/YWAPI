@@ -8,5 +8,17 @@
     "single_scan": 57,
     "conflict": 3,
     "missing": 33
+  },
+  "gameRewards": {
+    "entryCount": 218,
+    "catalogMatchedEntryCount": 200,
+    "unmatchedEntryCount": 18,
+    "confidence": "decoded_config",
+    "validationStatus": "not_gameplay_verified",
+    "uniqueRewardItemCount": 140,
+    "uniqueRewardItemsWithEnglishNames": 140,
+    "uniqueRewardItemsWithEnglishDescriptions": 140,
+    "englishNameStatus": "reviewed",
+    "englishDescriptionStatus": "machine_draft"
   }
 }

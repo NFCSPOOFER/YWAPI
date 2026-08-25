@@ -37,7 +37,7 @@ Direct URL:
 https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/api/ark/index.json
 ```
 
-Lookup by decoded NFC identity:
+Lookup by decoded NFC identity / ItemID:
 
 ```text
 GET /api/ark/by-display-code/0103MBW.json
@@ -83,7 +83,7 @@ console.log(ark.image);
 | Yo-kai Arks | Available | 341 |
 | Dream Medals | Planned | 0 |
 | Treasure Medals / T Medals | Planned | 0 |
-| Yo-seiken | Planned | 0 |
+| Yo-seiken / Sacred Armory | Planned | 0 |
 | Yo-kai Y Medals | Planned | 0 |
 | Genju Disks | Planned | 0 |
 
@@ -102,10 +102,24 @@ console.log(ark.image);
 | By numeric ID | `/api/ark/by-numeric-id/28940.json` |
 | By series | `/api/ark/by-series/sacred-armory.json` |
 | By status | `/api/ark/by-status/confirmed.json` |
+| Game reward data | `/api/game-rewards/index.json` |
+| Game reward by numeric ID | `/api/game-rewards/by-numeric-id/28707.json` |
+| Game reward by catalog ID | `/api/game-rewards/by-catalog-id/YW-ARK-0001.json` |
+| Unmatched game reward entries | `/api/game-rewards/unmatched.json` |
 | Supported types | `/api/type/index.json` |
 | Known series | `/api/series/index.json` |
 | Status counts | `/api/status/index.json` |
 | Last updated | `/api/lastupdated/index.json` |
+
+## Game Rewards
+
+Game reward endpoints are decoded from Yo-kai Watch 4++ config files. They expose NFC ItemIDs, reward table references, Japanese item names/descriptions, reviewed English item names, draft English item descriptions, and raw quantity/weight values.
+
+Reward data currently has `confidence: "decoded_config"` and `validationStatus: "not_gameplay_verified"` until each table is validated against real game behavior.
+
+English reward names use `nameEn` plus `nameEnStatus: "reviewed"`. English descriptions use `descriptionEn` plus `descriptionEnStatus: "machine_draft"` until manually polished.
+
+`ItemID` is the preferred term for the decoded NFC identity. Existing `numericId` fields are retained for compatibility with early YWAPI/app builds.
 
 ## Object Example
 
@@ -146,6 +160,7 @@ console.log(ark.image);
 ## Docs
 
 - [API documentation](docs/API.md)
+- [MyTags structure notes](docs/MYTAGS_STRUCTURE.md)
 - [Contribution guide](docs/CONTRIBUTING.md)
 - [Roadmap](docs/ROADMAP.md)
 - [Terms](docs/TERMS.md)

@@ -1,0 +1,125 @@
+{
+  "gameReward": {
+    "nfcItemId": 28944,
+    "nfcNumericId": 28944,
+    "catalogIds": [
+      "YW-ARK-0340"
+    ],
+    "catalogNames": [
+      "Small toy replica of the Enma Blade and Jaou Ken"
+    ],
+    "familyGuess": "yo-kai-ark",
+    "matchStatus": "catalog_match",
+    "writerReady": false,
+    "confidence": "decoded_config",
+    "validationStatus": "not_gameplay_verified",
+    "translationStatus": "mixed_reviewed_and_machine_draft",
+    "source": "Yo-kai Watch 4++ nfc_lottery_config.cfg.bin",
+    "rewardTables": [
+      {
+        "slot": 0,
+        "tableHash": "C03DF8B1",
+        "resolvedRewardCount": 6,
+        "rewards": [
+          {
+            "itemHash": "6BAD5D2B",
+            "itemKey": "iky040040",
+            "nameJa": "大けいけんちだま",
+            "nameEn": "Large Experience Orb",
+            "nameEnStatus": "reviewed",
+            "descriptionJa": "一度ふれると　三度の人生観が\nそなわるといわれる　かがやきあふれる玉。",
+            "descriptionEn": "Once you see it, you will be able to see the world three times over. A jewel that sparkles with brilliance.",
+            "descriptionEnStatus": "machine_draft",
+            "descriptionEnNotes": "Yaps local translation draft",
+            "itemTypeOrSlot": 0,
+            "quantityOrWeight": 30,
+            "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
+            "resolutionStatus": "parsed_item_config_match"
+          },
+          {
+            "itemHash": "56CD749B",
+            "itemKey": "iky050040",
+            "nameJa": "金のこけし",
+            "nameEn": "Gold Kokeshi",
+            "nameEnStatus": "reviewed",
+            "descriptionJa": "純金でできた　輝かしいこけし。\nものすごい金額で売れる。",
+            "descriptionEn": "A shining doll made of pure gold. It can be sold for a huge amount of money.",
+            "descriptionEnStatus": "machine_draft",
+            "descriptionEnNotes": "Yaps local translation draft",
+            "itemTypeOrSlot": 0,
+            "quantityOrWeight": 30,
+            "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
+            "resolutionStatus": "parsed_item_config_match"
+          },
+          {
+            "itemHash": "198CE25C",
+            "itemKey": "iky050030",
+            "nameJa": "銀のこけし",
+            "nameEn": "Silver Kokeshi",
+            "nameEnStatus": "reviewed",
+            "descriptionJa": "銀でできた　クールなこけし。\nなかなかの金額で売れる。",
+            "descriptionEn": "Cool Kokeshi made of silver. It can be sold for a decent amount.",
+            "descriptionEnStatus": "machine_draft",
+            "descriptionEnNotes": "Yaps local translation draft",
+            "itemTypeOrSlot": 0,
+            "quantityOrWeight": 25,
+            "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
+            "resolutionStatus": "parsed_item_config_match"
+          },
+          {
+            "itemHash": "F51775DD",
+            "itemKey": "iky010020",
+            "nameJa": "にが～い漢方",
+            "nameEn": "Bitter~ Herbal Medicine",
+            "nameEnStatus": "reviewed",
+            "descriptionJa": "達人が調合した　すごくにがい漢方薬。\n気絶した妖怪や人間も　飛び上がるほど。",
+            "descriptionEn": "A very delicious herbal medicine made by a master. It makes even fainted monsters and humans jump up.",
+            "descriptionEnStatus": "machine_draft",
+            "descriptionEnNotes": "Yaps local translation draft",
+            "itemTypeOrSlot": 0,
+            "quantityOrWeight": 8,
+            "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
+            "resolutionStatus": "parsed_item_config_match"
+          },
+          {
+            "itemHash": "21102731",
+            "itemKey": "iky070015",
+            "nameJa": "ガシャコイン",
+            "nameEn": "Gacha Coin",
+            "nameEnStatus": "reviewed",
+            "descriptionJa": "妖怪ガシャ用の　普通のコイン。\nさまざまな種族の妖怪と出会う事ができる。",
+            "descriptionEn": "A regular coin for the Yōkai Gacha. You can meet various types of yokai.",
+            "descriptionEnStatus": "machine_draft",
+            "descriptionEnNotes": "Yaps local translation draft",
+            "itemTypeOrSlot": 0,
+            "quantityOrWeight": 5,
+            "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
+            "resolutionStatus": "parsed_item_config_match"
+          },
+          {
+            "itemHash": "72B66C6A",
+            "itemKey": "iky040050",
+            "nameJa": "超けいけんちだま",
+            "nameEn": "Super Experience Orb",
+            "nameEnStatus": "reviewed",
+            "descriptionJa": "この玉には　ノーベル賞をとった人たちの\nたくさんの知識が詰まっているとか。",
+            "descriptionEn": "This jade contains the knowledge of many Nobel Prize winners.",
+            "descriptionEnStatus": "machine_draft",
+            "descriptionEnNotes": "Yaps local translation draft",
+            "itemTypeOrSlot": 0,
+            "quantityOrWeight": 2,
+            "rewardValueSemantics": "raw_weight_or_quantity_unconfirmed",
+            "resolutionStatus": "parsed_item_config_match"
+          }
+        ]
+      }
+    ],
+    "catalogSplitStatus": "identified_split",
+    "knownCombinedCatalogId": "YW-ARK-0340",
+    "catalogVariantName": "Jaou Ken / Ananta Blade",
+    "catalogVariantDisplayCode": "0107MC0",
+    "catalogVariantArkKey": "MC0",
+    "catalogVariantVisual": "blue/silver sword",
+    "catalogSplitEvidence": "Unknown/Other submissions and live scan data documented in sacred_armory_split_0340 notes."
+  }
+}
