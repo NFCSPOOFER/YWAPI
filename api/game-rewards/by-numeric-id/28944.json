@@ -3,10 +3,10 @@
     "nfcItemId": 28944,
     "nfcNumericId": 28944,
     "catalogIds": [
-      "YW-ARK-0340"
+      "YW-ARK-0342"
     ],
     "catalogNames": [
-      "Small toy replica of the Enma Blade and Jaou Ken"
+      "Jaou Ken"
     ],
     "familyGuess": "yo-kai-ark",
     "matchStatus": "catalog_match",
@@ -134,7 +134,8 @@
     ],
     "catalogSplitStatus": "identified_split",
     "knownCombinedCatalogId": "YW-ARK-0340",
-    "catalogVariantName": "Jaou Ken / Ananta Blade",
+    "catalogVariantId": "YW-ARK-0342",
+    "catalogVariantName": "Jaou Ken",
     "catalogVariantDisplayCode": "0107MC0",
     "catalogVariantArkKey": "MC0",
     "catalogVariantVisual": "blue/silver sword",

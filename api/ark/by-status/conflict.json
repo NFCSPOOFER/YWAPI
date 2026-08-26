@@ -61,37 +61,6 @@
       "status": "conflict",
       "scanCount": 5,
       "uniqueTagCount": 5
-    },
-    {
-      "id": "YW-ARK-0340",
-      "legacyId": "YKW-ARK-0340",
-      "name": "Small toy replica of the Enma Blade and Jaou Ken",
-      "series": "Sacred Armory",
-      "seriesGroup": "Exclusive/Promotional Keystones",
-      "rarity": null,
-      "type": "Ark",
-      "catalogNumber": 340,
-      "sourceNumber": 8,
-      "displayCode": "0106MBZ",
-      "displayCodes": [
-        "0106MBZ",
-        "0107MC0"
-      ],
-      "arkKey": "MBZ",
-      "arkKeys": [
-        "MBZ",
-        "MC0"
-      ],
-      "numericId": 28943,
-      "numericIds": [
-        28943,
-        28944
-      ],
-      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0340.png",
-      "imageBack": null,
-      "status": "conflict",
-      "scanCount": 17,
-      "uniqueTagCount": 15
     }
   ]
 }

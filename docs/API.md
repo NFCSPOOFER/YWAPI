@@ -165,7 +165,7 @@ Catalog ID reward lookups return an array because a small number of catalog entr
 | `series` | string or null | Specific product/set series. |
 | `seriesGroup` | string or null | Larger series grouping. |
 | `rarity` | string or null | Rarity or release label, when known. |
-| `type` | string | Item type. Currently `Ark`. |
+| `type` | string | Item type. Current catalog values include `Ark` and `Yo-seiken`. |
 | `catalogNumber` | number | Catalog number. |
 | `sourceNumber` | number or null | Number from the source spreadsheet/list, when present. |
 | `displayCode` | string or null | Primary decoded display code for app matching. |
@@ -202,7 +202,7 @@ Do not use UID as the public item identity. UID identifies the physical tag, not
     "series": "Sacred Armory",
     "seriesGroup": "Exclusive/Promotional Keystones",
     "rarity": null,
-    "type": "Ark",
+    "type": "Yo-seiken",
     "catalogNumber": 338,
     "sourceNumber": 6,
     "displayCode": "0103MBW",

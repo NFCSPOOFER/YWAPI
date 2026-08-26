@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0342",
+    "legacyId": "YKW-ARK-0342",
+    "name": "Jaou Ken",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": null,
+    "type": "Yo-seiken",
+    "catalogNumber": 342,
+    "sourceNumber": 10,
+    "displayCode": "0107MC0",
+    "displayCodes": [
+      "0107MC0"
+    ],
+    "arkKey": "MC0",
+    "arkKeys": [
+      "MC0"
+    ],
+    "numericId": 28944,
+    "numericIds": [
+      28944
+    ],
+    "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0342.png",
+    "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0342.png",
+    "status": "confirmed",
+    "scanCount": 9,
+    "uniqueTagCount": 8
+  }
+}

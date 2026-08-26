@@ -6,7 +6,7 @@
       "YW-ARK-0340"
     ],
     "catalogNames": [
-      "Small toy replica of the Enma Blade and Jaou Ken"
+      "Enma Blade"
     ],
     "familyGuess": "yo-kai-ark",
     "matchStatus": "catalog_match",
@@ -134,6 +134,7 @@
     ],
     "catalogSplitStatus": "identified_split",
     "knownCombinedCatalogId": "YW-ARK-0340",
+    "catalogVariantId": "YW-ARK-0340",
     "catalogVariantName": "Enma Blade",
     "catalogVariantDisplayCode": "0106MBZ",
     "catalogVariantArkKey": "MBZ",

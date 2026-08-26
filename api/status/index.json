@@ -3,12 +3,12 @@
     {
       "key": "confirmed",
       "name": "Confirmed",
-      "count": 248
+      "count": 251
     },
     {
       "key": "conflict",
       "name": "Conflict",
-      "count": 3
+      "count": 2
     },
     {
       "key": "missing",

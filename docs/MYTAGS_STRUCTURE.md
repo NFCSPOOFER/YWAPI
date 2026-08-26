@@ -53,7 +53,7 @@ The source QR workbook organizes Yo-kai Watch NFC/QR collectibles by family tabs
 | Family | Current YWAPI status |
 | --- | --- |
 | Yo-kai Arks / Keystones | Active |
-| Yo-seiken / Sacred Armory | Included in Ark data now; may become a dedicated subtype later. |
+| Yo-seiken / Sacred Armory | Included in the catalog with `type: "Yo-seiken"`; endpoints remain under `/api/ark/` for compatibility. |
 | Dream Medals | Planned |
 | Treasure Medals / T Medals | Planned |
 | Yo-kai Y Medals | Planned |

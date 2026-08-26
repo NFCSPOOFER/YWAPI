@@ -1,0 +1,30 @@
+{
+  "ark": {
+    "id": "YW-ARK-0343",
+    "legacyId": "YKW-ARK-0343",
+    "name": "Awakened Enma / Kakusei Enma",
+    "series": "Sacred Armory",
+    "seriesGroup": "Exclusive/Promotional Keystones",
+    "rarity": "Winter Hobby Toy Fair 2020 Exclusive",
+    "type": "Yo-seiken",
+    "catalogNumber": 343,
+    "sourceNumber": null,
+    "displayCode": "0541MIX",
+    "displayCodes": [
+      "0541MIX"
+    ],
+    "arkKey": "MIX",
+    "arkKeys": [
+      "MIX"
+    ],
+    "numericId": 29193,
+    "numericIds": [
+      29193
+    ],
+    "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0343.png",
+    "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0343.png",
+    "status": "confirmed",
+    "scanCount": 3,
+    "uniqueTagCount": 2
+  }
+}

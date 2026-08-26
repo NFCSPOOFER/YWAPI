@@ -11,8 +11,8 @@ It is built in the spirit of AmiiboAPI: simple static JSON, stable image URLs, n
 </p>
 
 <p align="center">
-  <a href="api/ark/index.json"><img alt="Arks" src="https://img.shields.io/badge/Arks-341-2f80ed"></a>
-  <a href="api/status/index.json"><img alt="Confirmed" src="https://img.shields.io/badge/Confirmed-248-28a745"></a>
+  <a href="api/ark/index.json"><img alt="Catalog Items" src="https://img.shields.io/badge/Items-343-2f80ed"></a>
+  <a href="api/status/index.json"><img alt="Confirmed" src="https://img.shields.io/badge/Confirmed-251-28a745"></a>
   <a href="docs/API.md"><img alt="Static JSON" src="https://img.shields.io/badge/API-static%20JSON-111827"></a>
   <a href="docs/CONTRIBUTING.md"><img alt="Community" src="https://img.shields.io/badge/Community-preservation-f59e0b"></a>
 </p>
@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main
 
 ## Quick Start
 
-Fetch all Yo-kai Arks:
+Fetch the current Yo-kai Watch NFC catalog:
 
 ```text
 GET /api/ark/index.json
@@ -80,10 +80,10 @@ console.log(ark.image);
 
 | Section | Status | Count |
 | --- | --- | ---: |
-| Yo-kai Arks | Available | 341 |
+| Yo-kai Arks | Available | 332 |
 | Dream Medals | Planned | 0 |
 | Treasure Medals / T Medals | Planned | 0 |
-| Yo-seiken / Sacred Armory | Planned | 0 |
+| Yo-seiken / Sacred Armory | Available | 11 |
 | Yo-kai Y Medals | Planned | 0 |
 | Genju Disks | Planned | 0 |
 
@@ -92,8 +92,8 @@ console.log(ark.image);
 | Purpose | Endpoint |
 | --- | --- |
 | API summary | `/api/index.json` |
-| All Arks | `/api/ark/index.json` |
-| Ark CSV export | `/api/ark/ark.csv` |
+| All catalog items | `/api/ark/index.json` |
+| Catalog CSV export | `/api/ark/ark.csv` |
 | By YWAPI ID | `/api/ark/by-id/YW-ARK-0338.json` |
 | By legacy project ID | `/api/ark/by-legacy-id/YKW-ARK-0338.json` |
 | By catalog number | `/api/ark/by-number/0338.json` |
@@ -133,7 +133,7 @@ Reward `itemHash` values are CRC-32B / ISO-HDLC Level-5 config IDs. Reward `rawR
   "series": "Sacred Armory",
   "seriesGroup": "Exclusive/Promotional Keystones",
   "rarity": null,
-  "type": "Ark",
+  "type": "Yo-seiken",
   "catalogNumber": 338,
   "sourceNumber": 6,
   "displayCode": "0103MBW",

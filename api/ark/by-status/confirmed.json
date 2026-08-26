@@ -6783,7 +6783,7 @@
       "series": "Sacred Armory",
       "seriesGroup": "Exclusive/Promotional Keystones",
       "rarity": null,
-      "type": "Ark",
+      "type": "Yo-seiken",
       "catalogNumber": 335,
       "sourceNumber": 3,
       "displayCode": "0101MBU",
@@ -6811,7 +6811,7 @@
       "series": "Sacred Armory",
       "seriesGroup": "Exclusive/Promotional Keystones",
       "rarity": null,
-      "type": "Ark",
+      "type": "Yo-seiken",
       "catalogNumber": 336,
       "sourceNumber": 4,
       "displayCode": "0102MBV",
@@ -6839,7 +6839,7 @@
       "series": "Sacred Armory",
       "seriesGroup": "Exclusive/Promotional Keystones",
       "rarity": null,
-      "type": "Ark",
+      "type": "Yo-seiken",
       "catalogNumber": 337,
       "sourceNumber": 5,
       "displayCode": "0104MBX",
@@ -6867,7 +6867,7 @@
       "series": "Sacred Armory",
       "seriesGroup": "Exclusive/Promotional Keystones",
       "rarity": null,
-      "type": "Ark",
+      "type": "Yo-seiken",
       "catalogNumber": 338,
       "sourceNumber": 6,
       "displayCode": "0103MBW",
@@ -6895,7 +6895,7 @@
       "series": "Sacred Armory",
       "seriesGroup": "Exclusive/Promotional Keystones",
       "rarity": null,
-      "type": "Ark",
+      "type": "Yo-seiken",
       "catalogNumber": 339,
       "sourceNumber": 7,
       "displayCode": "0105MBY",
@@ -6917,13 +6917,41 @@
       "uniqueTagCount": 2
     },
     {
+      "id": "YW-ARK-0340",
+      "legacyId": "YKW-ARK-0340",
+      "name": "Enma Blade",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Yo-seiken",
+      "catalogNumber": 340,
+      "sourceNumber": 8,
+      "displayCode": "0106MBZ",
+      "displayCodes": [
+        "0106MBZ"
+      ],
+      "arkKey": "MBZ",
+      "arkKeys": [
+        "MBZ"
+      ],
+      "numericId": 28943,
+      "numericIds": [
+        28943
+      ],
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0340.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0340.png",
+      "status": "confirmed",
+      "scanCount": 8,
+      "uniqueTagCount": 7
+    },
+    {
       "id": "YW-ARK-0341",
       "legacyId": "YKW-ARK-0341",
       "name": "Golden Stormweaver",
       "series": "Sacred Armory",
       "seriesGroup": "Exclusive/Promotional Keystones",
       "rarity": null,
-      "type": "Ark",
+      "type": "Yo-seiken",
       "catalogNumber": 341,
       "sourceNumber": 9,
       "displayCode": "0108MC1",
@@ -6943,6 +6971,62 @@
       "status": "confirmed",
       "scanCount": 4,
       "uniqueTagCount": 4
+    },
+    {
+      "id": "YW-ARK-0342",
+      "legacyId": "YKW-ARK-0342",
+      "name": "Jaou Ken",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": null,
+      "type": "Yo-seiken",
+      "catalogNumber": 342,
+      "sourceNumber": 10,
+      "displayCode": "0107MC0",
+      "displayCodes": [
+        "0107MC0"
+      ],
+      "arkKey": "MC0",
+      "arkKeys": [
+        "MC0"
+      ],
+      "numericId": 28944,
+      "numericIds": [
+        28944
+      ],
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0342.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0342.png",
+      "status": "confirmed",
+      "scanCount": 9,
+      "uniqueTagCount": 8
+    },
+    {
+      "id": "YW-ARK-0343",
+      "legacyId": "YKW-ARK-0343",
+      "name": "Awakened Enma / Kakusei Enma",
+      "series": "Sacred Armory",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Winter Hobby Toy Fair 2020 Exclusive",
+      "type": "Yo-seiken",
+      "catalogNumber": 343,
+      "sourceNumber": null,
+      "displayCode": "0541MIX",
+      "displayCodes": [
+        "0541MIX"
+      ],
+      "arkKey": "MIX",
+      "arkKeys": [
+        "MIX"
+      ],
+      "numericId": 29193,
+      "numericIds": [
+        29193
+      ],
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0343.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0343.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
     }
   ]
 }
