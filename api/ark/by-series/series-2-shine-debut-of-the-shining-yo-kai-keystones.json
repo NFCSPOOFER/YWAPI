@@ -9,6 +9,7 @@
       "rarity": "Super Extreme Rare (Shining)",
       "type": "Ark",
       "catalogNumber": 15,
+      "sortOrder": 15,
       "sourceNumber": 15,
       "displayCode": "0022M43",
       "displayCodes": [
@@ -37,6 +38,7 @@
       "rarity": "Super Extreme Rare (Shining)",
       "type": "Ark",
       "catalogNumber": 16,
+      "sortOrder": 16,
       "sourceNumber": 16,
       "displayCode": "0021M42",
       "displayCodes": [
@@ -65,6 +67,7 @@
       "rarity": "Extreme Rare (Gold)",
       "type": "Ark",
       "catalogNumber": 17,
+      "sortOrder": 17,
       "sourceNumber": 17,
       "displayCode": "0072M5H",
       "displayCodes": [
@@ -96,6 +99,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 18,
+      "sortOrder": 18,
       "sourceNumber": 18,
       "displayCode": "0049M4U",
       "displayCodes": [
@@ -124,6 +128,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 19,
+      "sortOrder": 19,
       "sourceNumber": 19,
       "displayCode": "0261MAQ",
       "displayCodes": [
@@ -152,6 +157,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 20,
+      "sortOrder": 20,
       "sourceNumber": 20,
       "displayCode": null,
       "displayCodes": [],
@@ -174,6 +180,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 21,
+      "sortOrder": 21,
       "sourceNumber": 21,
       "displayCode": "0027M48",
       "displayCodes": [
@@ -202,6 +209,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 22,
+      "sortOrder": 22,
       "sourceNumber": 22,
       "displayCode": "0030M4B",
       "displayCodes": [
@@ -230,6 +238,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 23,
+      "sortOrder": 23,
       "sourceNumber": 23,
       "displayCode": "0023M44",
       "displayCodes": [
@@ -258,6 +267,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 24,
+      "sortOrder": 24,
       "sourceNumber": 24,
       "displayCode": "0020M41",
       "displayCodes": [
@@ -286,6 +296,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 25,
+      "sortOrder": 25,
       "sourceNumber": 25,
       "displayCode": "0014M3V",
       "displayCodes": [
@@ -314,6 +325,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 26,
+      "sortOrder": 26,
       "sourceNumber": 26,
       "displayCode": "0016M3X",
       "displayCodes": [
@@ -342,6 +354,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 27,
+      "sortOrder": 27,
       "sourceNumber": 27,
       "displayCode": "0024M45",
       "displayCodes": [
@@ -370,6 +383,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 28,
+      "sortOrder": 28,
       "sourceNumber": 28,
       "displayCode": "0045M4Q",
       "displayCodes": [
@@ -398,6 +412,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 29,
+      "sortOrder": 29,
       "sourceNumber": 29,
       "displayCode": "0047M4S",
       "displayCodes": [

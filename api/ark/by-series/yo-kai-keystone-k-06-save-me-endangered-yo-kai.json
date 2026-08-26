@@ -9,6 +9,7 @@
       "rarity": "Super Extreme Rare (Legendary)",
       "type": "Ark",
       "catalogNumber": 231,
+      "sortOrder": 231,
       "sourceNumber": 231,
       "displayCode": "0221M9M",
       "displayCodes": [
@@ -37,6 +38,7 @@
       "rarity": "Super Extreme Rare (Legendary)",
       "type": "Ark",
       "catalogNumber": 232,
+      "sortOrder": 232,
       "sourceNumber": 232,
       "displayCode": "0527MIJ",
       "displayCodes": [
@@ -65,6 +67,7 @@
       "rarity": "Super Extreme Rare (Endangered)",
       "type": "Ark",
       "catalogNumber": 233,
+      "sortOrder": 233,
       "sourceNumber": 233,
       "displayCode": "0525MIH",
       "displayCodes": [
@@ -93,6 +96,7 @@
       "rarity": "Extreme Rare (Stray)",
       "type": "Ark",
       "catalogNumber": 234,
+      "sortOrder": 234,
       "sourceNumber": 234,
       "displayCode": "0526MII",
       "displayCodes": [
@@ -121,6 +125,7 @@
       "rarity": "Extreme Rare (Endangered)",
       "type": "Ark",
       "catalogNumber": 235,
+      "sortOrder": 235,
       "sourceNumber": 235,
       "displayCode": "0522MIE",
       "displayCodes": [
@@ -149,6 +154,7 @@
       "rarity": "Extreme Rare (Endangered)",
       "type": "Ark",
       "catalogNumber": 236,
+      "sortOrder": 236,
       "sourceNumber": 236,
       "displayCode": "0523MIF",
       "displayCodes": [
@@ -177,6 +183,7 @@
       "rarity": "Extreme Rare (Endangered)",
       "type": "Ark",
       "catalogNumber": 237,
+      "sortOrder": 237,
       "sourceNumber": 237,
       "displayCode": "0524MIG",
       "displayCodes": [
@@ -205,6 +212,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 238,
+      "sortOrder": 238,
       "sourceNumber": 238,
       "displayCode": "0528MIK",
       "displayCodes": [
@@ -233,6 +241,7 @@
       "rarity": "Extreme Rare (Daikichi/Miracle)",
       "type": "Ark",
       "catalogNumber": 239,
+      "sortOrder": 239,
       "sourceNumber": 239,
       "displayCode": "0529MIL",
       "displayCodes": [
@@ -261,6 +270,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 240,
+      "sortOrder": 240,
       "sourceNumber": 240,
       "displayCode": "0241MA6",
       "displayCodes": [
@@ -289,6 +299,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 241,
+      "sortOrder": 241,
       "sourceNumber": 241,
       "displayCode": "0242MA7",
       "displayCodes": [
@@ -317,6 +328,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 242,
+      "sortOrder": 242,
       "sourceNumber": 242,
       "displayCode": "0244MA9",
       "displayCodes": [
@@ -345,6 +357,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 243,
+      "sortOrder": 243,
       "sourceNumber": 243,
       "displayCode": "0246MAB",
       "displayCodes": [
@@ -373,6 +386,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 244,
+      "sortOrder": 244,
       "sourceNumber": 244,
       "displayCode": "0379MEF",
       "displayCodes": [
@@ -401,6 +415,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 245,
+      "sortOrder": 245,
       "sourceNumber": 245,
       "displayCode": "0516MI8",
       "displayCodes": [
@@ -429,6 +444,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 246,
+      "sortOrder": 246,
       "sourceNumber": 246,
       "displayCode": "0518MIA",
       "displayCodes": [
@@ -457,6 +473,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 247,
+      "sortOrder": 247,
       "sourceNumber": 247,
       "displayCode": "0519MIB",
       "displayCodes": [
@@ -485,6 +502,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 248,
+      "sortOrder": 248,
       "sourceNumber": 248,
       "displayCode": "0520MIC",
       "displayCodes": [
@@ -513,6 +531,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 249,
+      "sortOrder": 249,
       "sourceNumber": 249,
       "displayCode": "0521MID",
       "displayCodes": [
@@ -541,6 +560,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 250,
+      "sortOrder": 250,
       "sourceNumber": 250,
       "displayCode": "0245MAA",
       "displayCodes": [
@@ -569,6 +589,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 251,
+      "sortOrder": 251,
       "sourceNumber": 251,
       "displayCode": "0352MDO",
       "displayCodes": [
@@ -597,6 +618,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 252,
+      "sortOrder": 252,
       "sourceNumber": 252,
       "displayCode": "0517MI9",
       "displayCodes": [

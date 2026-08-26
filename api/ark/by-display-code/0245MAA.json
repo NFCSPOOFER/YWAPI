@@ -8,6 +8,7 @@
     "rarity": "Normal",
     "type": "Ark",
     "catalogNumber": 250,
+    "sortOrder": 250,
     "sourceNumber": 250,
     "displayCode": "0245MAA",
     "displayCodes": [

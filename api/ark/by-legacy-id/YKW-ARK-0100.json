@@ -8,6 +8,7 @@
     "rarity": "Extreme Rare",
     "type": "Ark",
     "catalogNumber": 100,
+    "sortOrder": 100,
     "sourceNumber": 100,
     "displayCode": "0134M77",
     "displayCodes": [

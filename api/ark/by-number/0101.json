@@ -8,6 +8,7 @@
     "rarity": "Extreme Rare",
     "type": "Ark",
     "catalogNumber": 101,
+    "sortOrder": 101,
     "sourceNumber": 101,
     "displayCode": null,
     "displayCodes": [],

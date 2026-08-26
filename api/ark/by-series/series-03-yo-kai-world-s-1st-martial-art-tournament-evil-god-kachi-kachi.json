@@ -9,6 +9,7 @@
       "rarity": "Ultimate Rare",
       "type": "Ark",
       "catalogNumber": 309,
+      "sortOrder": 309,
       "sourceNumber": 309,
       "displayCode": "0481MH9",
       "displayCodes": [
@@ -37,6 +38,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 310,
+      "sortOrder": 310,
       "sourceNumber": 310,
       "displayCode": "0482MHA",
       "displayCodes": [

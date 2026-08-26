@@ -9,6 +9,7 @@
       "rarity": "CoroCoro Comic Giveaway",
       "type": "Ark",
       "catalogNumber": 325,
+      "sortOrder": 325,
       "sourceNumber": 325,
       "displayCode": "0117M6Q",
       "displayCodes": [
@@ -37,6 +38,7 @@
       "rarity": "Comes with Forever Friends on DVD",
       "type": "Ark",
       "catalogNumber": 326,
+      "sortOrder": 326,
       "sourceNumber": 326,
       "displayCode": "0118M6R",
       "displayCodes": [
@@ -68,6 +70,7 @@
       "rarity": "Pre-order Yo-kai Watch: Forever Friends Tickets",
       "type": "Ark",
       "catalogNumber": 327,
+      "sortOrder": 327,
       "sourceNumber": 327,
       "displayCode": "0069M5E",
       "displayCodes": [
@@ -96,6 +99,7 @@
       "rarity": "Physical Yo-kai Watch 4 (Limited)",
       "type": "Ark",
       "catalogNumber": 328,
+      "sortOrder": 328,
       "sourceNumber": 328,
       "displayCode": "0158M7V",
       "displayCodes": [
@@ -124,6 +128,7 @@
       "rarity": "Buy 10 packs of any keystone set",
       "type": "Ark",
       "catalogNumber": 329,
+      "sortOrder": 329,
       "sourceNumber": 329,
       "displayCode": "0187M8O",
       "displayCodes": [
@@ -152,6 +157,7 @@
       "rarity": null,
       "type": "Ark",
       "catalogNumber": 330,
+      "sortOrder": 330,
       "sourceNumber": 330,
       "displayCode": "0212M9D",
       "displayCodes": [
@@ -180,6 +186,7 @@
       "rarity": "Preorder Yo-kai Academy Y Tickets",
       "type": "Ark",
       "catalogNumber": 331,
+      "sortOrder": 331,
       "sourceNumber": 331,
       "displayCode": "0288MBH",
       "displayCodes": [
@@ -208,6 +215,7 @@
       "rarity": "Yo-kai Watch Fan Magazine Issue #11",
       "type": "Ark",
       "catalogNumber": 332,
+      "sortOrder": 332,
       "sourceNumber": 332,
       "displayCode": "0536MIS",
       "displayCodes": [
@@ -226,6 +234,35 @@
       "status": "confirmed",
       "scanCount": 3,
       "uniqueTagCount": 3
+    },
+    {
+      "id": "YW-ARK-0343",
+      "legacyId": "YKW-ARK-0343",
+      "name": "Awakened Enma / Kakusei Enma",
+      "series": "Other",
+      "seriesGroup": "Exclusive/Promotional Keystones",
+      "rarity": "Winter Hobby Toy Fair 2020 Exclusive",
+      "type": "Ark",
+      "catalogNumber": 343,
+      "sortOrder": 343,
+      "sourceNumber": null,
+      "displayCode": "0541MIX",
+      "displayCodes": [
+        "0541MIX"
+      ],
+      "arkKey": "MIX",
+      "arkKeys": [
+        "MIX"
+      ],
+      "numericId": 29193,
+      "numericIds": [
+        29193
+      ],
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0343.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0343.png",
+      "status": "confirmed",
+      "scanCount": 3,
+      "uniqueTagCount": 2
     }
   ]
 }

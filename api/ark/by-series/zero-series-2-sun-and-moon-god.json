@@ -9,6 +9,7 @@
       "rarity": "Ultimate Rare",
       "type": "Ark",
       "catalogNumber": 95,
+      "sortOrder": 95,
       "sourceNumber": 95,
       "displayCode": null,
       "displayCodes": [],
@@ -31,6 +32,7 @@
       "rarity": "Ultimate Rare",
       "type": "Ark",
       "catalogNumber": 96,
+      "sortOrder": 96,
       "sourceNumber": 96,
       "displayCode": null,
       "displayCodes": [],
@@ -53,6 +55,7 @@
       "rarity": "Super Extreme Rare (Shining)",
       "type": "Ark",
       "catalogNumber": 97,
+      "sortOrder": 97,
       "sourceNumber": 97,
       "displayCode": "0131M74",
       "displayCodes": [
@@ -81,6 +84,7 @@
       "rarity": "Super Extreme Rare (Shining)",
       "type": "Ark",
       "catalogNumber": 98,
+      "sortOrder": 98,
       "sourceNumber": 98,
       "displayCode": "0132M75",
       "displayCodes": [
@@ -109,6 +113,7 @@
       "rarity": "Super Extreme Rare",
       "type": "Ark",
       "catalogNumber": 99,
+      "sortOrder": 99,
       "sourceNumber": 99,
       "displayCode": "0133M76",
       "displayCodes": [
@@ -137,6 +142,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 100,
+      "sortOrder": 100,
       "sourceNumber": 100,
       "displayCode": "0134M77",
       "displayCodes": [
@@ -165,6 +171,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 101,
+      "sortOrder": 101,
       "sourceNumber": 101,
       "displayCode": null,
       "displayCodes": [],
@@ -187,6 +194,7 @@
       "rarity": "Extreme Rare (Gold)",
       "type": "Ark",
       "catalogNumber": 102,
+      "sortOrder": 102,
       "sourceNumber": 102,
       "displayCode": null,
       "displayCodes": [],
@@ -209,6 +217,7 @@
       "rarity": "Extreme Rare (Gold)",
       "type": "Ark",
       "catalogNumber": 103,
+      "sortOrder": 103,
       "sourceNumber": 103,
       "displayCode": "0138M7B",
       "displayCodes": [
@@ -237,6 +246,7 @@
       "rarity": "Extreme Rare (Gold)",
       "type": "Ark",
       "catalogNumber": 104,
+      "sortOrder": 104,
       "sourceNumber": 104,
       "displayCode": null,
       "displayCodes": [],
@@ -259,6 +269,7 @@
       "rarity": "Extreme Rare (Gold)",
       "type": "Ark",
       "catalogNumber": 105,
+      "sortOrder": 105,
       "sourceNumber": 105,
       "displayCode": "0139M7C",
       "displayCodes": [
@@ -287,6 +298,7 @@
       "rarity": "Extreme Rare (Kuroi)",
       "type": "Ark",
       "catalogNumber": 106,
+      "sortOrder": 106,
       "sourceNumber": 106,
       "displayCode": "0116M6P",
       "displayCodes": [

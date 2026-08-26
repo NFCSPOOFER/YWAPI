@@ -9,6 +9,7 @@
       "rarity": "Extreme Rare (Gold)",
       "type": "Ark",
       "catalogNumber": 17,
+      "sortOrder": 17,
       "sourceNumber": 17,
       "displayCode": "0072M5H",
       "displayCodes": [
@@ -40,6 +41,7 @@
       "rarity": "Comes with Forever Friends on DVD",
       "type": "Ark",
       "catalogNumber": 326,
+      "sortOrder": 326,
       "sourceNumber": 326,
       "displayCode": "0118M6R",
       "displayCodes": [

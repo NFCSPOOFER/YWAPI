@@ -80,10 +80,10 @@ console.log(ark.image);
 
 | Section | Status | Count |
 | --- | --- | ---: |
-| Yo-kai Arks | Available | 332 |
+| Yo-kai Arks | Available | 333 |
 | Dream Medals | Planned | 0 |
 | Treasure Medals / T Medals | Planned | 0 |
-| Yo-seiken / Sacred Armory | Available | 11 |
+| Yo-seiken / Sacred Armory | Available | 10 |
 | Yo-kai Y Medals | Planned | 0 |
 | Genju Disks | Planned | 0 |
 

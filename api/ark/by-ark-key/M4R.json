@@ -8,6 +8,7 @@
     "rarity": "Normal",
     "type": "Ark",
     "catalogNumber": 42,
+    "sortOrder": 42,
     "sourceNumber": 42,
     "displayCode": "0046M4R",
     "displayCodes": [

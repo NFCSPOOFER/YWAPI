@@ -8,6 +8,7 @@
     "rarity": "Normal",
     "type": "Ark",
     "catalogNumber": 123,
+    "sortOrder": 123,
     "sourceNumber": 123,
     "displayCode": "0165M82",
     "displayCodes": [

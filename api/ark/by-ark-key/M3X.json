@@ -8,6 +8,7 @@
     "rarity": "Normal",
     "type": "Ark",
     "catalogNumber": 300,
+    "sortOrder": 300,
     "sourceNumber": 300,
     "displayCode": "0016M3X",
     "displayCodes": [

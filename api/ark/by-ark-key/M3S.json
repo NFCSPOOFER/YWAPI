@@ -8,6 +8,7 @@
     "rarity": "Normal",
     "type": "Ark",
     "catalogNumber": 10,
+    "sortOrder": 10,
     "sourceNumber": 10,
     "displayCode": "0011M3S",
     "displayCodes": [

@@ -9,6 +9,7 @@
       "rarity": "Super Extreme Rare (Legendary)",
       "type": "Ark",
       "catalogNumber": 46,
+      "sortOrder": 46,
       "sourceNumber": 46,
       "displayCode": "0101M6A",
       "displayCodes": [
@@ -37,6 +38,7 @@
       "rarity": "Super Extreme Rare (Legendary)",
       "type": "Ark",
       "catalogNumber": 47,
+      "sortOrder": 47,
       "sourceNumber": 47,
       "displayCode": "0128M71",
       "displayCodes": [
@@ -65,6 +67,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 48,
+      "sortOrder": 48,
       "sourceNumber": 48,
       "displayCode": "0006M3N",
       "displayCodes": [
@@ -93,6 +96,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 49,
+      "sortOrder": 49,
       "sourceNumber": 49,
       "displayCode": "0109M6I",
       "displayCodes": [
@@ -121,6 +125,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 50,
+      "sortOrder": 50,
       "sourceNumber": 50,
       "displayCode": "0125M6Y",
       "displayCodes": [
@@ -149,6 +154,7 @@
       "rarity": "Extreme Rare",
       "type": "Ark",
       "catalogNumber": 51,
+      "sortOrder": 51,
       "sourceNumber": 51,
       "displayCode": "0126M6Z",
       "displayCodes": [
@@ -177,6 +183,7 @@
       "rarity": "Extreme Rare (Stray)",
       "type": "Ark",
       "catalogNumber": 52,
+      "sortOrder": 52,
       "sourceNumber": 52,
       "displayCode": "0124M6X",
       "displayCodes": [
@@ -205,6 +212,7 @@
       "rarity": "Daikichi (Crystal)",
       "type": "Ark",
       "catalogNumber": 53,
+      "sortOrder": 53,
       "sourceNumber": 53,
       "displayCode": "0127M70",
       "displayCodes": [
@@ -233,6 +241,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 54,
+      "sortOrder": 54,
       "sourceNumber": 54,
       "displayCode": "0123M6W",
       "displayCodes": [
@@ -261,6 +270,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 55,
+      "sortOrder": 55,
       "sourceNumber": 55,
       "displayCode": "0062M57",
       "displayCodes": [
@@ -289,6 +299,7 @@
       "rarity": "Rare",
       "type": "Ark",
       "catalogNumber": 56,
+      "sortOrder": 56,
       "sourceNumber": 56,
       "displayCode": "0063M58",
       "displayCodes": [
@@ -317,6 +328,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 57,
+      "sortOrder": 57,
       "sourceNumber": 57,
       "displayCode": "0052M4X",
       "displayCodes": [
@@ -345,6 +357,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 58,
+      "sortOrder": 58,
       "sourceNumber": 58,
       "displayCode": "0055M50",
       "displayCodes": [
@@ -373,6 +386,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 59,
+      "sortOrder": 59,
       "sourceNumber": 59,
       "displayCode": "0119M6S",
       "displayCodes": [
@@ -401,6 +415,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 60,
+      "sortOrder": 60,
       "sourceNumber": 60,
       "displayCode": "0120M6T",
       "displayCodes": [
@@ -429,6 +444,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 61,
+      "sortOrder": 61,
       "sourceNumber": 61,
       "displayCode": "0121M6U",
       "displayCodes": [
@@ -457,6 +473,7 @@
       "rarity": "Normal",
       "type": "Ark",
       "catalogNumber": 62,
+      "sortOrder": 62,
       "sourceNumber": 62,
       "displayCode": "0122M6V",
       "displayCodes": [

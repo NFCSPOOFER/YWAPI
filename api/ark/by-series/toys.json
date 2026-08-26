@@ -9,6 +9,7 @@
       "rarity": "DX Yo-Kai Watch Elda (Toy)",
       "type": "Ark",
       "catalogNumber": 315,
+      "sortOrder": 315,
       "sourceNumber": 315,
       "displayCode": "0001M3I",
       "displayCodes": [
@@ -37,6 +38,7 @@
       "rarity": "DX Yo-kai Watch Elda Zero & Jin Power-up Kit",
       "type": "Ark",
       "catalogNumber": 316,
+      "sortOrder": 316,
       "sourceNumber": 316,
       "displayCode": "0065M5A",
       "displayCodes": [
@@ -65,6 +67,7 @@
       "rarity": "DX Enma Rod",
       "type": "Ark",
       "catalogNumber": 317,
+      "sortOrder": 317,
       "sourceNumber": 317,
       "displayCode": null,
       "displayCodes": [],
@@ -87,6 +90,7 @@
       "rarity": "DX Yo-kai Keystone Holder",
       "type": "Ark",
       "catalogNumber": 318,
+      "sortOrder": 318,
       "sourceNumber": 318,
       "displayCode": "0034M4F",
       "displayCodes": [
@@ -115,6 +119,7 @@
       "rarity": "DX Youseiken Series 02",
       "type": "Ark",
       "catalogNumber": 319,
+      "sortOrder": 319,
       "sourceNumber": 319,
       "displayCode": "0035M4G",
       "displayCodes": [
@@ -143,6 +148,7 @@
       "rarity": "DX Youseiken Series 03",
       "type": "Ark",
       "catalogNumber": 320,
+      "sortOrder": 320,
       "sourceNumber": 320,
       "displayCode": "0051M4W",
       "displayCodes": [
@@ -171,6 +177,7 @@
       "rarity": "DX Youseiken Series 04",
       "type": "Ark",
       "catalogNumber": 321,
+      "sortOrder": 321,
       "sourceNumber": 321,
       "displayCode": "0050M4V",
       "displayCodes": [
@@ -199,6 +206,7 @@
       "rarity": "DX Youseiken Series 05",
       "type": "Ark",
       "catalogNumber": 322,
+      "sortOrder": 322,
       "sourceNumber": 322,
       "displayCode": "0036M4H",
       "displayCodes": [
@@ -227,6 +235,7 @@
       "rarity": "DX Yo-kai Watch Elda Model K",
       "type": "Ark",
       "catalogNumber": 323,
+      "sortOrder": 323,
       "sourceNumber": 323,
       "displayCode": "0185M8M",
       "displayCodes": [
@@ -255,6 +264,7 @@
       "rarity": "DX Yo-kai Keystone Holder ver. K",
       "type": "Ark",
       "catalogNumber": 324,
+      "sortOrder": 324,
       "sourceNumber": 324,
       "displayCode": "0186M8N",
       "displayCodes": [

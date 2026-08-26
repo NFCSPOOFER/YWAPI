@@ -9,6 +9,7 @@
       "rarity": "Ultimate Rare (Goku)",
       "type": "Ark",
       "catalogNumber": 305,
+      "sortOrder": 305,
       "sourceNumber": 305,
       "displayCode": "0254MAJ",
       "displayCodes": [
@@ -37,6 +38,7 @@
       "rarity": "Extreme Rare (Goku)",
       "type": "Ark",
       "catalogNumber": 306,
+      "sortOrder": 306,
       "sourceNumber": 306,
       "displayCode": "0255MAK",
       "displayCodes": [

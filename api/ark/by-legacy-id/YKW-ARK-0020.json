@@ -8,6 +8,7 @@
     "rarity": "Rare",
     "type": "Ark",
     "catalogNumber": 20,
+    "sortOrder": 20,
     "sourceNumber": 20,
     "displayCode": null,
     "displayCodes": [],
