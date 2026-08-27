@@ -85,7 +85,7 @@ console.log(ark.image);
 | Treasure Medals / T Medals | Planned | 0 |
 | Yo-seiken / Sacred Armory | Available | 10 |
 | Yo-kai Y Medals | Planned | 0 |
-| Genju Disks | Planned | 0 |
+| Animas Disks | Planned | 0 |
 
 ## Endpoint Map
 

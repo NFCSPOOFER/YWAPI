@@ -27,6 +27,6 @@ The API structure is ready to expand into:
 - Treasure Medals / T Medals
 - Yo-seiken
 - Yo-kai Y Medals
-- Genju Disks
+- Animas Disks
 
 Each section should get its own folder under `/api`, its own images folder, and the same style of index, lookup, status, and CSV exports.

@@ -57,7 +57,7 @@ The source QR workbook organizes Yo-kai Watch NFC/QR collectibles by family tabs
 | Dream Medals | Planned |
 | Treasure Medals / T Medals | Planned |
 | Yo-kai Y Medals | Planned |
-| Genju Disks | Planned |
+| Animas Disks | Planned |
 | Other Medals | Planned / research only |
 
 ## Game Reward Fields
