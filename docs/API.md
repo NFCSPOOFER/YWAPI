@@ -16,7 +16,8 @@ Collection endpoints return an array named after the section:
 
 ```json
 {
-  "ark": []
+  "ark": [],
+  "animas": []
 }
 ```
 
@@ -43,6 +44,22 @@ Single-item endpoints return one object:
 | By ItemID / numeric ID | `GET /api/ark/by-numeric-id/28940.json` |
 | By series | `GET /api/ark/by-series/sacred-armory.json` |
 | By status | `GET /api/ark/by-status/confirmed.json` |
+
+## Animas Endpoints
+
+| Purpose | Request |
+| --- | --- |
+| All Animas Disks | `GET /api/animas/index.json` |
+| All Animas Disks alias | `GET /api/animas/all.json` |
+| CSV export | `GET /api/animas/animas.csv` |
+| By YWAPI ID | `GET /api/animas/by-id/YW-ANIMAS-0001.json` |
+| By legacy ID | `GET /api/animas/by-legacy-id/YKW-ANIMAS-0001.json` |
+| By catalog number | `GET /api/animas/by-number/0001.json` |
+| By display code | `GET /api/animas/by-display-code/0111MJF.json` |
+| By Ark key | `GET /api/animas/by-ark-key/MJF.json` |
+| By ItemID / numeric ID | `GET /api/animas/by-numeric-id/29211.json` |
+| By series | `GET /api/animas/by-series/animas-disks.json` |
+| By status | `GET /api/animas/by-status/single-scan.json` |
 
 ## Game Reward Endpoints
 
@@ -165,7 +182,7 @@ Catalog ID reward lookups return an array because a small number of catalog entr
 | `series` | string or null | Specific product/set series. |
 | `seriesGroup` | string or null | Larger series grouping. |
 | `rarity` | string or null | Rarity or release label, when known. |
-| `type` | string | Item type. Current catalog values include `Ark` and `Yo-seiken`. |
+| `type` | string | Item type. Current catalog values include `Ark`, `Yo-seiken`, and `Animas Disk`. |
 | `catalogNumber` | number | Catalog number. |
 | `sourceNumber` | number or null | Number from the source spreadsheet/list, when present. |
 | `displayCode` | string or null | Primary decoded display code for app matching. |
@@ -179,6 +196,7 @@ Catalog ID reward lookups return an array because a small number of catalog entr
 | `status` | string | `confirmed`, `single_scan`, `missing`, or `conflict`. |
 | `scanCount` | number | Successful scan count in the community dataset. |
 | `uniqueTagCount` | number | Unique physical UID count in the community dataset. |
+| `sourceScanIds` | string[] | Supabase scan IDs that support this catalog identity when the item was promoted from community scans. |
 
 ## App Lookup Order
 

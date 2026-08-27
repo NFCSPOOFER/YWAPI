@@ -1,0 +1,2 @@
+ark_key,display_code,id,image,image_back,legacy_id,name,numeric_id,scan_count,series,series_group,source_scan_ids,status,type,unique_tag_count
+MJF,0111MJF,YW-ANIMAS-0001,https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/front/YW-ANIMAS-0001.png,https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/back/YW-ANIMAS-0001.png,YKW-ANIMAS-0001,Suzaku,29211,1,Animas Disks,Yo-kai Watch Animas,073c8432-d08a-47b2-bb88-f32fefebc6a7,single_scan,Animas Disk,1

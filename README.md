@@ -11,7 +11,7 @@ It is built in the spirit of AmiiboAPI: simple static JSON, stable image URLs, n
 </p>
 
 <p align="center">
-  <a href="api/ark/index.json"><img alt="Catalog Items" src="https://img.shields.io/badge/Items-343-2f80ed"></a>
+  <a href="api/index.json"><img alt="Catalog Items" src="https://img.shields.io/badge/Items-344-2f80ed"></a>
   <a href="api/status/index.json"><img alt="Confirmed" src="https://img.shields.io/badge/Confirmed-251-28a745"></a>
   <a href="docs/API.md"><img alt="Static JSON" src="https://img.shields.io/badge/API-static%20JSON-111827"></a>
   <a href="docs/CONTRIBUTING.md"><img alt="Community" src="https://img.shields.io/badge/Community-preservation-f59e0b"></a>
@@ -29,12 +29,14 @@ Fetch the current Yo-kai Watch NFC catalog:
 
 ```text
 GET /api/ark/index.json
+GET /api/animas/index.json
 ```
 
 Direct URL:
 
 ```text
 https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/api/ark/index.json
+https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/api/animas/index.json
 ```
 
 Lookup by decoded NFC identity / ItemID:
@@ -85,7 +87,7 @@ console.log(ark.image);
 | Treasure Medals / T Medals | Planned | 0 |
 | Yo-seiken / Sacred Armory | Available | 10 |
 | Yo-kai Y Medals | Planned | 0 |
-| Animas Disks | Planned | 0 |
+| Animas Disks | In progress | 1 |
 
 ## Endpoint Map
 
@@ -93,7 +95,9 @@ console.log(ark.image);
 | --- | --- |
 | API summary | `/api/index.json` |
 | All catalog items | `/api/ark/index.json` |
+| All Animas Disks | `/api/animas/index.json` |
 | Catalog CSV export | `/api/ark/ark.csv` |
+| Animas CSV export | `/api/animas/animas.csv` |
 | By YWAPI ID | `/api/ark/by-id/YW-ARK-0338.json` |
 | By legacy project ID | `/api/ark/by-legacy-id/YKW-ARK-0338.json` |
 | By catalog number | `/api/ark/by-number/0338.json` |

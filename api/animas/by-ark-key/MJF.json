@@ -1,0 +1,34 @@
+{
+  "animas": {
+    "id": "YW-ANIMAS-0001",
+    "legacyId": "YKW-ANIMAS-0001",
+    "name": "Suzaku",
+    "series": "Animas Disks",
+    "seriesGroup": "Yo-kai Watch Animas",
+    "rarity": null,
+    "type": "Animas Disk",
+    "catalogNumber": 1,
+    "sortOrder": 1,
+    "sourceNumber": null,
+    "displayCode": "0111MJF",
+    "displayCodes": [
+      "0111MJF"
+    ],
+    "arkKey": "MJF",
+    "arkKeys": [
+      "MJF"
+    ],
+    "numericId": 29211,
+    "numericIds": [
+      29211
+    ],
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1,
+    "sourceScanIds": [
+      "073c8432-d08a-47b2-bb88-f32fefebc6a7"
+    ],
+    "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/front/YW-ANIMAS-0001.png",
+    "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/back/YW-ANIMAS-0001.png"
+  }
+}
