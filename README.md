@@ -11,7 +11,7 @@ It is built in the spirit of AmiiboAPI: simple static JSON, stable image URLs, n
 </p>
 
 <p align="center">
-  <a href="api/index.json"><img alt="Catalog Items" src="https://img.shields.io/badge/Items-344-2f80ed"></a>
+  <a href="api/index.json"><img alt="Catalog Items" src="https://img.shields.io/badge/Items-345-2f80ed"></a>
   <a href="api/status/index.json"><img alt="Confirmed" src="https://img.shields.io/badge/Confirmed-251-28a745"></a>
   <a href="docs/API.md"><img alt="Static JSON" src="https://img.shields.io/badge/API-static%20JSON-111827"></a>
   <a href="docs/CONTRIBUTING.md"><img alt="Community" src="https://img.shields.io/badge/Community-preservation-f59e0b"></a>
@@ -87,7 +87,7 @@ console.log(ark.image);
 | Treasure Medals / T Medals | Planned | 0 |
 | Yo-seiken / Sacred Armory | Available | 10 |
 | Yo-kai Y Medals | Planned | 0 |
-| Animas Disks | In progress | 1 |
+| Animas Disks | In progress | 2 |
 
 ## Endpoint Map
 
