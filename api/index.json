@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-28T21:57:03+00:00",
+  "generatedAt": "2026-08-28T22:25:26+00:00",
   "arkCount": 343,
-  "animasCount": 4,
-  "totalItemCount": 347,
+  "animasCount": 5,
+  "totalItemCount": 348,
   "imageFrontCount": 343,
   "imageBackCount": 340,
-  "animasImageFrontCount": 4,
-  "animasImageBackCount": 4,
+  "animasImageFrontCount": 5,
+  "animasImageBackCount": 5,
   "statusCounts": {
     "confirmed": 253,
     "single_scan": 56,
