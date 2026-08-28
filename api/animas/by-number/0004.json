@@ -1,0 +1,34 @@
+{
+  "animas": {
+    "id": "YW-ANIMAS-0004",
+    "legacyId": "YKW-ANIMAS-0004",
+    "name": "Byakko",
+    "series": "Animas Disks",
+    "seriesGroup": "Yo-kai Watch Animas",
+    "rarity": null,
+    "type": "Animas Disk",
+    "catalogNumber": 4,
+    "sortOrder": 4,
+    "sourceNumber": null,
+    "displayCode": "0113MJH",
+    "displayCodes": [
+      "0113MJH"
+    ],
+    "arkKey": "MJH",
+    "arkKeys": [
+      "MJH"
+    ],
+    "numericId": 29213,
+    "numericIds": [
+      29213
+    ],
+    "status": "single_scan",
+    "scanCount": 1,
+    "uniqueTagCount": 1,
+    "sourceScanIds": [
+      "073451c0-da2a-425b-aab9-5d1886048dbc"
+    ],
+    "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/front/YW-ANIMAS-0004.png",
+    "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/back/YW-ANIMAS-0004.png"
+  }
+}
