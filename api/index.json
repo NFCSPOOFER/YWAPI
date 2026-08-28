@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-27T20:04:22+00:00",
+  "generatedAt": "2026-08-28T21:33:53+00:00",
   "arkCount": 343,
-  "animasCount": 2,
-  "totalItemCount": 345,
+  "animasCount": 3,
+  "totalItemCount": 346,
   "imageFrontCount": 343,
   "imageBackCount": 340,
-  "animasImageFrontCount": 2,
-  "animasImageBackCount": 2,
+  "animasImageFrontCount": 3,
+  "animasImageBackCount": 3,
   "statusCounts": {
-    "confirmed": 251,
-    "single_scan": 57,
+    "confirmed": 253,
+    "single_scan": 56,
     "conflict": 2,
-    "missing": 33
+    "missing": 32
   },
   "gameRewards": {
     "entryCount": 218,

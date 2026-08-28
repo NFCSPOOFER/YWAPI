@@ -63,6 +63,38 @@
       ],
       "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/front/YW-ANIMAS-0002.png",
       "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/back/YW-ANIMAS-0002.png"
+    },
+    {
+      "id": "YW-ANIMAS-0003",
+      "legacyId": "YKW-ANIMAS-0003",
+      "name": "Genbu",
+      "series": "Animas Disks",
+      "seriesGroup": "Yo-kai Watch Animas",
+      "rarity": null,
+      "type": "Animas Disk",
+      "catalogNumber": 3,
+      "sortOrder": 3,
+      "sourceNumber": null,
+      "displayCode": "0114MJI",
+      "displayCodes": [
+        "0114MJI"
+      ],
+      "arkKey": "MJI",
+      "arkKeys": [
+        "MJI"
+      ],
+      "numericId": 29214,
+      "numericIds": [
+        29214
+      ],
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1,
+      "sourceScanIds": [
+        "5109105e-ab9f-476e-b6f8-c570f5e75195"
+      ],
+      "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/front/YW-ANIMAS-0003.png",
+      "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/animas/back/YW-ANIMAS-0003.png"
     }
   ]
 }

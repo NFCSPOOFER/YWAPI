@@ -25,9 +25,9 @@
       ],
       "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0046.png",
       "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0046.png",
-      "status": "single_scan",
-      "scanCount": 1,
-      "uniqueTagCount": 1
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
     },
     {
       "id": "YW-ARK-0047",

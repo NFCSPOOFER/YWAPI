@@ -257,9 +257,9 @@
       ],
       "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0009.png",
       "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0009.png",
-      "status": "single_scan",
-      "scanCount": 1,
-      "uniqueTagCount": 1
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
     },
     {
       "id": "YW-ARK-0010",
@@ -1315,9 +1315,9 @@
       ],
       "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0046.png",
       "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0046.png",
-      "status": "single_scan",
-      "scanCount": 1,
-      "uniqueTagCount": 1
+      "status": "confirmed",
+      "scanCount": 2,
+      "uniqueTagCount": 2
     },
     {
       "id": "YW-ARK-0047",
@@ -8367,17 +8367,23 @@
       "catalogNumber": 294,
       "sortOrder": 294,
       "sourceNumber": 294,
-      "displayCode": null,
-      "displayCodes": [],
-      "arkKey": null,
-      "arkKeys": [],
-      "numericId": null,
-      "numericIds": [],
+      "displayCode": "0064M59",
+      "displayCodes": [
+        "0064M59"
+      ],
+      "arkKey": "M59",
+      "arkKeys": [
+        "M59"
+      ],
+      "numericId": 28701,
+      "numericIds": [
+        28701
+      ],
       "image": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/front/YW-ARK-0294.png",
       "imageBack": "https://raw.githubusercontent.com/NFCSPOOFER/YWAPI/main/images/ark/back/YW-ARK-0294.png",
-      "status": "missing",
-      "scanCount": 0,
-      "uniqueTagCount": 0
+      "status": "single_scan",
+      "scanCount": 1,
+      "uniqueTagCount": 1
     },
     {
       "id": "YW-ARK-0295",
